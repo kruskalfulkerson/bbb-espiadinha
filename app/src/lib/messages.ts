@@ -119,6 +119,58 @@ export const safeDate = (value: string | null | undefined) => {
   return Number.isNaN(date.getTime()) ? null : date;
 };
 
+type ParticipantMentionRule = {
+  aliases?: string[];
+  contextualAliases?: Array<{
+    alias: string;
+    prefixes: string[];
+  }>;
+  excludedPhrases?: string[];
+  matchFirstName?: boolean;
+};
+
+const FEMININE_CONTEXT_PREFIXES = [
+  'a',
+  'da',
+  'na',
+  'pra a',
+  'para a',
+  'com a',
+  'dona',
+] as const;
+
+const MASCULINE_CONTEXT_PREFIXES = [
+  'o',
+  'do',
+  'no',
+  'pro',
+  'pra o',
+  'para o',
+  'com o',
+] as const;
+
+const PARTICIPANT_MENTION_RULES: Record<string, ParticipantMentionRule> = {
+  'alberto cowboy': {
+    aliases: ['cowboy'],
+  },
+  edilson: {
+    contextualAliases: [
+      { alias: 'capeta', prefixes: [...MASCULINE_CONTEXT_PREFIXES, 'edilson'] },
+      { alias: 'capetinha', prefixes: [...MASCULINE_CONTEXT_PREFIXES, 'edilson'] },
+    ],
+  },
+  leandro: {
+    contextualAliases: [{ alias: 'boneco', prefixes: [...MASCULINE_CONTEXT_PREFIXES, 'leandro'] }],
+  },
+  pedro: {
+    excludedPhrases: ['pedro sampaio'],
+  },
+  'sol vega': {
+    matchFirstName: false,
+    contextualAliases: [{ alias: 'sol', prefixes: [...FEMININE_CONTEXT_PREFIXES, 'sol vega'] }],
+  },
+};
+
 const countMentions = (normalizedText: string, query: string) => {
   const safe = escapeRegex(normalize(query));
   if (!safe) return false;
@@ -126,9 +178,58 @@ const countMentions = (normalizedText: string, query: string) => {
   return regex.test(normalizedText);
 };
 
+const removeStandalonePhrase = (normalizedText: string, phrase: string) => {
+  const safe = escapeRegex(normalize(phrase));
+  if (!safe) return normalizedText;
+  const regex = new RegExp(`(^|[^a-z0-9])${safe}([^a-z0-9]|$)`, 'gi');
+  return normalizedText.replace(regex, '$1 $2');
+};
+
+const countContextualMention = (normalizedText: string, alias: string, prefixes: string[]) => {
+  const safeAlias = escapeRegex(normalize(alias));
+  const safePrefixes = prefixes
+    .map((prefix) => escapeRegex(normalize(prefix)))
+    .filter(Boolean)
+    .sort((a, b) => b.length - a.length);
+
+  if (!safeAlias || safePrefixes.length === 0) return false;
+
+  const regex = new RegExp(
+    `(^|[^a-z0-9])(?:${safePrefixes.join('|')})\\s+${safeAlias}([^a-z0-9]|$)`,
+    'i',
+  );
+
+  return regex.test(normalizedText);
+};
+
 const countParticipantMention = (normalizedText: string, participantName: string) => {
-  const [firstName] = participantName.split(' ');
-  return countMentions(normalizedText, participantName) || countMentions(normalizedText, firstName);
+  const normalizedParticipantName = normalize(participantName);
+  const [firstNameRaw] = participantName.split(' ');
+  const firstName = normalize(firstNameRaw || '');
+  const rule = PARTICIPANT_MENTION_RULES[normalizedParticipantName];
+
+  let textToSearch = normalizedText;
+  for (const excludedPhrase of rule?.excludedPhrases || []) {
+    textToSearch = removeStandalonePhrase(textToSearch, excludedPhrase);
+  }
+
+  if (countMentions(textToSearch, participantName)) return true;
+
+  if ((rule?.matchFirstName ?? true) && firstName && countMentions(textToSearch, firstName)) {
+    return true;
+  }
+
+  if ((rule?.aliases || []).some((alias) => countMentions(textToSearch, alias))) {
+    return true;
+  }
+
+  if (
+    (rule?.contextualAliases || []).some(({ alias, prefixes }) => countContextualMention(textToSearch, alias, prefixes))
+  ) {
+    return true;
+  }
+
+  return false;
 };
 
 export const normalizeMessage = (message: Message): Message => ({
@@ -379,4 +480,3 @@ export const formatSyncDateTime = (value: string | null | undefined) => {
     minute: '2-digit',
   });
 };
-
