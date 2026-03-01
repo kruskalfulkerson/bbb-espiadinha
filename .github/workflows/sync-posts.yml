@@ -1,0 +1,52 @@
+name: Sync Telegram posts
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Sync posts from Telegram public page
+        env:
+          TG_CHANNEL: espiadinha
+          TG_FIRST_POST_ID: '168574'
+          TG_RECENT_REFRESH_PAGES: '6'
+          TG_BACKFILL_PAGE_LIMIT: '1200'
+          TG_NAVIGATION_TIMEOUT_MS: '45000'
+          TG_STABILIZE_TIMEOUT_MS: '1500'
+        run: npm run sync
+
+      - name: Commit updated JSON
+        run: |
+          if git diff --quiet -- public/posts.json; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/posts.json
+          git commit -m "chore(sync): update Telegram posts"
+          git push
