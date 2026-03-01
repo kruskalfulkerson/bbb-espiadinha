@@ -6,6 +6,10 @@ on:
       - main
       - master
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Sync Telegram posts"]
+    types:
+      - completed
 
 permissions:
   contents: read
@@ -18,7 +22,9 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -49,6 +55,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
