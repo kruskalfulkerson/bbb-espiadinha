@@ -1682,7 +1682,6 @@ export default function Page() {
           <div className={cls('flex items-center justify-center rounded-full border px-4 py-3 text-center text-xs sm:text-sm', theme === 'dark' ? 'border-zinc-800 bg-zinc-950/70 text-zinc-400' : 'border-zinc-200 bg-white/80 text-zinc-500')}>
             <span>
               Feito com <span role="img">🔮</span> por Tilap.io
-              </a>
             </span>
           </div>
         </footer>
