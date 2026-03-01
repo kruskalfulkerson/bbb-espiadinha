@@ -872,7 +872,7 @@ export default function Page() {
 
                 <div className="grid gap-3 sm:grid-cols-3 lg:grid-cols-1 xl:grid-cols-3">
                   {(summaryCards.length > 0 ? summaryCards : [
-                    { label: 'Nome do momento', value: 'Carregando...', accent: 'text-indigo-400', helper: 'Analisando menções...' },
+                    { label: 'Nome do momento', value: '—', accent: 'text-indigo-400', helper: 'Analisando menções...' },
                     { label: 'Hora mais agitada', value: '—', accent: 'text-rose-400', helper: 'Lendo horários do feed...' },
                     { label: 'Emoji do momento', value: '—', accent: 'text-emerald-400', helper: 'Conferindo reações...' },
                   ]).map((item) => (
