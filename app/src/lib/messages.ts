@@ -169,6 +169,9 @@ const PARTICIPANT_MENTION_RULES: Record<string, ParticipantMentionRule> = {
     matchFirstName: false,
     contextualAliases: [{ alias: 'sol', prefixes: [...FEMININE_CONTEXT_PREFIXES, 'sol vega'] }],
   },
+  jordana: {
+    aliases: ['jordan'],
+  },
 };
 
 const countMentions = (normalizedText: string, query: string) => {
