@@ -2,9 +2,9 @@
   "metadata": {
     "channel": "espiadinha",
     "source": "https://t.me/s/espiadinha",
-    "syncedAt": "2026-10-14T23:07:55.435Z",
-    "count": 24393,
-    "latestId": 194302,
+    "syncedAt": "2026-10-15T01:40:30.916Z",
+    "count": 24394,
+    "latestId": 194303,
     "earliestId": 168574,
     "firstPostId": 168574,
     "backfillComplete": true,
@@ -12,6 +12,39 @@
     "scraper": "playwright"
   },
   "posts": [
+    {
+      "id": 194303,
+      "date": "2026-10-14T22:31:17-03:00",
+      "text": "🇧🇷 MOMENTO HISTÓRICO! Em vitória de Lula, Senado aprova PEC do fim da escala 6x1 e trabalhador terá dois dias de folga por semana.\n\nMudança na Constituição deve ser promulgada na próxima semana, a dias da eleição; PL cede e vota a favor da mudança.",
+      "photo": "https://cdn1.telesco.pe/file/lkw5-m7OsPdmPeixfX2aqpenwtdaCvGHWzEGXmAdj3kqeF6h2VxzGtvUQxvzxCe70hop_Q6LRXKj0_vbyjeWDixo_vRz-BRfDbnFM66WJYUjBPapDgsQh9T7y34GKvZM3V1iZnT_chKyVsxL4AEr-NEBZsKwcC1mDYxHdYIF6kR4jZ_o3BZLNkrkf_K3Fx6cnGRjNJNXRlveX5YZDQ0zhAQUSAbqoeAnzr_n3b9-RF0Nzn1IysTAWeh8CkjpGFCsK7nRwXADLle78eWLFU8zDA6eAUgMPvdWtheR2z2j6dPalpGmBF64KY88PtXcfVm7WbfuWxNTiQYKy-S9_FnUow.jpg",
+      "video": null,
+      "hasMedia": true,
+      "mediaType": "image",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": 115
+        },
+        {
+          "emoji": "🕊",
+          "count": 7
+        },
+        {
+          "emoji": "🎉",
+          "count": 3
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": 2
+        },
+        {
+          "emoji": "🔥",
+          "count": 2
+        }
+      ],
+      "totalReactions": 129,
+      "postUrl": "https://t.me/espiadinha/194303"
+    },
     {
       "id": 194302,
       "date": "2026-10-13T16:47:25-03:00",
@@ -23,11 +56,11 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": 472
+          "count": 485
         },
         {
           "emoji": "❤",
-          "count": 30
+          "count": 32
         },
         {
           "emoji": "😁",
@@ -54,7 +87,7 @@
           "count": 3
         }
       ],
-      "totalReactions": 532,
+      "totalReactions": 547,
       "postUrl": "https://t.me/espiadinha/194302"
     },
     {
@@ -68,7 +101,7 @@
       "reactions": [
         {
           "emoji": "😱",
-          "count": 226
+          "count": 227
         },
         {
           "emoji": "🕊",
@@ -83,7 +116,7 @@
           "count": 4
         }
       ],
-      "totalReactions": 324,
+      "totalReactions": 325,
       "postUrl": "https://t.me/espiadinha/194301"
     },
     {
@@ -97,7 +130,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 827
+          "count": 832
         },
         {
           "emoji": "🎉",
@@ -136,14 +169,14 @@
           "count": 2
         }
       ],
-      "totalReactions": 932,
+      "totalReactions": 937,
       "postUrl": "https://t.me/espiadinha/194300"
     },
     {
       "id": 194298,
       "date": "2026-10-07T23:22:32-03:00",
       "text": "BORA! Sem derrotismo, veja formas estratégicas de agir nas redes sociais:\n\n1. Para quem você vai falar? Adapte a estética \n🇧🇷\n\nComo é o conteúdo digital que os seus colegas do trabalho, seus avós, seus irmãos de fé consomem? É preciso falar na linguagem deles. Seja vídeo com IA, edição tosca, banner usando cores da bandeira, influencers gritando, o importante é que a mensagem chegue num formato que não gere aversão (não defenda o Lula, ataque o Flávio e o clã Bolsonaro).\n\n2. Amplie seu alcance 👥\n\nNão fale apenas para o eco algorítmico que concorda com você. Status do Zap e Facebook são ótimos exemplos de como podemos alcançar pessoas conhecidas.\n\n3. Ouça o outro \n👂\n\nA insatisfação da população é legítima. Em conversas e em posts fora da sua bolha, não perca seu tempo xingando os outros. Identifique qual projeto do Governo Lula pode beneficiar a vida da pessoa e qual projeto do Governo Bolsonaro pode prejudica-la diretamente, faça perguntas e mostre comparações baseadas em fatos (leis, notícias, falas públicas dos candidatos, etc).\n\n🔖 MATERIAIS DE APOIO:\n\n↘️ Site\n\n↘️ Acervo de mídias\n\n↘️ Drive alternativo\n\nInformem-se, organizem-se!",
-      "photo": "https://cdn1.telesco.pe/file/OgKfARiPDitgN2GF-il6bOF_i5rCmhUSkV0f_PlvVwOP2VD2FyJ1XYsmoy7341i3POOsfUxelsg7GcUlEiubJadRYZmuuPipSVgAzmUZkkJPfY7vF_w0zehVfpKyQqb5RPC15HWFmYUg7MbIOiDLeGCAJ98-KXfmhqdUQg9m2RbO2_8c6ewIMnSTHYy7qUR5R6lNBqh0uFINervfsMbG_hbBQ_fsQXPWKnrectHoMGhYlTJjfkqIff2vD3awdOdN9GZzDX5-yLHabkrwPkoJ6Zf7j3wSVdP3Z06PqzQTL7J9ragKBC-aLopXhOxOPY6dxsi4P1bsihHCHMuPVdx4bA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/ZX8bfuljuZ24G0qeuNfofvlGLVu3BtJnjjebnoKtHmK6jPAs8l59dBGg_H_guaYbwAkI0b2dt5QqiixpHgXabX7HRXnN8AbHxFF01SXPyZsy7l9OTyiwTmmLwHTA_8l4czkc_Jomt_nZVBWoLpznTIhbTYi6fAG1eUBS1DLOToTS6Mw6j63MTaJhgFLpQFIjNfUm0P_i-heV-tVXKZSbRZn35fdMBp4J7KmnS4WmrnJV1GX4ER5WdJCcOksJ-fn9Eyx0ZpC-yiCRhDTcSbLVwUTYO2kbvwYCb9Q2mZV81uknX7mZ-QFyytfszZuBee571DtDau7PQLKICkTGCgmrRw.jpg",
       "video": "https://cdn4.telesco.pe/file/d82c224c02.webm?token=sP-C4g7yevrx0raxIOP_PTntSN0keXe-fB4guY8swLAX0ysE_4Y1k2mdjL_Dw1vQVcTRkgpwN7kJGR-_3JbRIRdWShdeqMvTuJtf6ZUZfj_8I8R-p87OLVsDSu91p7CYarnvaM45T92sjSa0novnb7lyiWvbuJ_u4tc_cozmwSc7i0ObmkMq2gZ2gpVNIkZA91kIx2cOkLiG6Y_ZSY7-8wQKqGs2VqcQd36Vp1knAplZrqQKNrOtwXaHm5rWgBP0Cnu25y5GTsi0GDXkvPJJNLBgheddJV9EU6zKSdTOkjQdr2dcnHWVbj9Wf-Jn-WnBKlF_5cE1FTyNnDwBovrHIg",
       "hasMedia": true,
       "mediaType": "video",
@@ -154,7 +187,7 @@
         },
         {
           "emoji": "❤",
-          "count": 79
+          "count": 80
         },
         {
           "emoji": "🏆",
@@ -189,21 +222,21 @@
           "count": 1
         }
       ],
-      "totalReactions": 869,
+      "totalReactions": 870,
       "postUrl": "https://t.me/espiadinha/194298"
     },
     {
       "id": 194296,
       "date": "2026-10-06T22:46:51-03:00",
       "text": "INACEITÁVEL! Flávio Bolsonaro quer alterar a Constituição e mexer nos seus direitos \n🫵\n\nEm evento com apoiadores, Flávio Bolsonaro disse que quer \"mudar a Constituição\" para \"redemocratizar esse país\", mas não detalhou o que pretende alterar:\n\n\"Com a maioria no Senado, com a maioria na Câmara para fazer o presidente da Câmara, para gente mudar a Constituição e redemocratizar esse país\".\n\nContexto constitucional: a Constituição tem cláusulas pétreas, que só podem ser modificadas para ampliar direitos. Mudanças pontuais são feitas por PEC, que exige maioria na Câmara e no Senado. Já uma nova Constituição só é possível via Assembleia Nacional Constituinte.",
-      "photo": "https://cdn1.telesco.pe/file/QqSofuCRczgMOjys20QNHMVBs4IyP7BWWKW2CG-ixHG47_W9Y-3Eji8bXfOwdi9EHr4b6oOTbJM0_i3ZG-cWUr4SyQs5IQpZOLVQUd3-n53UT0FA2IBJZcM8phb5jgxXI81QwyK5QPiaAO6vO67ytbKGkN3X4jXcwH-Qo6GYjtsiLm_Ebwevj_4dXGemYYm2RT1s9Daur-XZ5apNWSWkiQkUW99Ek3Es7LIpyacEVMtKm3XIdZuvusDHAraOoGe7DGvFuSuoyv7uLP-XCgPr3Ly646cLdwTtJhu8-oHqxz4CQq6UM81l5bFXumLhsB0l3AfLBdWxZ0C_n-XrqY7r5Q.jpg",
+      "photo": "https://cdn1.telesco.pe/file/I-5jWt0LtlRZ-Kh_CzAeHmJPG5wzpvUum1zG80ZG6Urx8gq29EbsCPl7B1XpGsRzWmfNNlq9_E9bzQvqgYcVirEgc2J1jR262N_QmfcYigMoFl6dKPHAxj71l2JoQu6HjZP4zKGVdHgoUznN3QoVICCZjKccf7WiNShxj6DYEXGBcNEAEbT7XSN7ZInBIiv2RO5_phP7sV3ZbZnhqPku0Y8tJmWytPGA7JU4vHhYrbIE25lqDuhUBfZiiyc1wYCrdKOD4LRkCnsBjEVrRTHdy_UXqopZWW0iYPrpNkmfUkL7FPF_oKuGm3GoHasEUdiqUyn8_ssej36gMA6s49KrPg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "🤮",
-          "count": 810
+          "count": 811
         },
         {
           "emoji": "🏆",
@@ -242,7 +275,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 934,
+      "totalReactions": 935,
       "postUrl": "https://t.me/espiadinha/194296"
     },
     {
@@ -3217,7 +3250,7 @@
       "reactions": [
         {
           "emoji": "🤮",
-          "count": 272
+          "count": 273
         },
         {
           "emoji": "😁",
@@ -3256,7 +3289,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 386,
+      "totalReactions": 387,
       "postUrl": "https://t.me/espiadinha/194219"
     },
     {
@@ -3270,7 +3303,7 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": 647
+          "count": 648
         },
         {
           "emoji": "😱",
@@ -3301,7 +3334,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 820,
+      "totalReactions": 821,
       "postUrl": "https://t.me/espiadinha/194218"
     },
     {
@@ -3315,7 +3348,7 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": 626
+          "count": 627
         },
         {
           "emoji": "😭",
@@ -3346,7 +3379,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 843,
+      "totalReactions": 844,
       "postUrl": "https://t.me/espiadinha/194217"
     },
     {
