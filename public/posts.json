@@ -2,9 +2,9 @@
   "metadata": {
     "channel": "espiadinha",
     "source": "https://t.me/s/espiadinha",
-    "syncedAt": "2026-10-15T23:38:08.269Z",
-    "count": 24396,
-    "latestId": 194305,
+    "syncedAt": "2026-10-16T03:19:42.472Z",
+    "count": 24397,
+    "latestId": 194306,
     "earliestId": 168574,
     "firstPostId": 168574,
     "backfillComplete": true,
@@ -12,6 +12,39 @@
     "scraper": "playwright"
   },
   "posts": [
+    {
+      "id": 194306,
+      "date": "2026-10-15T20:58:42-03:00",
+      "text": "🇧🇷TARIFA ZERO! Lula fala sobre PEC de gratuidade nos transportes públicos aos finais de semana.\n\n“Vou enviar ao Congresso Nacional uma PEC para garantir passe livre nos finais de semana em todas as cidades brasileiras que tenham transporte coletivo. Porque o trabalhador e a trabalhadora merecem mais do que tempo para descansar”, diz texto publicado nas redes sociais do presidente.",
+      "photo": "https://cdn1.telesco.pe/file/GOtONL0XTitczsa9PFLLR24iBYKdivhFdn4x1IOHQMN2pdQPPKOXWrlgtxpuvgaEUkoBthmV226k4Ua4INMPC_YM0X463zsdYqhn29sq6_FNF2sTz0GI2aznCxlW8M-84HQH77plLxmsAL40yL_sBw7J07FtlenUvEMpAW_XUvuT9H8L-xyNo2xiVeqYAE73DFd9EpSlXPA2CcSatoR4rUjsEqNbJdsG5xmlUH06ax3z-1-lV-9U7DhGrwZWLyrAxkXosVk-Vu2t0RGRD5dA6ZBAV9Rnw7fyMQuMVUiqY4ivrwqMFl6tf5o3J8K9QMcA7Cc5I7etqgV9RZ3OQ_Kcxw.jpg",
+      "video": null,
+      "hasMedia": true,
+      "mediaType": "image",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": 177
+        },
+        {
+          "emoji": "👏",
+          "count": 33
+        },
+        {
+          "emoji": "🤣",
+          "count": 16
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": 4
+        },
+        {
+          "emoji": "🏆",
+          "count": 2
+        }
+      ],
+      "totalReactions": 232,
+      "postUrl": "https://t.me/espiadinha/194306"
+    },
     {
       "id": 194305,
       "date": "2026-10-15T17:11:35-03:00",
@@ -23,19 +56,19 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": 120
+          "count": 149
         },
         {
           "emoji": "🤮",
-          "count": 90
+          "count": 114
+        },
+        {
+          "emoji": "🤬",
+          "count": 6
         },
         {
           "emoji": "🔥",
           "count": 4
-        },
-        {
-          "emoji": "🤬",
-          "count": 3
         },
         {
           "emoji": "😢",
@@ -43,40 +76,44 @@
         },
         {
           "emoji": "😱",
-          "count": 1
+          "count": 2
+        },
+        {
+          "emoji": "👀",
+          "count": 2
         },
         {
           "emoji": "❤",
           "count": 1
         },
         {
-          "emoji": "👀",
+          "emoji": "👏",
           "count": 1
         }
       ],
-      "totalReactions": 222,
+      "totalReactions": 281,
       "postUrl": "https://t.me/espiadinha/194305"
     },
     {
       "id": 194304,
       "date": "2026-10-15T00:01:57-03:00",
       "text": "🇧🇷 Lula comemora aprovação da PEC do fim da escala 6x1.\n\n\"Hoje é dia de comemorar uma conquista histórica de milhões de trabalhadores e trabalhadoras. O fim da 6x1 é mais do que uma mudança na jornada. É mais tempo para viver, descansar, estar com a família, acompanhar os filhos crescerem, cuidar de si e aproveitar a vida. Eu tenho certeza que uma conquista como essa jamais será revogada porque não foi uma conquista burocrática, foi uma conquista que saiu da rua e de um desejo histórico do povo trabalhador. Portanto, que quero parabenizar o povo que foi pra rua, quero parabenizar os senadores e senadoras que votaram favorável porque o povo merece respeito e conquistaram esse respeito.\"",
-      "photo": "https://cdn1.telesco.pe/file/RqhOfjNGfRkqrm-619SKnbvRDu7cCqKQDj0tJg9r2PfyKXZLRTGh3xW1ITlKwd78YFuX_2diSSLHmvZcKdLUfEDVS1cIsq7V66JTfBn98z8uN7fDiSYCECtXEincx1Ds0Op2y5moB4Xqrp9eoU3lLUdx4AuxSGC_exE45TBzk2Os2KCe6SOZk6h3yklE3GfPHtCkM_xH5HwEX6Uqh_UfngwVt97zzumTUfFM4gmS5Qu6erMb9NQMyKaKNH4IH20c44LXTw72BRYt_pv_8RAzmhjKFmXvwkolE5xryNnd0otGHoMxMh6sWVgo5VeJQZDVi6HaWFgibrh7D-j0-U_YSA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/u7AJg1OcjWevpsb-DS_2keFYPGpg0AY8J-hUNOUO4Cr1nDMXfg5PUVnbtg0ju2osDk-FQtdE1oqnIzlQY1KrBLIJ-G4vBtqlffRqglFouALYYYSs3PGIQy-FNf3HPwBIhngsGyKbZorRKiWF_cD_NxtjXcbSOngOvd6I2nPaDKBtXbDIhd_Epc_4FcVeSGizranniwgoN0d0FGOY65GWc5FVKvcKwPhDuUJkF-k2N1I4Rf0GSDBz07XWljk6RDAX2bniDQspQC96HZ0CcmhBzaxtCS7C_ClAyDx8hBQs63JfQwfFABKP08fNDmziwLWLbbTqtod2Nl0y_Oq9S2ACMQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "❤",
-          "count": 471
+          "count": 490
         },
         {
           "emoji": "🎉",
-          "count": 33
+          "count": 37
         },
         {
           "emoji": "🤣",
-          "count": 18
+          "count": 19
         },
         {
           "emoji": "🔥",
@@ -84,7 +121,7 @@
         },
         {
           "emoji": "❤‍🔥",
-          "count": 6
+          "count": 7
         },
         {
           "emoji": "🕊",
@@ -99,29 +136,29 @@
           "count": 1
         }
       ],
-      "totalReactions": 541,
+      "totalReactions": 566,
       "postUrl": "https://t.me/espiadinha/194304"
     },
     {
       "id": 194303,
       "date": "2026-10-14T22:31:17-03:00",
       "text": "🇧🇷 MOMENTO HISTÓRICO! Em vitória de Lula, Senado aprova PEC do fim da escala 6x1 e trabalhador terá dois dias de folga por semana.\n\nMudança na Constituição deve ser promulgada na próxima semana, a dias da eleição; PL cede e vota a favor da mudança.",
-      "photo": "https://cdn1.telesco.pe/file/lkw5-m7OsPdmPeixfX2aqpenwtdaCvGHWzEGXmAdj3kqeF6h2VxzGtvUQxvzxCe70hop_Q6LRXKj0_vbyjeWDixo_vRz-BRfDbnFM66WJYUjBPapDgsQh9T7y34GKvZM3V1iZnT_chKyVsxL4AEr-NEBZsKwcC1mDYxHdYIF6kR4jZ_o3BZLNkrkf_K3Fx6cnGRjNJNXRlveX5YZDQ0zhAQUSAbqoeAnzr_n3b9-RF0Nzn1IysTAWeh8CkjpGFCsK7nRwXADLle78eWLFU8zDA6eAUgMPvdWtheR2z2j6dPalpGmBF64KY88PtXcfVm7WbfuWxNTiQYKy-S9_FnUow.jpg",
+      "photo": "https://cdn1.telesco.pe/file/kKIhBy5Pef_wdzd-gA30_FfRaZ_6f4T8RvdrgQNWCpbwGD0iHJz1XGLNLaWCiIGvJHZDxA0hV9cfAJ7Elgr8HAgWxJHOOE2YkzUIxZz4TNYN5hmjTLhQZlR8mBwK-_9TGekKrDdt5bRoTwea3JMSIHfTE6oSsdHIn5lvqNZ7JVWaiSez-RSEywjjsF_CPSH83p1n2k13dYNSE10HBQ6o0FEhipweB-RaomKE--_ikjHgDV-Dwwt50fJaTvbweV0AOFSI-Mr0NnBY9H5EdoU7HRR94rHt-2O2UAgkoHfzv1WTHQdBgRcK0o80ZvD6B2zMSocXmou_s1U7onKt4ZBCFw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "❤",
-          "count": 530
+          "count": 544
         },
         {
           "emoji": "🎉",
-          "count": 44
+          "count": 51
         },
         {
           "emoji": "🕊",
-          "count": 11
+          "count": 12
         },
         {
           "emoji": "🔥",
@@ -132,7 +169,7 @@
           "count": 5
         }
       ],
-      "totalReactions": 596,
+      "totalReactions": 618,
       "postUrl": "https://t.me/espiadinha/194303"
     },
     {
@@ -146,15 +183,15 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": 544
+          "count": 550
         },
         {
           "emoji": "❤",
-          "count": 38
+          "count": 39
         },
         {
           "emoji": "😁",
-          "count": 8
+          "count": 9
         },
         {
           "emoji": "🤬",
@@ -177,7 +214,7 @@
           "count": 3
         }
       ],
-      "totalReactions": 614,
+      "totalReactions": 622,
       "postUrl": "https://t.me/espiadinha/194302"
     },
     {
@@ -191,7 +228,7 @@
       "reactions": [
         {
           "emoji": "😱",
-          "count": 236
+          "count": 238
         },
         {
           "emoji": "🕊",
@@ -206,7 +243,7 @@
           "count": 4
         }
       ],
-      "totalReactions": 340,
+      "totalReactions": 342,
       "postUrl": "https://t.me/espiadinha/194301"
     },
     {
@@ -220,7 +257,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 858
+          "count": 860
         },
         {
           "emoji": "🎉",
@@ -259,14 +296,14 @@
           "count": 2
         }
       ],
-      "totalReactions": 967,
+      "totalReactions": 969,
       "postUrl": "https://t.me/espiadinha/194300"
     },
     {
       "id": 194298,
       "date": "2026-10-07T23:22:32-03:00",
       "text": "BORA! Sem derrotismo, veja formas estratégicas de agir nas redes sociais:\n\n1. Para quem você vai falar? Adapte a estética \n🇧🇷\n\nComo é o conteúdo digital que os seus colegas do trabalho, seus avós, seus irmãos de fé consomem? É preciso falar na linguagem deles. Seja vídeo com IA, edição tosca, banner usando cores da bandeira, influencers gritando, o importante é que a mensagem chegue num formato que não gere aversão (não defenda o Lula, ataque o Flávio e o clã Bolsonaro).\n\n2. Amplie seu alcance 👥\n\nNão fale apenas para o eco algorítmico que concorda com você. Status do Zap e Facebook são ótimos exemplos de como podemos alcançar pessoas conhecidas.\n\n3. Ouça o outro \n👂\n\nA insatisfação da população é legítima. Em conversas e em posts fora da sua bolha, não perca seu tempo xingando os outros. Identifique qual projeto do Governo Lula pode beneficiar a vida da pessoa e qual projeto do Governo Bolsonaro pode prejudica-la diretamente, faça perguntas e mostre comparações baseadas em fatos (leis, notícias, falas públicas dos candidatos, etc).\n\n🔖 MATERIAIS DE APOIO:\n\n↘️ Site\n\n↘️ Acervo de mídias\n\n↘️ Drive alternativo\n\nInformem-se, organizem-se!",
-      "photo": "https://cdn1.telesco.pe/file/ZX8bfuljuZ24G0qeuNfofvlGLVu3BtJnjjebnoKtHmK6jPAs8l59dBGg_H_guaYbwAkI0b2dt5QqiixpHgXabX7HRXnN8AbHxFF01SXPyZsy7l9OTyiwTmmLwHTA_8l4czkc_Jomt_nZVBWoLpznTIhbTYi6fAG1eUBS1DLOToTS6Mw6j63MTaJhgFLpQFIjNfUm0P_i-heV-tVXKZSbRZn35fdMBp4J7KmnS4WmrnJV1GX4ER5WdJCcOksJ-fn9Eyx0ZpC-yiCRhDTcSbLVwUTYO2kbvwYCb9Q2mZV81uknX7mZ-QFyytfszZuBee571DtDau7PQLKICkTGCgmrRw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/GYPqQo40Yuj5iKHYI66Pm45HbygCbV1kiq_Is2NYZ3vW3od2vNTkbvO-329AJdyHOp2-vbfEXrGdy-KSV0KGHQocYL8QlQXlAkLXM5MHrPpXGpf-qhYFUntUFRiazvGNjXt7kwj_ghhLeLjTMpdpy60oeSbBCg3w65tdGzct4v4Nmpay4GOi45hpeSSyC99GFpg4nI7PDjw2WmK9TQH91bu-CxxLdEfyhVjtfIpKfwbAWoAMBhi3GUq4I5rCNR6iw0lpGSi59k1GLOcmyvwUThiBHLI0Oj5IyFXIc9mKrHkai8GA_-Cc0UoA1CIohAXTTscnijHWcelGpCghTpf5xQ.jpg",
       "video": "https://cdn4.telesco.pe/file/d82c224c02.webm?token=EkD27IY3-omRR2j43Qkuk0CF22uWr49nTWl-SoO2Ph2pHWJ-58wg4I-eZLKpudKH12Ez7Tp5elnKEnriRqVrQJBAi9GywSOBFBFB-r9V1cxujKPgAlR-V7iYCXLupq4ZfKQPZvsuB5F5kgDp7oggVoz3CO3Fgc9GJ8nKqqbZrG8sdcshfXqTzM66aCHNBOXt78PWZkkw0l0SVp9_fcsBrXqxEzMnI2B89t3KWWVDNgcq8L2OhWqAsS9Lpv5yibAXEfsEOW7tN5vGZFXRtUUNCy1nyniLboQJoxb763xMl5JjJ8dLkqQunCO5wLYmesq6A23qpWSlWaXn-uH7f-w3rA",
       "hasMedia": true,
       "mediaType": "video",
@@ -277,7 +314,7 @@
         },
         {
           "emoji": "❤",
-          "count": 80
+          "count": 81
         },
         {
           "emoji": "🏆",
@@ -312,21 +349,21 @@
           "count": 1
         }
       ],
-      "totalReactions": 877,
+      "totalReactions": 878,
       "postUrl": "https://t.me/espiadinha/194298"
     },
     {
       "id": 194296,
       "date": "2026-10-06T22:46:51-03:00",
       "text": "INACEITÁVEL! Flávio Bolsonaro quer alterar a Constituição e mexer nos seus direitos \n🫵\n\nEm evento com apoiadores, Flávio Bolsonaro disse que quer \"mudar a Constituição\" para \"redemocratizar esse país\", mas não detalhou o que pretende alterar:\n\n\"Com a maioria no Senado, com a maioria na Câmara para fazer o presidente da Câmara, para gente mudar a Constituição e redemocratizar esse país\".\n\nContexto constitucional: a Constituição tem cláusulas pétreas, que só podem ser modificadas para ampliar direitos. Mudanças pontuais são feitas por PEC, que exige maioria na Câmara e no Senado. Já uma nova Constituição só é possível via Assembleia Nacional Constituinte.",
-      "photo": "https://cdn1.telesco.pe/file/I-5jWt0LtlRZ-Kh_CzAeHmJPG5wzpvUum1zG80ZG6Urx8gq29EbsCPl7B1XpGsRzWmfNNlq9_E9bzQvqgYcVirEgc2J1jR262N_QmfcYigMoFl6dKPHAxj71l2JoQu6HjZP4zKGVdHgoUznN3QoVICCZjKccf7WiNShxj6DYEXGBcNEAEbT7XSN7ZInBIiv2RO5_phP7sV3ZbZnhqPku0Y8tJmWytPGA7JU4vHhYrbIE25lqDuhUBfZiiyc1wYCrdKOD4LRkCnsBjEVrRTHdy_UXqopZWW0iYPrpNkmfUkL7FPF_oKuGm3GoHasEUdiqUyn8_ssej36gMA6s49KrPg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/D-8SJZDxUnr7bz6sfKXxg547WRODeuzXWgXiOO7r0BECKpqtzZl8t-MUMrGhETRp0t1uXGOjg7W-RlHXEzb-KmlYaqJHUwrwLmRXjz_7EFwkbsKGv58VctWZ3-d8AX2xh175yXHakY6OQVpdVnX7bt7P1dyc-GDTPOKggr4UBLdOsKtioMWSv8NGxRCXTCsvphVHZ31XhDETA4AzUKfK1yu1wWv39XOIvwBquYQBRGIlvTJyMJH7Cm8TMgDOVH7jKE5S9Yx2Sf-L_sToQ28OzbuEKmzjIaARoSVBSLvdHtur7WWQSjEbkVgWUHWuHnzcdlZwm8CeTgtXW99mnv61lw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "🤮",
-          "count": 816
+          "count": 817
         },
         {
           "emoji": "🏆",
@@ -365,7 +402,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 940,
+      "totalReactions": 941,
       "postUrl": "https://t.me/espiadinha/194296"
     },
     {
@@ -379,7 +416,7 @@
       "reactions": [
         {
           "emoji": "😢",
-          "count": 407
+          "count": 408
         },
         {
           "emoji": "🙏",
@@ -408,9 +445,13 @@
         {
           "emoji": "👏",
           "count": 1
+        },
+        {
+          "emoji": "😁",
+          "count": 1
         }
       ],
-      "totalReactions": 570,
+      "totalReactions": 572,
       "postUrl": "https://t.me/espiadinha/194294"
     },
     {
@@ -594,15 +635,15 @@
           "count": 7
         },
         {
+          "emoji": "❤",
+          "count": 3
+        },
+        {
           "emoji": "🥰",
           "count": 2
         },
         {
           "emoji": "🤯",
-          "count": 2
-        },
-        {
-          "emoji": "❤",
           "count": 2
         },
         {
@@ -614,7 +655,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 532,
+      "totalReactions": 533,
       "postUrl": "https://t.me/espiadinha/194288"
     },
     {
@@ -690,9 +731,13 @@
         {
           "emoji": "👎",
           "count": 2
+        },
+        {
+          "emoji": "🎉",
+          "count": 1
         }
       ],
-      "totalReactions": 799,
+      "totalReactions": 800,
       "postUrl": "https://t.me/espiadinha/194286"
     },
     {
@@ -898,7 +943,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 723
+          "count": 724
         },
         {
           "emoji": "💋",
@@ -937,7 +982,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 839,
+      "totalReactions": 840,
       "postUrl": "https://t.me/espiadinha/194281"
     },
     {
@@ -3476,7 +3521,7 @@
       "id": 194216,
       "date": "2026-08-17T23:07:57-03:00",
       "text": "Juliano Floss (ex-BBB 26) e Marina Sena anunciam fim do namoro.\n\n“Aos que sempre torceram, ao carinho por nossa história, em respeito a tudo que vivemos juntos, comunico aqui o fim do meu relacionamento com Marina”, escreveu o tiktoker.",
-      "photo": "https://cdn1.telesco.pe/file/MfKNwnOn4s2i2V5X3TxuWlcqjkZRSGamJxRJw7sqPu6QvIxkCBmUip5mqQrDYV_eeJtAOephNnlG0__nzfUGylZQsp94TNszaZx47tvg--ANEVejvPtAiV80MS_4mV0ddytxHeJDDzUAXeAu1IHWhiw_zXfeNJuXMMUgsk-w-vJjLpKsu8rgVRacLd8Bi6AualXrB42zs5FmUSkgHyX-K-RG-fJcjvENxuyrPMVWMir9buXpDnQd_GS8kUKzcs8uPELrviceZHd9vFugotCJjcJt1X26IwXGjnMyTJkwkkGJeDZwcfA4zpAQJNxTBXa5aZkBTkWlg0SiNsQvskxIWw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/YHME-HlPnXUKseX6068Xk5-5RKigr9oosXl7T4AkZu6kTX6o96FBAcALcucbYf7fsy0xWQMkLJVG6epDvc7vyLtZZXtsCB-KpETYCeVp8J0jAIZeKfFxG6PN4NMr5KyR8KoMWeHmFCU-8cVLFpub11I6wvYKNBS-UigyruRaSiwytzS8BSaHXj367JqCIi9K540fVs2zEuzfGljlOCV2omAo7qVjuC3pT0bm7e9bkbyPRlEb2sN6_EAYL3Q6QeLClD1CuuGVoi0meiU1GQPiHvX4Wbbw4JYifsIMaBB2fFWbBTZoCXqH_R47gN3r1l6LRdU2OBkAPFEn6O57DkoEHw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3529,8 +3574,8 @@
       "id": 194215,
       "date": null,
       "text": "🤠 Rodrigo Carelli, diretor de A Fazenda, mostra os bastidores da reforma na sede do reality rural.\n\nA Fazenda 18 estreia no dia 14 de Setembro.",
-      "photo": "https://cdn1.telesco.pe/file/OC9getNTq4e1cuBXADVCYrSOL7YdwlB3sOM6zDhmTigeJ1YZc1na2o55YDhUYgPq4a055wEPjJZEhVB486Qj80uA3z6PLzG9tmAgspyzUUDGZ9gZ2MtsVuRcilh-g4Og5Nzbm2Oom2yzFGiL7sMe3QyS9H333Eu9X8UA_gHdRYz2GdLxOC20HGXGBpbRZQJ3TPe0sjITVDt9tGNCKjHwJxoq8nAc_XunTixKdqSN4OG-8taGwam4uoBuYKcx3ZvcRo1PqWaVSyvzUkJ5f8pN75sUezQDpo6zATfmNDA4f1H2bQ34QdziRR6TRju0aIiZSTwUXdze2s6JoICdJMhH_w",
-      "video": "https://cdn1.telesco.pe/file/4cfdae4eb7.mp4?token=ECUfKQ4LwOh8qgM3U1LJmQw_TBWFCiivsIvDW_kWxuxEHPE_5wKRtWZGj3z-TtR-QODLDxUv0hTaEVqcgePhlfH6tJKmM6XXO7_TAPL2pUuWI-Km120mb7wtSnjJVOzAUyZzQKT2ZzUYq7ZGv61UjP2iz0vgugXZyUGHPT3N5QQLj_rkJ790ft6m0ttwSmJOcxm6WqFau-c10LDvnoRAbO98wnTx79B19XF2Ofo91cwnDlF9KlQqUGl2zp8n6sEZZe7w6va-wdwOd_-pX_K5cra9BvKYR3w08IxTmjjdNRRUZzOSk_6FGZd95leyoTJmSDplCTPtE82Gj4fxj4YE-KBnHbj7CEKexetLce69VZaaM-aeLKAtci2XSeWr0lZ66GbceWKldg0k0Xn8nFX2EeQG_UKPZ29CYiQXGuUjS7sfqIeDgXDwhmVB9ESNQ9lWpxYrJDJ5PBQgwP_i_JBjXW39Im01mc8Qx01ONjB3KdY4C7NqRfOaUkPpen0T5pkjiqzFz20TsLdrVJ31rzr-vRVB10639ShWlvbkX-Yl8m6bVgHR0VfrUDGQ53qs027qmyEdjW2L_nBzm0rFmjzEDmSu3llt-gwS2jQqjvjwi7RZ2aidlfONEwLp3EUqy7NGNTDVt8lcCBRXYQlg8TKvBeZdqMrbOG1ByylEC6ffAmI",
+      "photo": "https://cdn1.telesco.pe/file/X0pQa_Eh105NNgmo4gP3JBGO0sR_CaVr_e3J2eWljGPOrV9UFQGPifJdSo452OBTUH6Gfv7MGWNtofslhpGSWLf0Ap0bKtJxgbl_b12OXlJ7q6SumkBLqYGoTZ4qVhQLTCGBVvXRYcLny7ZbRBN9EwIEnKVOrCtGhBn6oqzYnHZXoeHxk5R28zjUgpCtWXgQVHdIyj69x_W6sekv5A8OXR0x442awWUTulipWUzQsOMQSLtduuvJBSz1z9pEExigM2ywH-9rK_xcec8mCG-6aklOKpdcMvm1lzpvsXG-IMCViYtVhhcRD8dVZyZgeXiSZD_7YHc2Ica4_QOjpdzVQQ",
+      "video": "https://cdn1.telesco.pe/file/4cfdae4eb7.mp4?token=ECUfKQ4LwOh8qgM3U1LJmQw_TBWFCiivsIvDW_kWxuxEHPE_5wKRtWZGj3z-TtR-QODLDxUv0hTaEVqcgePhlfH6tJKmM6XXO7_TAPL2pUuWI-Km120mb7wtSnjJVOzAUyZzQKT2ZzUYq7ZGv61UjP2iz0vgugXZyUGHPT3N5QQLj_rkJ790ft6m0ttwSmJOcxm6WqFau-c10LDvnoRAbO98wnTx79B19XF2Ofo91cwnDlF9KlQqUGl2zp8n6sEZZe7w6va-wdwOd_-pX_K5cra9BvKYR3w08IxTmjjdNRRUZzOSk_6FGZd95leyoTJmSDplCTPtE82Gj4fxj4YE-JairB2u10nYTGvE8byIArGaBrh-up0FH0mjsHySp7GPD6qj52w7EqH8q-vAvj2mmGTpY_C8EHvBLSkZ2cCWnRW7qiF8I5IlPAO1r7Wd9NPQN-THCCSvoVMsj5EB6kbU9Z-HinOF1NTXrqdzq60EeNsdxXQUOluIfH05fA4KNsc3cGibRfBqaTR58G_loYfIDtC8cnizOouRJKmXmy2S9xiIYGcTr0Rj0l2emZDSk6Aopnx50rU5cXD5VxJpoQJ8DW-xpskx0JxZ-ZvKzYV_q6mgcY0yJVH81HF4T1ymjcfNJknBZGHbVnqu-VObyx2XM_LX3B1c1ypfxlGFo-MkxjU",
       "hasMedia": true,
       "mediaType": "video",
       "reactions": [
@@ -3746,7 +3791,7 @@
       "id": 194210,
       "date": "2026-08-10T10:02:30-03:00",
       "text": "Ex-marido de Maria da Penha foi preso neste domingo após conceder entrevista falando sobre a tentativa de assassinato contra ela nos anos 80.\n\nA prisão foi determinada pela Justiça do Ceará, em cumprimento a uma ordem de captura internacional que estava ativa contra ele. Marco Antonio Heredia Viveros foi condenado por tentar matar a ativista em 1983, episódio que a deixou paraplégica.\n\n• O caso deu origem à Lei Maria da Penha, sancionada em 2006 e considerada um marco no combate à violência doméstica no Brasil.",
-      "photo": "https://cdn1.telesco.pe/file/kE6iselV1fnDJvEd1qatBfXJjxNnMjamzRFI49CJjmvAZMBolX94gbf6IUtHAYYYD7ZcoRQfhigEEl9-G3d7jSMWPu8WXGUNaRBFN8rAboFk6JpZb3ndAJH60vHB7f-SnY4SuFabCiG6jPvJFiIagqWQjAbmbA4uWTTR4zcvEKvuOOXCOUmQPiOnZLqb6EXGGbKzKj_AS_0bFHaisDKkZT73xw2XISqI6gP6MJi5xWm7xjiX97Ime8Cx0HtT4QsRQA6X3_pV5ntR5u44ddLyQDQaD1PIzEjuofhDErniCkRFsrx0bVrlrQB8EAKUD5cz_aJIo1Y-7FsCK2ci7eyHPA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/ruM9ZkEgrqyj7mqSzUvZAYzHUAvItxMoA8m0hOMJVeWqdqHmUNF_rwWDaIiOutX3W-urtX19-xhIZCUNQAN0z4JAbnytOaZGc9rDGbkqHUKv20fA_2FWWspj6n8LoJTA_0lP710SNuE5fLtY2P_Z32lA8YGkDOf5AXxU33etAk0xsMenW03LU4D48tCx_HmkdMePHx8up3FetACx6EM_TeWXve0vDxIU7xe6ldMl0MYtBlbij6ts-oo9nnVqXxaYE6_Zw8InAZ2_Qu8OD0BsOSaGih9QrJN0r8hqY9ssP4o1UjFJe3UmQJgYEb_mixj6cTLvQnI6P03eykmLSSKFwQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3865,7 +3910,7 @@
       "id": 194207,
       "date": "2026-08-09T14:33:31-03:00",
       "text": "🇧🇷 Dia de vitórias! Flávia Saraiva brilha em Brasília com 4 medalhas e Rayssa Leal conquista o título da etapa carioca da SLS Rio Takeover.\n\nA ginasta conquistou medalha de ouro no solo, na trave e no individual geral feminino, além da prata nas barras assimétricas do Campeonato Brasileiro de Ginástica. Além disso, foi a atleta com o maior número de medalhas entre homens e mulheres.\n\nJá no Rio de Janeiro, a skatista foi campeã da terceira etapa da temporada da Liga Internacional de Skate Street. Já havia vencido a primeira etapa na Austrália e agora se coloca em posição privilegiada para disputar o Super Crown em São Paulo, em dezembro.",
-      "photo": "https://cdn1.telesco.pe/file/ZTZ5W9DMwvE5Ly1V2I0M6VvIoV4XC6X6hfsZETLQojWh49B4i-o5CTgq8VeYkhGhRfCC8MNV5Rh6KFpO9AZw1k5Qsti33Uh-BYHMMimKEVtvnfTn6X9R6GzFPF__YNkiJlNWNnvCiA0qvanodlPcnh3PMEts0EZWUYA4L0LlwmUGcM3tHqJ2NACOM-dNG6FpxPBsYHH8iTG_ZBqIW4kX_O1uRJVMitq9jxsRDv0tH04g192krZr0EyPVk8cTz-ZJCB7jylZ_5kUuq6fl5Sasem5vV71JCrwt_k0Knr3O_9JNDLuCK1Rj_DTqaUezdD2QbeF_kvin1keU-qUXtNoIcg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/Z1YtkTVvdKwhZ4VgRmLWvdqRkPvw5ZjrNEhxYBauC2qoyWdpDNghWqgee3wcwW_mT7_ypHJy3WvLQKz1NMPpj3-aXfc2pZ0OZl9V7LxrQBZNTm57MkPmD1OKStXw7xZhGaDJirHbHHYlc_aDdDmPRPqd6E6Ij0974nyLRHEL1VNVa4AUQ0fDHhP0Rtoz3gvaS4qq4JZCPrFMUQhNVm-KI3jQC847ZDMUdkaPI4sOxhW43cJ1JUIMiA3hBygmoViAl_DRpVcEBnxYYo-TR9itb0fdzd1w2lJYcX5w1D4hK-LWddWrgxM4a9Ponp4wjSk2wMq2FqFq2PXsCEfFT7tnrw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3935,7 +3980,7 @@
       "id": 194205,
       "date": "2026-08-06T23:25:40-03:00",
       "text": "🌟 Conheça os candidatos do Pop para o ‘Estrelas da Casa’.\n \nPeu Heise.\nAtualmente, integra a banda Tamarins. Toca violão, guitarra, piano e baixo. \n \nBruno Gadiol.\nEm 2013, participou de um concurso musical no ‘TV Xuxa’ e saiu vencedor ao lado de outros três participantes. Também construiu carreira como ator, com passagens por ‘Malhação – Viva a Diferença’ e ‘As Five’.  \n \nFilgueira.\nAinda criança, começou a chamar atenção pela voz ao imitar canções de ‘O Rei Leão’. Recentemente viralizou imitando Marina Sena. \n \nGabriel Nandes.\nJá compôs com Xamã e assinou a trilha sonora do filme “O Velho e o Fusca”.\n \nYudchi.\nPossui formação em jazz, balé e sapateado desenvolvida em Los Angeles.\n\nEnzo Cespom.\nFaz parte do grupo vocal Acidentalmente Amor, que cria versões em português de músicas internacionais.\n \nRob Miranda\nAtualmente está focado na produção de um novo álbum e pretende sair em turnê após seu lançamento.\n\nÁlec.\nConhecido pelos vizinhos como o “Michael Jackson do Pará”.",
-      "photo": "https://cdn1.telesco.pe/file/ZYb-ljxBbS_SZKIvuas1I550r1G37HpyNdObY3VFWTAcNfAMxMIoMC_I_A5-swtKGpRgcLyr2pIChQ0KqVfXplCd9F0KwwcEeqfjPYpGA5tlOx_uGqMJzVvziek-XliddWlVUt3_V7nsmYFbO26zuRkVJWGdE0zwIIQvB6zgmxxzgjsRNytfNT0ULDlcn-3_SqLmsVZ83BiaUTWqJRgHlNYAxG4X3lJNqp-FUegEGVHFJPdvpldgB8sX8qTxxWvNnxsvONYZUpOBz8QvTLeXs2IX80oPHKtycyDzHOxgpZlJxQ6LLWSd8lbvvuZLycuP5fK1z-9GRLSX-uSTnGLAtA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/KADR1qAA8m0a63wSMkWqBNzVRplLaJq9_oqli9U6L6MltiTOzwRNzww7377AI-oL6LkVLS7BX5oXqbSmz6zWYk9U7_UJBFl-eJvXPCegtmcsdyH-6kkDnEYxYlC_aCIPk2HIJxgH_paHZSsZ3wj0b-dYjev78bUPAb7sKoKeZuq9ToBPxA4wHlDx5PQrpFD3QaIrI5PFrW9WrqIQMPl5WWDzXrGcD_w_r4DXJvKlHUG5ZKsctTwQ77SqCgSbnPZUaD7rORxTCz_bjY1ySg1cmT-VTLwXJ4iVu4EHhogSUC-X5hfb6KaNSekSKtwfmyOPblz9uoI4sKlBmpDs_rMAeg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3984,7 +4029,7 @@
       "id": 194204,
       "date": "2026-08-05T12:32:59-03:00",
       "text": "🌟 As Estrelas da Casa tão vindo aí! Nos dias 6 e 7, durante a programação da TV Globo, você vai conhecer os candidatos da nova temporada! Todo mundo pronto pra escolher seu fav e puxar torcida pro time Pagode ou Time Pop?\n\nDia 25 de agosto, estreia a nova temporada!",
-      "photo": "https://cdn1.telesco.pe/file/jhsn6CYLqLXu1s9juHOfVq2ALddPhNpkvMt4ZSOTQhQfXEBSCWoBOPvS1qd6QCut05dRXqzJ9hZy_gPB6tD0kbXQVn0tdZ6n_Hu4n4EM25H25h5BRxLzMSMgA2Plah1DUqJRSxKxXhP7UjW-6euiawAvrwO2zTuoLB7tWLQQ6aFxYEraCK_c30XJz5TRrYXUgnL3pkeH8AANaYjg3e842gQ4J_ICq30JFpeMqPbdyT_1OLC9M-6L4noPlzypqhCwXak8IZ8RYHAhr0DYjd4vX9CSXsHpFlT-UdFTTPXpmqncGBy38I311mferBXsgVh3UhvA4FRwh6gB8jqTQ1mMjQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/og-KG3IO9KluB_H-QViQP8DHbI2qDvQ9NRGsIacvAGxLH1xNbsjccX9DFuCV7tBclhWEB2SYRHHIX2_CNijQNTIi_z6ZKxin2fbjcVxrmLTfYzcFWnVCMZnDXOgmSbl9QRMu9QkYOHsvzOfN4KC0pcLFKqwBehsYjH0SMe9vezEneCgv8YKBMuPrxEID9Tn8j2yYY-UizRLueIT1qQVxcRodENZ_YCyqt67lhLfr82x4O5RU2IBYs3ttop38N-FqxLhSiT9BjZM9tkV7GeXM-XEA0LXn47kVwVvvSeOpUleiXAP_DVJbCLtlRM0Kqw2oH86IDNDt4oTUbUMWm9cEQQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4037,7 +4082,7 @@
       "id": 194203,
       "date": "2026-07-31T14:25:19-03:00",
       "text": "🎤 Conheça o novo time de técnicos para o The Voice Brasil 2026.\n\nO SBT e o Disney+ anunciaram, nesta quinta-feira (30), os novos jurados do The Voice Brasil 2026. Do time anterior, sobrou apenas a dupla sertaneja Matheus & Kauan. Já os novatos, são Lauana Prado, Paulo Ricardo e Diogo Nogueira.\n\nA apresentação será de Tiago Leifert, enquanto a direção continua sob o comando de Boninho.",
-      "photo": "https://cdn1.telesco.pe/file/kwpE4Lyx9Rh7C3g8ccmV_Adgu7l_6FN2cHvNzIw0_LlH6DUj1pLW0ooCQsR-kXrjY-tw8VU1GH4KuLvRv79fOg5eYwLY4d8IGYOULRnY_aMZFuQ4ShbrjMKCtfStNKZ5wj82n6RIdI12Dp_BCsMwEpdd-TQHn2u1aYuXxQUQMAe92nmArnCKEK-fT9iyh7IrOuD-rQmGC0zd9ENWfi1KSmiqlc2F_EFx9YrZk-zmPLGVidRTiZ4iU6VZy_c1j47TFl_b6j_uw8kcX_YkE165pdVNiDFR3o2GEktvyhVsDWfGmiOKTegWngyFoGH3tMU8Q8tU__ZnU5GSNvwVlU7Tcw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/gWXEqKyweM9O3iCsYAKQOJz_wrj_xN7fZ-R0I1fyVxBJIqCjUmL0FSoL30bkunsJ15hVutXt1XgW0HwGKCta-M-6TutA9WIr08fErzCHhNXhPwXcFKmFYf51B0brITQIy4l37dlM8DlrswbxuSlC3H25gy6Bglt-9qp9miS8DgZt6TD_bBAawqDcgFkzd8sCgCLc7FPpuhaERcdYc5MbjJvvPaUW35YzK5luuL8alPbaSDyAlMzb78y_n2egmlHNb-zf7qq3Tc3OrcJTj_9qkrv5-PkcYp1cEKxZo51D7P12qTNuiBmCZQRAe4Uem6ROu3ZZfohbw76DJ_FaoN6IAw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4135,7 +4180,7 @@
       "id": 194200,
       "date": "2026-07-24T17:15:02-03:00",
       "text": "Christian Chávez, do RBD, pode estar em A Fazenda 18, revela Dudu Camargo.\n\nSe isso se confirmar, será uma das maiores contratações da história do reality da TV Record.",
-      "photo": "https://cdn1.telesco.pe/file/PRACKVXGz6T4-EgMPUsbNv1SR597_ZBbuw_lUGLHur65q6Oo3lCQNtaQW7Sz7Y0bq7QrxGlIUikXWiYF9P1IUceP7GQO_2SpMzrWYcgDcvWogo2bE8nnHOCXAIDfI97PuNNTxaC1IP3QqCBZwwvLrLUP1dORKRz-RC6X2R9jWhcyQuLQHCbgnImaf5LIzuswSTx35YMBqI10-IwtakhtilrKVIJUCstfRVLUXgMMXQE03a5OzEX-CpPRqQwQ1GXB1HG8IzSWJpwxJl-qmAncCStRMHpt6GyTk4X2sCUOzmh_97StP08qh0NeFXiCka8xymOnRJx7PUOe2la8BOgXAg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/tQxZKE2XaGxoWDO0pry-5VxObYiDlJzMAvgbUm3VPx-gMGS27LRZhkhHMDkYykMs-qjES5S002t9tUYEXk4PnsuT-MCWb1VNhJPgeBAQ604DW4AlpmsSJAQi5xj0PzeU6zkNilvRsqtQf8rzwrPMm3gFUCdT-Gd2D7ycKeF0FXADWR2u1bOTmN-GqAU_kpMeinx0KdbsMqKiHFeShtxkbkJ-VED_g7y8txg9GFKx2SE_YJOscB0425JNkbAcOxoForiVh-EYUfCd9bYxF3-9nxhqr6PE-0Qv687X60V-_fH65jPrBkJaPimCEyiIS9C5O7uN62QP57JLVDGKI6hkmA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4180,7 +4225,7 @@
       "id": 194197,
       "date": "2026-07-23T13:02:23-03:00",
       "text": "Internautas pedem pelo menos um ex-BBB 26 no elenco da Fazenda 18.\n\nQual sub você queria gostaria de acompanhar no reality da Record?",
-      "photo": "https://cdn1.telesco.pe/file/eFwjxxEsA23ARwLaUVChleR5bep07lnMglzDQ5BBMcduOrZh0Y9zYJqZjrsE3IaGgvnp2tudYUWowaDna78jlVbTn0DCc6vvdKxkJhYMpo6vGQIquucUBuOWXcvnMj0Gph-zd6u2705ESF3KcJajk9RvVVTbmiA0D6CGPKgjleRHM9OspDHNSk187esyCyOtYPPnJtHGcEG9FbF-l7g-z1RiENOin5jVL0yd3paaQsM4W1BWUCT_fai95vy5rEF8LePeAz9FFOXvhO1iHtgddU4GNVTDPgGPpXXaTPHgfzZjGO4HYbhYxQQhBK3yZN4v1F8Dq3TozkTd58RwomnTqw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/IqluXDrKtwJjbYmQhbswosAN83TFEpNtEG-R0ZVU7gz5R6H48JatAM9sOdj4X6RsHF9bqePL4Rr4IfV_UmcYP5W9O3NaFk5JZXJMrYpAKzChPJym5xE4yeQ6di8OZZKghiAmmIE9bwgySWEGyTLv6Dh8fjqv4TctTv6-6savQZ6TjZxSa0TyC6Y5UaiizNZa2EUnDm4GmemIzhrAGTk7_JQaRFdVo-EcNa0TV1WKOSJJT_zEYjvVeD4V10gBoIJC0cS7Figinpn1_OypPB4gQXoKIFYQI49uFYS0saHX1KgTVcHhJ_C3hsbIOwpIFSEKy1f7k3J_En-g5nTyYfLdFg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4217,7 +4262,7 @@
       "id": 194195,
       "date": "2026-07-23T09:21:21-03:00",
       "text": "VAI KASINÃOOO! Gilberto Barros está cotado para participar da Fazenda 18, afirma Canal D.\n\nSegundo burburinho, Gilberto já assinou um pré-contrato para integrar ao elenco de reality da TV Record, que estreia dia 14 de setembro.\n\nAos 67 anos, o apresentador se tornaria o peão mais velho da história do programa.",
-      "photo": "https://cdn1.telesco.pe/file/UL5BaEF81lq48NrroqMdPR1BTocVVOJTbRY-oPyuUL73qldAbi8w2eqbuEwdZ39KjKGhYzMpzMuhJO--mYwUZb798UIv-Gsiy7Cw3iS2Y55y1Tgs3NOwEsbJBeNVEiUuONwMuZGyUZXk11Hqp6XqanQDoW4opoq4OjxU-EbISqmodAB3yiqs7VbIO_vyLiEYZsrxIEl91aGiAbyvaHxNTdiclJrcdb5IU03_zI9ZX86lRTFoDqZa77KO068a2OyqhDqKfmAiEwhmbj_qPsPR_PIoMK77yhugCLlH5aabCpWdi3-9JYuZyeh659dmuAWo1zA92aDUVjR_kX8kcZKfhQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/XWwxit0DIrpqIL-CtVUWextxqCYpp1Jq_QpcwD2JHE5G_JE6fukO0x0Cg7zRlQ5UQ_WiH6cUxQzeVe4eCPMwnYtyr46qcN5VAC512gabyB9AZJiL0bSr0DoMZWqq_cCGwcSDrS0qyQf-cYem6rIJybhjN-lrFWxPRCw2Tn4pBhgNc0Kz7vtE69KEA68xWpYrnFYx3-xrPATJQow7aoH0RL2NrMCgXBsaLpG47mpl-uxZVMK_NlyLOajv8Oucq-1FrRTQPoljiFiGzXOx3OtA02_QScK_Ve3nlmhf6-jIGYT9eRG7ASaNcA3A-sr7lVZWGpjF-pzr9LEPBCUBHve0-w.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4303,7 +4348,7 @@
       "id": 194190,
       "date": "2026-07-19T19:02:08-03:00",
       "text": "🏆 FIM DE JOGO! Espanha se consagra como campeã da Copa do Mundo 2026.",
-      "photo": "https://cdn1.telesco.pe/file/tOhTVUZWHS6IOjs7zM-nHwzk0ESaAY1Y1r3ZQ7aT39G0CPhUvhmUKwyy6OTx0xWJ2Smhuuq_vE9iCqZmxP6TESrv-5cU6nRgOVBwzW8bE3IPX8f3AYrLapz8hohr3S3dJhzl6CpsGp6hOGQqBlGNZ_sGtY-9NxUo-i39r1NZrACqsH348ELpL8KhNlMatNO9ws3u6mRFk-T1-FYSS42Pmqe_8Q8FO477Flju0q54my01QnzII05tShLpu3mlhVpknUyfRVbO3SarC4bBgLBhNoaTtpbEU02dWr5SWoiU8BRx8CeOPdvWVMjXRU70rpaDyeJIfJGPdDyb43Wy48vm3A.jpg",
+      "photo": "https://cdn1.telesco.pe/file/kvm00XNQYGAs_iqBrzZu9qqh71Crm03Rv7DmY-i6cv3o_HsE_Ss-h7pMIE5wQCm_r2C4EF4NzBaQ6d65z5vvz6o6WzChklp6vqEJMpYgwGnSWkTBVlqQpFzJ-Nu6_KU9FjDHm0tLfc6WSxha3QUWLaGBUlJZRg6dhTrK3YYnacL0bFY2Q9Xmz9idG5rUSeyDflJoxffeIxTQflWqlACLwNIGE57_ikwUkhMv4tVZtyttB5-_a7M08OgSldJ9IHI8hyb9_BAzxXimOtP6OCqBxhguSXsAmc-IcUwKbPJm6kjZHVmH6MFkeroShLQ97UPBXqZijCsHfpgSHC263HiA6g.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4463,7 +4508,7 @@
       "id": 194186,
       "date": "2026-07-19T11:03:22-03:00",
       "text": "🏆 É hoje! Chegou o dia da grande final da Copa do Mundo! Espanha e Argentina medem forças às 16h (de Brasília). Quem leva o título?",
-      "photo": "https://cdn1.telesco.pe/file/qRbw88TeiIszCfTgSoodqxe5_q2LjR_MD40xvwZWZ6QFjM6CfBs4tMIOObnqYNe_ABOFTm0uXgBLYxX9sqhYSOzjt-qVEAZlTOOVkCW4nyHhz8DxwFE0N72SJqJRAOGLCRG1aj9_oD0nvivTAl1z_sn7b_c5meapb90ILuKiYvouCaaBZ9w3MvtlPIUtgy9z-4ziOa0DLTPvKB0DgALzOsuiQMa81kuzQXK-Jygzfq1VHmPQ0kplUZ8ukGqJybxsVYXu05bAk9GK4F5GUih5TtBjenAstDiDIlBKubbkfxMllf0B3LoHEx4VO4Zb833ZeLIsGVaNLHltVw6_6zrLfQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/No1ef88McXXG8Pjk_YLj1cIDxvOdQmt0MdQRtbY8lnHRfFI8CCxiS-DVom_7SzJFTRDmyQE62PcHGw-qX206HDG15kZfIMTn3MC7XUkncllNKzreKpRZGEnv9ziHshh3PGUIfG_FF3jKCeaHxUv7iY7yL-NA16rlsc5WD0jNRlom7unu9CxLcUUMtxn8uC5kqJCetj2_n65D0E4PDtZHO3SMPGLoMkfp3PIwWO7QgxDCE8lH0hlu63531Og9cSzsyjZke8WwZTrum8qGiOyipXQiLnU0jTi5m3cbIG1ju8anCZLMYa72hkDZUVPxqJiPbfhQ3wSGGuiG6vxk1ItDgQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4545,7 +4590,7 @@
       "id": 194184,
       "date": "2026-07-17T08:01:24-03:00",
       "text": "🥇É CAMPEÃ! Sheila é a grande vencedora da Casa do Patrão.\n\nSheila: 64,79%.\nBianca: 32,02%.\nMatheus: 3,19.",
-      "photo": "https://cdn1.telesco.pe/file/ht1OjoLfm_udKYjgVDtAPu0chChT18csC14FC0y0r7XEnEfbRFEEXKavkL0GIyU_ld3wgWCWyaNhRsBAgeLb14hOS9vuJ16vgVT7ubjPMYDmMAGGctLj02uFKC2h0heHsncybS259s-Mz3H3vCcMEkmypsQCq78uF1gUi8EQvSBPusmD8no1ER6awt663NbgnrVEylDHOER0VkGacukg7dAYhytyhAyrv57fOATzwRHLW9Svu1dE6UU2LdvKlShPqBJX5cLRkvzeNIwNwJtiWKDcvSttXwr9euwwEYAnv5zA6t7GSfAbOxIs3uCJvxMZnwp-08txNYeZIUFTSoOC5A.jpg",
+      "photo": "https://cdn1.telesco.pe/file/ZgjXyYQofUl_rr-zVKi7f5R3rmVO39wcxMus5gLI2tENZsRhPsU9n_ZV6cHXSPye_NvWBRep5sjzDFhvYfbsAEgniof2VOc7J4wjYz3_vplOX_EpL1NgrcMqRawQg0q_FJDZbPj5qQsfk64P3eIYlKMyKd1PdFUT-YfmAoJ60KQ23djTjkTI61ldaZKpZAW906tuiULWxnSQx-xNLM98iL2kYxEmsV3i0d0Fs8jYdC6WpEdTnLTiHnymFvL05D2ujA-FLU3AEUpY0bFGzYtMGxBpZeRvdcLexAHgiN33Tma-4kWzcXvYoe_T-zXv_LkkYk2KR3dvqzQynHg372Ozag.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4643,7 +4688,7 @@
       "id": 194181,
       "date": "2026-07-15T18:09:04-03:00",
       "text": "🏆 TEMOS UMA DECISÃO! Espanha e Argentina vão se enfrentar na final da Copa do Mundo!\n\nQuem será a grande campeã?",
-      "photo": "https://cdn1.telesco.pe/file/lmj_CeZY0EENDaJbRt01Vs97eh6FDgRJq1hel9FilmbKJfeWfDnXy45aq53u2oA0X4VPGfGfZLvbcCfp1HyjDzt6QKxA4Mu8Br-V4SfrxzW-1RaaoY51ZKZbHSC2C-0e6I6zt1CdJ4eEqntJWcqYuKMa7MSdU-KHGdkDd-4eQT27_9gIHdRDpk-t6Fgb3C5HjCUt-UgZkcTDMbtxjYAIdjHW-VL1tyxuGfyivcLp2DPHrk_hWDHQnZMLmLGqNnaH_OTNPH6F7Je-SxlZI1dvOUlWWRTufnD4NBrrQZnAW1g_4N0VT8SQQltugpM0V_37-wKz-vTuKHgH26gSTNb4SA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/ru-krarz1fKTR-DSIGGCn0cRxs5Z2oQg0z2K3moBb5-oQv2JD0FLOtWksJ8CoO2oUGh0By0wbZtcSf7FH4WlpiMSuqzkD81HX1IdFueVJGXW9QQDl2NJXljNBBI3V8T8_ttE0Kx1yvtzYAfiBf4PZNL0ACMIdeCe78se8PiQ_MJ4Ay9NUNAKxfEr1s_YWWyTtB40QvW8o2jPHMODSlFXnPnr_YVaHK_FQyP0EMDtchMRybPAl_YiDdHMkWA1UmnZvIIXwxWxWJ-mzbeZQuhVWKjqGYjFm8c4mgkOHpKO5xArWIfvWShxzCJe0mxl-clD1UVrgDk08FY5_ybPZvlqPQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4684,7 +4729,7 @@
       "id": 194180,
       "date": "2026-07-15T18:04:22-03:00",
       "text": "🚨 FIM DE JOGO!\n\nArgentina vence a Inglaterra por 2 a 1 e garante sua vaga na grande final da Copa do Mundo.\n\nInglaterra dá adeus ao sonho do título e se despede da competição nas semifinais.",
-      "photo": "https://cdn1.telesco.pe/file/VMma60GYFu6DThd1Hq8I7zpAGi97WPBMbeuhleevIXfL2wYiSzXlbUR6fVYGRKZ7RCiXgjoL0mi8JbZDGn24twBOFCAv5y6hAxp3jqMfGqTgUQOs0RHSRkLmb1GZhY0GxcvoTdR2G5v601eu5-sqj6ihWmVTJQJ14X95Dps1iWNfCtCbDFs-VD_3hderPFHHs4UiPW9cFV73va1lSr4LykYrR9uYWtIMGPs6Z2R9gS1KZwLDvyXpX180NtCeixsy4MFtCTDQrEM37HuHxDZvTVKV6auVwt6oui7mYjpsO8u3QKpAsREBDF8rOVjfsRSAMqpQgzFbVnxsd5khCMglAg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/Negdg4ym62DRuL-1X3zjJypbcbIwVUQeflZCwzWIav0mlzRkgqosDcw9OaEYfXBN1mHU1VtQnwzIK1YIfXkc4nJU4-q1iiSXR3ymvNj9wyTPvgaBANKu5_Y9RkFoIF-9US_EvJMPboHP_0XJtnCZ6MeBDOyDup4aBLRZ27hJTcgPdBLDkw27H5qHPQhebXYFBBHtmjFjFLQ44gQyDjsZDRCcAqu8U_oKkDOStVRUFcqHOWP8t68z2VDVqGue2UDh2U0x2PdXxguf7NtS8iaNT8REE1kqEV4emlLDIHW8pouqEpJCB31-9luUuOA85HBMaSt2KliuRJe2fVS9tHI1qw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4729,7 +4774,7 @@
       "id": 194179,
       "date": "2026-07-15T17:53:33-03:00",
       "text": "🚨 Argentina marca o 2º gol contra a Inglaterra!\n\nInglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿 1 x 2 🇦🇷 Argentina\n\n⚽️ Lautaro Martínez.",
-      "photo": "https://cdn1.telesco.pe/file/MwXohwOE9dw0f3BR7dGVDrzFKUQEaaxQm2iPjU3EQlmvxAlMDj19L5a_FHKxE6v1zYLd9ZGhRfHgjCXeC1z98K1Vb3NUS-8vEX17eXQdb-982nwQCrLQZR6Dr9a0fK7NIpWpqpu2KwDP5jFoJE1GclE5LYmpmAkyqcn8YB444BaLptbpXDixP6K9SvU39SxHTBYqW4n4XoFMhWLRSUEydf7VxMrTSR3JnLZoGy0SImPVwMM8LoA4FIkc8O-nFYklX1POPoO777ab95HTKqlDuhVsmWs5Zgm6Nix_QTS7eetd1mk-fev9bZFL1346YPQuOzqiEO-sbMmQ43ql_wj4gA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/Ap5-clWkpy7Mg5n4ZI2Nt9XGpKkyNliXUGM4sFYpP3hj0Cv6m_Qcz_tsgIJ9x2KHCAHHlFBJd7CXjKYnrB3A7rPyEhsSuYtPtG3yF7Bt_fiDdlHv-EzZgml-My1Pj7QxEtvlKQbGHmwg7aUYKjvYCJSxwIFAo7LQnhh3SBR7zgaWb-ysaxEBJryOjdlOC-qXZcba6I1P716XtW0-SkKP_8iH64mIMFenUp7a66zms3HUaZL4l9EP-Zn4_23K6TVf7IfOxOd7gZ6dDtrK8dadbJ0BdgF5skESV8AK4GFW-BzGaBzrzrz0qNJ7Tqw-5JrK2azYrkYcHab7PzOsAAANcQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4778,7 +4823,7 @@
       "id": 194178,
       "date": "2026-07-15T17:47:19-03:00",
       "text": "🚨 Argentina marca o 1º gol contra a Inglaterra!\n\nInglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿 1 x 1 🇦🇷 Argentina\n\n⚽️ Enzo Fernández.",
-      "photo": "https://cdn1.telesco.pe/file/Tzg6h8QOP_MfIWGuV3imuQr6CWjVdL6cdOWfFYMisNdX58TQ1gWx30rdFMrTr3mgdyk2moeTBbzLwhaDfw833ojpZpkE_gDmpIFjKUA-vV12xN8q8yqWywJCoTcXMFo0Rstgb77wdQqJZKSr0qYXfVllLBqBoOHbj-gUVaQGXx9s8bhEiiMSfknqRerKzTi5IAdeRk3r_1lDq-4-wNKb3AsMGJmK8x4XL-aEBd_EP_RE1tMu_rmRCx0lScInjUdJqk63vfu6aNGBTKzWFpy2MJJPmMi1G-r7UIo_RgyZptX2aEZ3GsdxccfxngT56WwZyOidOhVWOLkWh1oTPw3-IA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/e-nFhNLffSNA7lCTCqgnXp-1DimugPnVmkaGtd1IrPFuGJqjdIntD0zBqYoHPoiaaz12iS2WJlwXHnZr7VtXFv_OIzO0DadOu6ajcpnFedxVT8bdHEG5TEd-O_UeHkPrKUdimQ3ycXSmOpwj93JfFMAXDTyxPrLglPbCm9OV5LdUB5e8i0Zx86HEWIALTDFPgeOT3YXM2Z69kLB8qkBGXsrupPWApM9J3Ubl7iRD20xiHcpe4gQdA8VM5zcLSmKmG4b2DLRkVvNBjRfAP1vDUgzeoaLEj-lMRcgyTeFCtGS-BDSo74P9vwUtBLbtdsTJmx65qWTZ4-LDCM0iHL8tZQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
