@@ -2,9 +2,9 @@
   "metadata": {
     "channel": "espiadinha",
     "source": "https://t.me/s/espiadinha",
-    "syncedAt": "2026-10-18T23:30:52.952Z",
-    "count": 24405,
-    "latestId": 194314,
+    "syncedAt": "2026-10-19T01:36:10.834Z",
+    "count": 24406,
+    "latestId": 194315,
     "earliestId": 168574,
     "firstPostId": 168574,
     "backfillComplete": true,
@@ -12,6 +12,39 @@
     "scraper": "playwright"
   },
   "posts": [
+    {
+      "id": 194315,
+      "date": "2026-10-18T20:38:36-03:00",
+      "text": "Hoje (18, domingo), brasileiros encheram cidades em protestos pacíficos antibolsonaristas e pró-Lula, enquanto bolsonaristas saíram na Avenida Paulista com um míssil de ar escrito: “Trump bombardeie o Brasil”.",
+      "photo": "https://cdn1.telesco.pe/file/imBdA7ry4RvYcmragos9xqmWimv2SjUJcJ0kAqc3YH2rIr1yXJNWDY7frY4j2inO6GtCmWL0eS9h79EKPQJdN0xjXdKFmxLp6nOV-79VIMx8BfHJVjs4Gc0tmzNytjVFgVhp50AgyTCkOASSF_0W3CHSx1z3_TDhFtR9jFWzvXEwtQuYSON9v8T_SXmx2cchNiOgD4QRCafg2wy6TRdOlNMNX4UBEc5H8VVBEDim-Sli5Yu4V6L5bf45F3NKJxGo7TKEHVD2155NHscdJ5KO_BZq_pEELVFpvT078Qrh3eJWV84mKLEpqgrhRXiuKTH3yuzJLHa90OQwmAOOHGoWFQ.jpg",
+      "video": null,
+      "hasMedia": true,
+      "mediaType": "image",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": 102
+        },
+        {
+          "emoji": "😁",
+          "count": 21
+        },
+        {
+          "emoji": "🤯",
+          "count": 16
+        },
+        {
+          "emoji": "🕊",
+          "count": 7
+        },
+        {
+          "emoji": "🤣",
+          "count": 6
+        }
+      ],
+      "totalReactions": 152,
+      "postUrl": "https://t.me/espiadinha/194315"
+    },
     {
       "id": 194314,
       "date": "2026-10-18T18:01:01-03:00",
@@ -23,22 +56,26 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 83
+          "count": 115
         },
         {
           "emoji": "🔥",
-          "count": 19
+          "count": 20
         },
         {
           "emoji": "👏",
-          "count": 7
+          "count": 9
         },
         {
           "emoji": "😁",
-          "count": 3
+          "count": 5
+        },
+        {
+          "emoji": "🙏",
+          "count": 1
         }
       ],
-      "totalReactions": 112,
+      "totalReactions": 150,
       "postUrl": "https://t.me/espiadinha/194314"
     },
     {
@@ -52,23 +89,23 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": 295
+          "count": 328
         },
         {
           "emoji": "😱",
-          "count": 75
+          "count": 81
         },
         {
           "emoji": "💔",
-          "count": 18
+          "count": 20
         },
         {
           "emoji": "🕊",
-          "count": 15
+          "count": 17
         },
         {
           "emoji": "❤",
-          "count": 2
+          "count": 3
         },
         {
           "emoji": "🍾",
@@ -87,7 +124,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 409,
+      "totalReactions": 453,
       "postUrl": "https://t.me/espiadinha/194313"
     },
     {
@@ -101,7 +138,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": 522
+          "count": 528
         },
         {
           "emoji": "❤",
@@ -136,7 +173,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 573,
+      "totalReactions": 579,
       "postUrl": "https://t.me/espiadinha/194312"
     },
     {
@@ -150,7 +187,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 533
+          "count": 540
         },
         {
           "emoji": "🔥",
@@ -189,7 +226,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 595,
+      "totalReactions": 602,
       "postUrl": "https://t.me/espiadinha/194311"
     },
     {
@@ -203,7 +240,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": 172
+          "count": 173
         },
         {
           "emoji": "🤨",
@@ -242,7 +279,7 @@
           "count": 3
         }
       ],
-      "totalReactions": 463,
+      "totalReactions": 464,
       "postUrl": "https://t.me/espiadinha/194310"
     },
     {
@@ -256,11 +293,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 527
+          "count": 530
         },
         {
           "emoji": "🍾",
-          "count": 61
+          "count": 62
         },
         {
           "emoji": "😁",
@@ -291,7 +328,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 613,
+      "totalReactions": 617,
       "postUrl": "https://t.me/espiadinha/194309"
     },
     {
@@ -305,7 +342,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": 384
+          "count": 387
         },
         {
           "emoji": "❤",
@@ -324,7 +361,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 447,
+      "totalReactions": 450,
       "postUrl": "https://t.me/espiadinha/194308"
     },
     {
@@ -338,7 +375,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": 229
+          "count": 232
         },
         {
           "emoji": "🕊",
@@ -373,7 +410,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 307,
+      "totalReactions": 310,
       "postUrl": "https://t.me/espiadinha/194307"
     },
     {
@@ -387,7 +424,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 373
+          "count": 375
         },
         {
           "emoji": "👏",
@@ -414,7 +451,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 470,
+      "totalReactions": 472,
       "postUrl": "https://t.me/espiadinha/194306"
     },
     {
@@ -428,7 +465,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": 197
+          "count": 198
         },
         {
           "emoji": "🤮",
@@ -467,7 +504,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 398,
+      "totalReactions": 399,
       "postUrl": "https://t.me/espiadinha/194305"
     },
     {
@@ -481,7 +518,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 559
+          "count": 560
         },
         {
           "emoji": "🎉",
@@ -489,7 +526,7 @@
         },
         {
           "emoji": "🤣",
-          "count": 19
+          "count": 20
         },
         {
           "emoji": "🔥",
@@ -512,21 +549,21 @@
           "count": 1
         }
       ],
-      "totalReactions": 642,
+      "totalReactions": 644,
       "postUrl": "https://t.me/espiadinha/194304"
     },
     {
       "id": 194303,
       "date": "2026-10-14T22:31:17-03:00",
       "text": "🇧🇷 MOMENTO HISTÓRICO! Em vitória de Lula, Senado aprova PEC do fim da escala 6x1 e trabalhador terá dois dias de folga por semana.\n\nMudança na Constituição deve ser promulgada na próxima semana, a dias da eleição; PL cede e vota a favor da mudança.",
-      "photo": "https://cdn1.telesco.pe/file/lF75DCljNis7WjSqaGu3wkGMBVpBt3LpD4eS_k8aDgRiCnW9gBgvD8ONF1c4iKZY2f8NoiLbzKIAoewTemPfYT-rFWW5XRd48b8nokaiRHdXZU7eWt3b59p-cEa4rfduTAezkl2OupK36E46Rwz3EbmS1dzkwjrSOC6Yc7GjIWifYGi6dJhi1ixVXiij7M73zl6fTob7GZtMjybaiGOC6qgLq6oYswkpEstxlaOXfuYHK_Iv9p1-hJxoO_b04MdeV7OsiPf52HUw0SQO7cwZgMcyifz6eAE3sNeTiMhzWbj1xcL0toCrQNqbJJXENdqnK-abEu27i8oq72ZozI6M_A.jpg",
+      "photo": "https://cdn1.telesco.pe/file/sj7Ubgxs3jKaFuHgPmKWPn25sJB3gBqzJNRh_xbgTzuiNiTTVGWaR8OI3rkHm3dXf9CrAwOD0Z2gk9OaEVsk8s6hplDDYcnRNp28oUVYV4Ph37CodgbP5ArhYfl-qmBxL8jL0XjDQ5K_QeRFge7q2ldrm4B4cbxsjufcWlfRaj6JNgVPrtJ1m4zrSqbrntcwvqqVT3CgT5wgnKdbDjngnWu3nUXPFwrrQ2binZBnxLwNHcuuFO7o8F7CRaAY9T1xuAEaPL6FHLXuFngwF-alkRZy8uWwnjmbUFOxUYSMsdpBdvnQ0P3p6WdzbvWSYoTY6ZocdbByaUVuXzw4smHQ9w.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "❤",
-          "count": 605
+          "count": 606
         },
         {
           "emoji": "🎉",
@@ -545,7 +582,7 @@
           "count": 6
         }
       ],
-      "totalReactions": 685,
+      "totalReactions": 686,
       "postUrl": "https://t.me/espiadinha/194303"
     },
     {
@@ -559,7 +596,7 @@
       "reactions": [
         {
           "emoji": "🤣",
-          "count": 576
+          "count": 577
         },
         {
           "emoji": "❤",
@@ -594,7 +631,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 654,
+      "totalReactions": 655,
       "postUrl": "https://t.me/espiadinha/194302"
     },
     {
@@ -641,7 +678,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 877
+          "count": 878
         },
         {
           "emoji": "🎉",
@@ -680,21 +717,21 @@
           "count": 3
         }
       ],
-      "totalReactions": 988,
+      "totalReactions": 989,
       "postUrl": "https://t.me/espiadinha/194300"
     },
     {
       "id": 194298,
       "date": "2026-10-07T23:22:32-03:00",
       "text": "BORA! Sem derrotismo, veja formas estratégicas de agir nas redes sociais:\n\n1. Para quem você vai falar? Adapte a estética \n🇧🇷\n\nComo é o conteúdo digital que os seus colegas do trabalho, seus avós, seus irmãos de fé consomem? É preciso falar na linguagem deles. Seja vídeo com IA, edição tosca, banner usando cores da bandeira, influencers gritando, o importante é que a mensagem chegue num formato que não gere aversão (não defenda o Lula, ataque o Flávio e o clã Bolsonaro).\n\n2. Amplie seu alcance 👥\n\nNão fale apenas para o eco algorítmico que concorda com você. Status do Zap e Facebook são ótimos exemplos de como podemos alcançar pessoas conhecidas.\n\n3. Ouça o outro \n👂\n\nA insatisfação da população é legítima. Em conversas e em posts fora da sua bolha, não perca seu tempo xingando os outros. Identifique qual projeto do Governo Lula pode beneficiar a vida da pessoa e qual projeto do Governo Bolsonaro pode prejudica-la diretamente, faça perguntas e mostre comparações baseadas em fatos (leis, notícias, falas públicas dos candidatos, etc).\n\n🔖 MATERIAIS DE APOIO:\n\n↘️ Site\n\n↘️ Acervo de mídias\n\n↘️ Drive alternativo\n\nInformem-se, organizem-se!",
-      "photo": "https://cdn1.telesco.pe/file/TOXNU5-b4FSnLK9qjgBaXOJNWODSQRO0WbyQzWrgO3bVVXGVGjYnriEk0JGeXUaYvN75XEvEdNc-IaA8ACXEjqlb94qtfTViwz8Bog5HZknzFaoJhK_ls-YbAjPuZq8tooz_zmgtPZGGaVNn9XH2obJ4hP-lhiyvQpBbj_VdgnFscbGOz_go1b_kAKQl-iFmm06243B9J8VjnLX7BBW12VQ30fWdCZ-H9wNH-MMjSTfp4S-buC-nkdK25o4FPBFIvZEOgryHYC07Rc7mA_7TbgjRSQSkXC1C4lNo0zoR4ExS9h84ESSguX4ek8ryM7U1Byy_BZ7XK0_k5_DacpxY5Q.jpg",
+      "photo": "https://cdn1.telesco.pe/file/HpJ6V-Sz5nvdedwbISz8zTLmJIl3jrMSYt-HtT8AMnzKLupzLbT-fdEqhBW5BVqVHTbYmIcXSQJCsE7PdKtad7myyoCf-udypwhTIKS1LjRSdwuJ5TWZEi-Ny-hc738xUWdZU-GCZfgkg_iR5cUNSN8Bv2xbwYR_xaKOM9Qsw4oH9w9Js90BUFnVJJRQjoiAfd0aNzHtu19-6L0b5LMAaEcUVqtFDfenifjVUYvqQPTmXupmjq0ByYNlpnl6ww1XXBRzGscf-mjgYBtEdauqqCYZAj39pMB1XP6V3qHsJuVSNOhjeMvi787jjmTBFP76vmDkZL-1tAmAoD5uV6kgwg.jpg",
       "video": "https://cdn4.telesco.pe/file/d82c224c02.webm?token=GMLjPK8So9lQ6EGbQbs83n_F_bwn_0_LqoG1UeJVm35lHFfuQHIC_3wp62uA_nPkfwNkHfwqxowHznUrUOYPcvPPGt9xRGVBeZ0aFlq0u4YZG7ZDSnlz_YF_Gyvu-w4bAqwB_IEjuWTMF5_cmy-yJR867DLaUyHtb6nhjveLMRAJVLxxfRyqozLH5fBPlFh5JvyXL9mqpr9LAN0XajmDwsjVq1MJjsobyVEDlTDCBEP5AYlPNRNX4s9wAGYzsxxM-7t1sP22lzGRD0XJ93Vuk1X6gJzGJR9MTP-66eslDYXWInrJ4BBZkzHjbha6Js1_6MNywASWKo9wfIoS4gjJPA",
       "hasMedia": true,
       "mediaType": "video",
       "reactions": [
         {
           "emoji": "❤‍🔥",
-          "count": 719
+          "count": 720
         },
         {
           "emoji": "❤",
@@ -733,7 +770,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 892,
+      "totalReactions": 893,
       "postUrl": "https://t.me/espiadinha/194298"
     },
     {
