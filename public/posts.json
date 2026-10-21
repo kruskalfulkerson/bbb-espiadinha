@@ -2,9 +2,9 @@
   "metadata": {
     "channel": "espiadinha",
     "source": "https://t.me/s/espiadinha",
-    "syncedAt": "2026-10-21T20:18:34.418Z",
-    "count": 24409,
-    "latestId": 194318,
+    "syncedAt": "2026-10-21T23:32:14.678Z",
+    "count": 24413,
+    "latestId": 194323,
     "earliestId": 168574,
     "firstPostId": 168574,
     "backfillComplete": true,
@@ -12,6 +12,134 @@
     "scraper": "playwright"
   },
   "posts": [
+    {
+      "id": 194323,
+      "date": "2026-10-21T19:57:52-03:00",
+      "text": "HISTÓRICO! Lula reúne mais de 100 mil pessoas em ato em Belo Horizonte e faz história em Minas Gerais na noite desta quarta-feira (21).",
+      "photo": "https://cdn1.telesco.pe/file/JLPbbCadipRyGwYZdQOWtzHi4EyP_OPTDZ1fyGBLxgKkhh4rd1_pC6rXMQfq87EaxcXTGSmPClJXxFVPpsaub-CAxTjEJssK1E4Sg__LsRR8Bw2F-R8rQb3mxl8xAn05Xqnq3xdatQ_YGZj5HfJSXsMahDhx9jMUyIJmijAqBv4MsRz374koJZI671JheS9-DRYPWnC3SYj46Tak7ZSJcg7_tpK3deTkxSnSzv-FAKPK2UpxPTV4abojllO6vZlwS36p5VTiz0GVaJaMmZ9y_ZFBnTKgUiur0rpxHSfNQ8zOORHhPa9LjYSwzfTvS1Evi3D9LsRyYPl6735ZmUpUAg.jpg",
+      "video": null,
+      "hasMedia": true,
+      "mediaType": "image",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": 118
+        },
+        {
+          "emoji": "🏆",
+          "count": 18
+        },
+        {
+          "emoji": "❤‍🔥",
+          "count": 5
+        },
+        {
+          "emoji": "🤯",
+          "count": 4
+        },
+        {
+          "emoji": "🤣",
+          "count": 3
+        },
+        {
+          "emoji": "😨",
+          "count": 1
+        }
+      ],
+      "totalReactions": 149,
+      "postUrl": "https://t.me/espiadinha/194323"
+    },
+    {
+      "id": 194321,
+      "date": "2026-10-21T19:34:23-03:00",
+      "text": "👏 Campanha de Lula diz que o Presidente aceita a proposta de Flávio Bolsonaro para levantar o sigilo de tudo.\n\n“Se não tem nada a dever, que ele cumpra o que o presidente propôs. Presidente não tem nada a se opor a que ele colocou condicionantes. Amanhã às 11h estaremos no TSE para protocolar a resposta do presidente e é o prazo para ele estar la também\", diz Camilo Santana.",
+      "photo": "https://cdn1.telesco.pe/file/fJDNCCsZcdN43cweTzeQqJQh7yNjFUEkfMb8oEs3cSeKx0C2JqzB8g58dTeks4eFGGIEuZwZiUyyf87q8IlxR48-0fbO2yrLwZeRiBM7bpTczy9byO0PVf7maz8GJUqe1K_gR4BN22qYCoL6bLvIe89Q5OZTvyZzBiNgQApTMerXNwZd3Ciwo6IOmQ3nGrHkdpG4-1LmbcARlpRgZn5OHLZ76HOFzsaQR4yozk9Zz7MsRmzkUioIduCiXiPMmiICLMXq3JOROUs6VHccZ4vxFPxnJkLZH8vokU9OhpQUXNnXPb_N9NORzGrfdcj5WABhWUuqtI-lSsSo0u0rAVLPmA.jpg",
+      "video": null,
+      "hasMedia": true,
+      "mediaType": "image",
+      "reactions": [
+        {
+          "emoji": "👏",
+          "count": 152
+        },
+        {
+          "emoji": "❤",
+          "count": 13
+        },
+        {
+          "emoji": "🔥",
+          "count": 6
+        },
+        {
+          "emoji": "🏆",
+          "count": 6
+        },
+        {
+          "emoji": "🤣",
+          "count": 2
+        }
+      ],
+      "totalReactions": 179,
+      "postUrl": "https://t.me/espiadinha/194321"
+    },
+    {
+      "id": 194320,
+      "date": "2026-10-21T19:01:19-03:00",
+      "text": "Flávio Bolsonaro peticiona no TSE aceitando a quebra de sigilo proposta por Lula, mas impõe diversas condições como:\n\n1 - Quebra do sigilo de Marcola, ex-chefe de gabinete de Lula, e de empresas ligadas ao filho do presidente;\n\n2 - Quebra de sigilo dos gastos com cartão corporativo;\n\n3 - Quebra de sigilo da lista de visitantes a Daniel Vorcaro na superintendência da PF.\n\nCampanha diz que Lula não se opôs às condições. Será que Flávio irá abrir o sigilo?",
+      "photo": "https://cdn1.telesco.pe/file/I-GxWCC4NsNYf2M9NhzfXw1qbjTacEIaO-jO7B0kN0Rzmx3ftTrXJRN_-fgRTb9RKa4q2szjc2cD-nAnrF9w_S1Sc1dUp3ayJg4qIv7KOGdtBCARcPsaNQQNs7JJbXWtBM2SoajN3fi6JteQ95ZyqdXm9NL8C2NB9U2ujW13KYHuOm87lGtUXiUA1v-vXK9LlNEvC5tz2a73Oxf96sgjg1KN6njyakTOs2OddUTaBibNJFzaMT2rFbtE17kE517DX5YxvIjwqK-L2TRe8Nn9LRR342Shz7w3Lqe3dp_jbhpi5x55kbVKNBKuV0OR-BLzUiznAXDy8BJQx8foylaoaQ.jpg",
+      "video": null,
+      "hasMedia": true,
+      "mediaType": "image",
+      "reactions": [
+        {
+          "emoji": "🤣",
+          "count": 174
+        },
+        {
+          "emoji": "🔥",
+          "count": 5
+        },
+        {
+          "emoji": "🏆",
+          "count": 5
+        },
+        {
+          "emoji": "🎉",
+          "count": 3
+        }
+      ],
+      "totalReactions": 187,
+      "postUrl": "https://t.me/espiadinha/194320"
+    },
+    {
+      "id": 194319,
+      "date": "2026-10-21T18:12:14-03:00",
+      "text": "Motociata pró-democracia reúne trabalhadores de aplicativo a favor da reeleição de Lula.\n\nNo ato organizado por Júnior Freitas, entregadores de moto, bike, motociclistas e ciclistas mobilizaram as ruas de São Paulo nesta quarta-feira (18). Ainda na manifestação, os trabalhadores que dependem dos aplicativos reivindicaram melhores condições de trabalho, remuneração e segurança.",
+      "photo": "https://cdn1.telesco.pe/file/sXgCfWOQHR7jD62itXbzeoupD9vX-qZFOFGz433ALWSgBstwZSGDbicSi_t6VLvTbC3pL7nI7ydxVQUcCgWeWkaXUXxvXKir5WUMs_xTqnsZuO4k6le5K_hvYMUoFG9makyy7v1mFH87vbh5psuMcRe5Pxr6eN4vpI1DrXE2utEGjwn5rlBInqdQpQkc4PQLn8GWNgjChwwWA4xAzOflUiDPmOBIOEyoqrJoEoEXTU8hJ-9-9wqohy89_qePBCFtSzMO9NM87xujgDGtv9ORQufhZ3Dox-SbwPZEagyFWXQgsVnPVk_T_zkf_dbKjtin2nH8gUYHZRKvI5SHrbO__Q.jpg",
+      "video": null,
+      "hasMedia": true,
+      "mediaType": "image",
+      "reactions": [
+        {
+          "emoji": "❤",
+          "count": 197
+        },
+        {
+          "emoji": "🔥",
+          "count": 19
+        },
+        {
+          "emoji": "👏",
+          "count": 9
+        },
+        {
+          "emoji": "🤣",
+          "count": 8
+        }
+      ],
+      "totalReactions": 233,
+      "postUrl": "https://t.me/espiadinha/194319"
+    },
     {
       "id": 194318,
       "date": "2026-10-21T13:13:34-03:00",
@@ -23,7 +151,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 43
+          "count": 59
         },
         {
           "emoji": "👏",
@@ -34,19 +162,19 @@
           "count": 3
         },
         {
+          "emoji": "🤣",
+          "count": 2
+        },
+        {
           "emoji": "😁",
           "count": 1
         },
         {
           "emoji": "👌",
           "count": 1
-        },
-        {
-          "emoji": "🤣",
-          "count": 1
         }
       ],
-      "totalReactions": 53,
+      "totalReactions": 70,
       "postUrl": "https://t.me/espiadinha/194318"
     },
     {
@@ -60,11 +188,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 416
+          "count": 433
         },
         {
           "emoji": "🔥",
-          "count": 69
+          "count": 71
         },
         {
           "emoji": "👏",
@@ -87,25 +215,25 @@
           "count": 2
         }
       ],
-      "totalReactions": 517,
+      "totalReactions": 536,
       "postUrl": "https://t.me/espiadinha/194317"
     },
     {
       "id": 194316,
       "date": "2026-10-19T18:56:44-03:00",
       "text": "Deputado estadual é detido após disparo em balada de São Paulo; tiro teria atingido Fred Bruno, apresentador da Globo, de raspão.\n\nMarcelo Aguiar (PL-SP) foi detido na madrugada de hoje, no Itaim Bibi, em São Paulo. Segundo a denúncia, ele teria importunado mulheres e, após discutir com um homem que pediu sua saída, sacou uma arma e atirou no chão.\n\nA bala teria atingido de raspão o pé de Fred Bruno, apresentador da Globo, que não se feriu gravemente. Posteriormente, o ex-BBB informou por um vídeo em suas redes sociais que tirou o laudo médico e irá tomar as medidas legais.\n\nImagens mostram Aguiar aparentemente embriagado. Segundo o Boletim de Ocorrência, ele foi algemado por estar exaltado.\n\nO deputado tem porte de arma, ficou em silêncio e teve o armamento apreendido. Foi liberado porque deputados estaduais só podem ser presos em flagrante por crimes inafiançáveis.",
-      "photo": "https://cdn1.telesco.pe/file/bKjtRq66P6TtzdpiUgfO9MJyyKmTIaJIJTxxc85xkhFdX0k7CXpaayrm1K9az7BxzBrefsul2s9Zm21ZmOo11eA0ifGiEIOqklbiWnq8taBNm1EMHJHbG3lyHwu1zdkZHRE65cNmHjCdZFSfIrERGzFcPcqldZbIoDkbsFhFlW7wg-2z0cbofmFWtO3Pt0dQB9pEBADc0oz81F638mJSIbn0aSCaL2J55hSH0zNen8P7HeLCoQe9ik8fiYHz9X3DiOZD4ggOSCsNHNsHwEr_X3YaaolqN4I5fVIqEh-bR0BHrtFPYmNgJiIE9vSN7I3Z0BrAjflnE4E2Dmw5Y1v4qQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/UcPnl1R4O8f-1FX2wezXD3mKtfdFY4nEwwG26Qfv93C463uYVY1CuAnjW7DSRy7kn-XBv12lU8qSnWaM2kjwkpwvMsElxlbVAXgwOJdKN6ahxzO2Zc5iMLYOt9at6M-BmYUBP1TfV6Bzgdzr-ggmMXUxPrFjXt4N8w0frin66ZoJTDoak9FluKSs3NWUD00XC4mmidIgd3vyESlNxiq3lL0pmONimADAfh5R3xjVYV-30NZvlvFXGGvXrhmTw1ciZI7DXD-xqoxXy4mYt3kKZRzA7Aooyvpik1dSuJIgdUz65xaCm7HZ9yqs37MjGX-daaPHIEG6jLi8gdPMSWrJIw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "😱",
-          "count": 169
+          "count": 174
         },
         {
           "emoji": "😨",
-          "count": 18
+          "count": 19
         },
         {
           "emoji": "❤",
@@ -128,21 +256,21 @@
           "count": 1
         }
       ],
-      "totalReactions": 201,
+      "totalReactions": 207,
       "postUrl": "https://t.me/espiadinha/194316"
     },
     {
       "id": 194315,
       "date": "2026-10-18T20:38:36-03:00",
       "text": "Nesse domingo (18), brasileiros encheram cidades em protestos pacíficos antibolsonaristas e pró-Lula, enquanto bolsonaristas saíram na Avenida Paulista com um míssil de ar escrito: “Trump bombardeie o Brasil”.",
-      "photo": "https://cdn1.telesco.pe/file/Bs0Oga_paD8W7a7LY0Dfj3SVo52Unjj238eGZyxTNlSk9uNEmuR9B9VnhrXBluYGFgIT5146UDZ7YZxR8RyQ5V79pDffzf7eDujbBMna4i_Ah2yZgHgZ1jWChlXu5r0O1VgQMNQcZUHbb7GK7vqI3n05Se6o2h-0TxnrY_qbvFwxCUK5LiC2WV_eivyil0L7ppkIb2mX_13whMH2X6xbcvYDQeDPzhi41SsTe-WoslOyRhBkg4w9YWm-dU1Q6vLXMLLhIi2wzd_OX3UR87elhr8JiuraYEtoe0YvqJaSIufEYZSx3jLX7vGgAbcBNu4-cclPEo8aJaLMoLBftf_YVA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/HDZ_SWmIomlTkxaIpCxsj5D2ybCZExufZcBspfabRkuCgqrFKE-i-WYD3QbuDpKK3DXrMUGxQL-LvIIuGUawkrcSgyxy5EQRiiPVXX3yPXYp6WH8jaaW4WYax8GrDepkTI46W_oXFWgwkftf8pvApwULRN9ybSGgYiNt4m6JN9Ux6l0zXdC0eNLCXQrkUpJikDFQw2wTmsvbJn_iEZzS5VGmesxlvyZfwEfGtkxcMMMVZ_h_yQVFhHkeW-2IV5wJRVzBM8BRmtHycivhZsIM_h-TyhI4qmnpRwGdeffIaqdOQq272wTvcCuAAH3-GNc00QmcNP3ccP7MBa6tqqbU4A.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "❤",
-          "count": 246
+          "count": 249
         },
         {
           "emoji": "🤯",
@@ -173,21 +301,21 @@
           "count": 1
         }
       ],
-      "totalReactions": 355,
+      "totalReactions": 358,
       "postUrl": "https://t.me/espiadinha/194315"
     },
     {
       "id": 194314,
       "date": "2026-10-18T18:01:01-03:00",
       "text": "O primeiro debate entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) acontece hoje, a partir das 20h, na Band. Após um primeiro turno sem confrontos diretos, o debate da emissora será o primeiro embate entre os dois candidatos.\n\nO debate da Band está marcado para começar às 20h, nos estúdios da Band em São Paulo. Além da transmissão ao vivo na própria emissora, o debate terá transmissão também no Estadão, na Jovem Pan, TV Gazeta e TV Cultura.\n\nO segundo e último debate previsto é o da Globo, marcado para 23 de outubro.",
-      "photo": "https://cdn1.telesco.pe/file/DLMB5cPTep7PzKg-fDmvaR9GfnIuLnwYzsp9ZA5JuGVKYzOOcFVy4Mji8RH4E8yfUl4Ipma2IVjl_W7_ci5HxrCH5IJjKQ56wjtoPfqOIUPbBkOT1LxgOlUX6rB8QI4b8CXGviBKdaDtc5daZNNRPy5QbsP_dGw5iZqlFv4Xq_GSzuqkj6J_kyv35jLVtz_ZmNG2j0h7n_y3fs0p3XlqeUQvwEtuiNYmKgxWwBh6cBoz2VL812KRc9fycjmXg0F_-f_lTgzelLddXQ-1r_t-IeH8sMDJiE5TLUjJgNuIQlHgFPnYmmQ4GNxLqTQjd2VMXXUcdQU1-CUKWjQOPDerEg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/oZCgwFOVvS6YuLKGzK9jVCq0x1_k6lAPqkLeXsSvoQWVstcpZWJGutyLWYlSRgLuoiTZbvneNvN9rOwOGNjKelh-h_msO80pgbeZWLnbPIlYYP2dHgmc0N75q6MksZ4e30ACQVRucAlMBtpqfLSgrXYurCTObs8yo06xirKRUgQdxVW91oRZGqroV2IZ85Unywrse7P62Oisg6N-OEsjrL9bw2R3b6bpHpM8cK7zqSLTTdrWQscd-AJnlVfAzRB1PdOYLmVn8Zyok5On-q0G2EjoLlCJ4U_XxfIo-abKl0ZfR1DYzPwDvshrOq4Dn-eOgTvKjuQ18iLzWGPWL3eD0A.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "❤",
-          "count": 168
+          "count": 169
         },
         {
           "emoji": "🔥",
@@ -214,7 +342,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 213,
+      "totalReactions": 214,
       "postUrl": "https://t.me/espiadinha/194314"
     },
     {
@@ -228,7 +356,7 @@
       "reactions": [
         {
           "emoji": "😭",
-          "count": 451
+          "count": 458
         },
         {
           "emoji": "😱",
@@ -267,7 +395,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 602,
+      "totalReactions": 609,
       "postUrl": "https://t.me/espiadinha/194313"
     },
     {
@@ -330,7 +458,7 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 585
+          "count": 588
         },
         {
           "emoji": "🤣",
@@ -369,7 +497,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 657,
+      "totalReactions": 660,
       "postUrl": "https://t.me/espiadinha/194311"
     },
     {
@@ -383,7 +511,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": 175
+          "count": 176
         },
         {
           "emoji": "🤨",
@@ -422,7 +550,7 @@
           "count": 3
         }
       ],
-      "totalReactions": 484,
+      "totalReactions": 485,
       "postUrl": "https://t.me/espiadinha/194310"
     },
     {
@@ -436,11 +564,11 @@
       "reactions": [
         {
           "emoji": "❤",
-          "count": 550
+          "count": 551
         },
         {
           "emoji": "🍾",
-          "count": 64
+          "count": 65
         },
         {
           "emoji": "😁",
@@ -475,7 +603,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 640,
+      "totalReactions": 642,
       "postUrl": "https://t.me/espiadinha/194309"
     },
     {
@@ -489,7 +617,7 @@
       "reactions": [
         {
           "emoji": "👏",
-          "count": 407
+          "count": 408
         },
         {
           "emoji": "❤",
@@ -512,7 +640,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 473,
+      "totalReactions": 474,
       "postUrl": "https://t.me/espiadinha/194308"
     },
     {
@@ -526,7 +654,7 @@
       "reactions": [
         {
           "emoji": "😁",
-          "count": 240
+          "count": 241
         },
         {
           "emoji": "🕊",
@@ -565,21 +693,21 @@
           "count": 1
         }
       ],
-      "totalReactions": 323,
+      "totalReactions": 324,
       "postUrl": "https://t.me/espiadinha/194307"
     },
     {
       "id": 194306,
       "date": "2026-10-15T20:58:42-03:00",
       "text": "🇧🇷TARIFA ZERO! Lula fala sobre PEC de gratuidade nos transportes públicos aos finais de semana.\n\n“Vou enviar ao Congresso Nacional uma PEC para garantir passe livre nos finais de semana em todas as cidades brasileiras que tenham transporte coletivo. Porque o trabalhador e a trabalhadora merecem mais do que tempo para descansar”, diz texto publicado nas redes sociais do presidente.",
-      "photo": "https://cdn1.telesco.pe/file/PGVSOAW6c-xytQd3Vq59XE04dSlAJyckcUxh40HUOkpsWhcZ1mbte1pCINPAb9D578tOA3AtSQc42hQo1Anb3xeKByG_wBhnjvhQB8I0ebaiO0_cdYpmWJIzyAFAQRlEqPap9DSD7WJ1NoUPRvDwdqX_b6-SNFMKfxmpsKadHF3FMKYGs9YSIhb2ce4FqdThJDcLkwzT9tB2elc4nOEQti5gINv1eT4OC_Jv8xbZXkkt_ytarbVZIh6191Z95wXzNtRJH0w926bFfJ1WBvjCP4P704OaOwD9s_Xm1EOM4k-912-RdNLam2qG0IX2cFcHMzwtucz-fdvQA7r8zXf-ww.jpg",
+      "photo": "https://cdn1.telesco.pe/file/PwGYj70gOQbWOPffSta7-vylgJS8BCAfXCtc-Qm2nv9qYOUxTjA6ST8oeNE3FKF1svoWtu6rvvSwTgq-veGtj43ZDY3t-gpKkUvP8AE9r59Z1kw8vJky6UXxmjK205HyPYeR7b8N8EBifj7MYIKzYJZDWEbgtuI4tpOnWTWGh-V6D4QOjIMdjoQIQnHhbl5YbeEpvWVrdu-zU5fZpT5VPDv1S94gb9IHjsWBnLE5exPF88YFZiajnzbNJ6pyy5cNbcJdTxwbY-Qri-Na8IHsvbKa52zJDCGflthEbpJ0Xv1UD2O8cV_x2ea_AERKEiV6lnoavdJe5PzTqtUucaz2JA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
       "reactions": [
         {
           "emoji": "❤",
-          "count": 386
+          "count": 387
         },
         {
           "emoji": "👏",
@@ -614,7 +742,7 @@
           "count": 1
         }
       ],
-      "totalReactions": 487,
+      "totalReactions": 488,
       "postUrl": "https://t.me/espiadinha/194306"
     },
     {
@@ -911,7 +1039,7 @@
       "id": 194298,
       "date": "2026-10-07T23:22:32-03:00",
       "text": "BORA! Sem derrotismo, veja formas estratégicas de agir nas redes sociais:\n\n1. Para quem você vai falar? Adapte a estética \n🇧🇷\n\nComo é o conteúdo digital que os seus colegas do trabalho, seus avós, seus irmãos de fé consomem? É preciso falar na linguagem deles. Seja vídeo com IA, edição tosca, banner usando cores da bandeira, influencers gritando, o importante é que a mensagem chegue num formato que não gere aversão (não defenda o Lula, ataque o Flávio e o clã Bolsonaro).\n\n2. Amplie seu alcance 👥\n\nNão fale apenas para o eco algorítmico que concorda com você. Status do Zap e Facebook são ótimos exemplos de como podemos alcançar pessoas conhecidas.\n\n3. Ouça o outro \n👂\n\nA insatisfação da população é legítima. Em conversas e em posts fora da sua bolha, não perca seu tempo xingando os outros. Identifique qual projeto do Governo Lula pode beneficiar a vida da pessoa e qual projeto do Governo Bolsonaro pode prejudica-la diretamente, faça perguntas e mostre comparações baseadas em fatos (leis, notícias, falas públicas dos candidatos, etc).\n\n🔖 MATERIAIS DE APOIO:\n\n↘️ Site\n\n↘️ Acervo de mídias\n\n↘️ Drive alternativo\n\nInformem-se, organizem-se!",
-      "photo": "https://cdn1.telesco.pe/file/BYFAu3RG4oP4ng-U4sITVF-Y__iRyZVbxM-XHQyLF_iwbQfbTzmJmnpCg1OpghXx2dMK_IeeIPxSRgwIfWzdMnbaRibR5cSfgzal3dHq6w873wmidXFG5lD0J-ljcCoS1Ldij5dxBqAWBZdWzdVx9hlpjHSVit7EXY1yqriJbl3VgwKVhHu2hTukLSNFD6-CaDJzbLBwB-mvzIjhLlGqURIxCqaEfZSlNKrR6KuVJoCjaxxx3iMjfaWW0t9mBee5GV7bDErMR2SozruYerDClzZwq9MkUuJ3ODHK406loU4k1yQzaRwot2TCgwFlPOHfW6UhAaBn76TVHprLK44Nsg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/rm6BJVaseDFex7jpwF0tPb-kQUNac1MecKQEXM6e8CZNVdf9wQbbjZruzYAvmV-eisWKSls2nUTVzilD5TFIrLc_q_B87tvCehOjVzgAYED9ZlLRsHfVEvSNddBsOFzs2H3TprViAfCVq9UUeA2bL5Z-dID2B0fbiFMVJQ6fCfa7JmAGehWDvQ79GPwCiyebnwu3gRuTX3hpmDr6KazoPYw-pmuE89r5nhfbwd8w1Pd5q4Aw6eWGT-EmqPtV58JMnLMkOUOHwH4KIA_n6F8CHY0JLI81dSbxOQ1nB6OjCYdrLIxnnmA4bP0T49d9wM7dRCPMzoJ93h6maPHNbBRt3w.jpg",
       "video": "https://cdn4.telesco.pe/file/d82c224c02.webm?token=idjmnPd6S7Y2bXJ1Kqr81G9jsIpinqRz2useuxT-0kmiAcC1c3Fc6y5drKkPSN2f9VMpA-snmaLOIlBTz3KRrmJPnlZbP_PpF2rpPXP85z6USG9Dw6gNFh474m2Y_w8QWIRtRZ6J_WQAQUHstOxdVpO0XK7-kDu8Gyi1HoU6R_a5UnkKVe4SU3crTjk7cP7LljPWtRm49d_-j4zF17wQcmvfDqcE5M0cANAPasqVPzb6eumQarhu0fHUbJduX2OxdxSFMcw1BZVpB57Ty43pbA7qknuWrmTZxOPIUjSL664oCX4fs5UtKtvwFR2DE2EBTqDiXCy1r3Z2cec9fxsjRA",
       "hasMedia": true,
       "mediaType": "video",
@@ -1176,7 +1304,7 @@
       "id": 194290,
       "date": "2026-10-04T21:07:24-03:00",
       "text": "Raquel Lyra (PSD) é reeleita Governadora do Pernambuco.",
-      "photo": "https://cdn1.telesco.pe/file/WDTnUV4-QqZeT9QbVCpULG2OKjvgXNpgl7hX6vgneqlugHOz1_YH_7ZcHGy6wRrdwqGJhPILRD3B4EtgtMLULvV4287lys1KH3CfpYSz3rNaguh1rIecRKSq66B_vON3wTePJOp25xkLGVCZMqwLxHoYH7wkQ5qQG5r1oJUOTbjBV2utVgk75TL546mCmuHQEBs1UfSfOvB0H0MgWLkdjTwqv6L_xFN8xD0zYbMQUNLuLG6At1kGZYnsJtelO4D6_hmhnRsCmhZtZxWHL3mkH8prt7P-zFy_wOQmmMKJS7nLo194zQdPo1zUBBj9cClhzYhyotvywcWI2EPQZ2NkaA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/iP4s615c6rBHpDrCfkIVBW3M1UrQ9hIBQr8bzgyl7CQqprcKGNQH0XvSa8zA5y57A2tc0Kbuh425rJNrma0p5BN0_rRPTzpbGDotNYjw2gfNVRushnxEdeomyxArM4YKkcQCgJCSSxXLIq9YcM8KsEbK5lGtiVl7EFRrqnXV0lBkXqEkkjB6TZVAzejNuPdLuojVMdVepZgMrRgSbJUbYl4qGMnQLcJ0UZLFMmqGdePWZoj2NE61ylHaioGjrpsrtikpwRl5g-MBwpVgcepLxq4MQDxJf2B07NqnagU8n7rlKRMCOy2TR-m6Sr88sINbDJeciETn_0YSbb9L_ax2Eg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -2753,7 +2881,7 @@
       "id": 194255,
       "date": "2026-09-18T16:28:16-03:00",
       "text": "😱 Transmissão 24hrs de A Fazenda está fora do ar! Segundo informações do perfil oficial do reality, a área de Itapecerica da Serra, região onde é instalado a sede do reality, está passando por uma pane elétrica.",
-      "photo": "https://cdn1.telesco.pe/file/Zus4S8XxHm155-Qk5W-EvRAg_80USjqJycd7mxZtWXDvj1POPFv1lLg3I48yHU5XIy1B4f3jgxfmBNwMhGjKW0Twd3Eco60vDmWL8AqCz73DV7bcf9oR6RXHC7xhg3QyvSvfmuWFYvYlqQsf4voW2kqYI2IcO97ejeCnHWvC0xZSiqmH_5ZggVpf425BEh3g7nxQMromcLPnjNrLSPPzDijWpdoszBZmaGGmkrdPbpMY2A_HqD3Tt3QXN4OSH9gPQlOfJkgX1GxlqxtF6VEkNu48ZnmcX2lFX3rMC4wifxz5G4tulrzGHNOF5ap9wNFWKhJi1ymHZaaX5scsy-OT8g.jpg",
+      "photo": "https://cdn1.telesco.pe/file/n1VKwKEZ05JmReR9R2Rrq6tmF_zAAFvWlhPBTxuyH9RDaij85dgMLspDx_67_aS7nnVF2uBsGAlns14aDepklIlyNv-fBga_WlmwbmRMAcTkfcpBWk87UcyBM3O4vmh_vpdVQsIX83nm8ZEtlfTFdmoIzjafvtdrAoI04Yl_cGNxHxORLQnTEvvA0Mgpr0zXMYoheACnK41zDj4scNP4uqgP-StEP6E_i7jwfij58jLHSknCyJ42X3iw4ZNQWpO0CfAFUqUuBhpCLFjTzaHpBXY3Un7S9C6Yt91fz1EPXXQyo-NPKn2iIOA8aT0_fg8Gw5J8LYvV7Av8EdJSsZtlKw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -2835,7 +2963,7 @@
       "id": 194253,
       "date": "2026-09-16T11:05:01-03:00",
       "text": "Mayk para Ariela: \"Se eu pegar o Fazendeiro você fica uma semana na vaca!\"",
-      "photo": "https://cdn1.telesco.pe/file/H2l4KusPaf-9YJe8-H24i6DWOZ6OmcQUbkDtZ9RUikvgS9fzysej-SY8K3XHSzbWr21LpRHiThj73q40DPJmX6h-YbignbVRWUU72yT_pY2zBLLPAOhI5ymkPyycIJPUU1k1fgUZUf9zhu1GLZDES1UR49ri__DtllVmfzfU36WkcAdfYXo98dR8cqK3WC5-jmP-6qSSwJ_Qr3mVV2EspjM8mrpuj_7jcLf_4eVFd1fFu2MEykgfJlVixujcRspk9u8OQEIysXBENa9pkn1rsknL98hgOuetHkQNtwsjgXn6GLZwYWJxPWv1hgVggrUrZCQJRi9ysWhrODXZxVmk-Q.jpg",
+      "photo": "https://cdn1.telesco.pe/file/lcoF32aEpTKGEEbWUvugoH7ZEFNtBm89YAu1GzdLx93RlIHDYb27_KQU8C9kpJfoaf2FaO4vAuu87viAvf3aoHT60jToHmsByn_bxi-5yr1VsNrghpuXN4SQ2Jl7OtpVWtpnQMDxF177V3Eq1n5qRW6PhysYAlZwLWMlCULmqMe0tJ1uaN5q1VDIe4BlRC9IBT8P2tnSACbq6LyZT-YEBJfRJzAa9oN06e6B1fS1-eCcZwi22y-k1Rd6pMKxkKDOQBwtlHzlAR9tPFwX-B_fg1VNM7iU9pHQSEhJLHaHb5XMNwIYuU5gCHQEia9eu3s_uLWlf21BnlAKx4oRoCMEzw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -2872,7 +3000,7 @@
       "id": 194252,
       "date": "2026-09-16T11:00:01-03:00",
       "text": "🔥 Ariela: \"Tudo que falei naquele jogo foi a verdade. Se agora você veio querer jogar na minha cara que sou escrota...\"\n\nMayk: \"Ai, coitadinha. Chora e deita! Quer um abraço?Ô judiação! Como ela é inocente.\"\n\nAriela: \"Não sou inocente, nem um pouquinho.\"\n\nMayk: \"Me poupe, cara!\"\n\nAriela: \"Tudo que pensei de você, tô falando na sua cara. Já falei lá embaixo que, quantas perguntas eu quiser, eu vou fazer.\"",
-      "photo": "https://cdn1.telesco.pe/file/va6_d5V_OHWcrxTeTRl2UguomRGxk9LRSEFoLZyyNTidjjNrjBoee3JfMVWeCx3ZXM3bdvQmpqg_FyIMWt-CZ_IqUT6hdrW1G9HcKQD0-nDgHGy90bktq2vPndPJJju0L8bDtbIXtT1ULHECq4GhLALmLHXAajwwwK7kHen4U4qxGICrzf_wbH-kXB-GA4mUnLT-pu0WLSQ0kL-d6aP_lbFp-YdAMRQVdC3YuewhX2xDphu1qKMr-hSSPXPkiYr61-fYisJ__miTRpIL9--md3Zy-SIYmXQuZPwktqG9NKc6QQrH0fljI8qkg2XinTY4tdGcYgTYj4l1m6SGRh-5wQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/j1YtR5y0UH3se8F1PO_UE4WKsxK1cG5cKsnD_PQjblfV5H5eFwbRzULxI33mtywt_5O_HkWW91oZ1we5Nm0_JWGPYSmTy2Oqe9C7sixF3jVZ-OPE-kNmRLWOuUdkRFqhczIdfwjQIn2lj0_1eXtgemdck0Xmi0vuVj6q5lkKygHfEToOwVAuQN8Z5hWyo0r-_RBWJkSIPtPcWI2ebFl-yFmEmJjzLx00EsLVkuugkXrUQZ-wxVM6YgkGVKiG-HiNQJHVY_tnVh3mEPL3-zBnwEUeh9ACrCeeLg1eOpVXgzFDxBONQWL2-KgLiyxEdJH1Y-bpnS02mVWHNTQ7NEKazA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -2938,7 +3066,7 @@
       "id": 194250,
       "date": "2026-09-15T21:30:01-03:00",
       "text": "🗣 Após brigar com a mãe de Lexa, Giovanna Gold diz para René Tristan não saber quem é a peoa.\n\nGiovanna: \"Não sei nem quem ela é...\"\n\nRenê: \"Ela é mãe da Lexa.\"\n\nGiovanna: \"Que é quem?\"\n\nRenê: \"Uma funkeira estourada, pique Anitta.\"\n\nGiovanna: \"Tipo Luísa Sonza, alguma coisa assim, né?\"\n\nRenê: \"É tudo o mesmo nível... Anitta!\"\n\nGiovanna: \"Não, Anitta nenhuma é!\"",
-      "photo": "https://cdn1.telesco.pe/file/oB0lYDYsLaHAsZw7hasGv78_r96iTIWDMCSfLmA1V8tTeKKhNWtsh2QaNDK6W1JSql4lBLWFqqG1ToGpBhE4nFJeFyxsobOeOMwY_InVVLQDk6bKKRUbsaNjT57EzmnPpmlRnY4LcU2t91WILfK-bL97GD_AA2cZAGUrG1voV80crntknXEBlAL01Pwp_ZzjGgHFKt0F1XTzlXlQspU7F11Nnk26OkseLMWF86XeLy-zeXuirYg59JzL4hh38Q4MtbvhUDKrIxt8dUKM2PCtlEZNQn1FeF-6Ni3PNEyYqjxK07VjmSxKX9rN1xZfUtMjMp90adF3MC0W1YI5nh6TVw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/J_BPLKwQSN-BkZ0KKg97XOqJ6j0D4uMcd8pnp-dTqBAua8YnawiqjRHITKgrtjKXW0UBZT_PmlRCm_VKXwvOJf6m-rU-R2LII6AdpQ-W6sd8uyJXNo8uttvQL3xNtiEw7IbFf404BPEOc6mQmmMbtvPAtw9F1PSJf00gnOEarUXLg7tVzP-V64oSMf4TpIRS0GhXT5EJCjjwPnouI2BGGcXvEFDgqpr5kSaV-RSnOe4LRv-YwUxtENkFd_2cowvlojiTNqszDN49TX8lBJ1lBQPBmfb86POqXMXpZBjM-ANnyGzMZkgApJREuo38qkXK8gawFgsa9jy0oF_WNJTYGw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -2971,7 +3099,7 @@
       "id": 194249,
       "date": "2026-09-15T21:20:01-03:00",
       "text": "🔥 Giovanna: \"Chata pra caralho!\"\n\nDarlin: \"E você é chata pra caramba. Pra quê isso?\"\n\nGiovanna: \"Pra ganhar protagonismo, pra ganhar texto, reality star.\"",
-      "photo": "https://cdn1.telesco.pe/file/nduGUTIduvhmBWGlSc2byxr6aE3NH9MW5M21ocvLPgSt-xEtY8BZrGkwDnyZ9uLj-JAKuXwtyXSvdDMzTciYdfKe6SZPDD5AjS1kam7F2eERDKyUWC8UYd8GcrJvIpdPE99_Jak4WhzjO01B_DlTQikmQF0DxqipQqyZ-K0PWA4vnw_Q2ooEMmH8Ba1We6y4oZfhPRcCgCn5yZ6u9rwPkOTNKQSmzxC1wEnYaFOJWVSuGBs6Y_edCRHiJmGB25GCNFVnMhilDZYlWgAV1du3MC0s5u-u-UCwVq_DlOgBhouJwgOCTTxkmCXWCsV4i4dIw9Hcyo4k4DOdax0fqPcoaw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/Z0EPY8vE_1n6eFWhIe3Cy3ThKhHgLlroO-_32phWzxOgIdFslisPWQJ4DmVJVhDjKc_yLv2gRD9FyGqGum9p5-b544faTBwY7-44gorOEMyuuHVedpKsIs_EJMeh_4DS6sO0HoE48FGKZY5x5R7NNmQMTszVVuzifRFK9UxoN2uEzwy52Z6w51_XQwcqfMju0exBSQkYWV1NqSDYQ6R9YPrVTl6xQyR6FReYsJVZzCQjnWbdvEvjjU_PUL6WGtc_zhPjYGFEY25PxILuwuroTpDCHwrcznumJ81nMIZ2qTNqWpO9aJ30dH59SZ9q2abGc_zbf4j38icOe55bmF4u4Q.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3004,7 +3132,7 @@
       "id": 194248,
       "date": "2026-09-15T21:15:15-03:00",
       "text": "🤠 Em A Fazenda, Giovanna Gold e Darlin Ferratty tem um desentendimento após a atriz jogar um copo d'água no rosto da mãe de Lexa.\n\nGiovanna: \"Quer escutar minha versão da história? Quer protagonismo em cima de mim?\"\n\nMãe de Lexa: \"Em cima de você? Não preciso de protagonismo em cima de você, nem de ninguém!\"\n\nChiquititas: \"Tá podendo escutar? Antes de você brincar, você pergunta se a pessoa quer brincar.\"\n\nDarlin: \"Mas foi você que jogou água em mim.\"\n\nGiovanna: \"Você que me forçou a brincar com você. Uma mala! Eu tava quieta no meu canto.\"",
-      "photo": "https://cdn1.telesco.pe/file/RtSiitbcBCgDbqr-umMusy3EkqPgExu671MUJLqyxCWS2NV0c3989WmAkqaoWj0teQqad-5DLE3-DwtAC34yw06YAAYvJaDdnPnB3nKuKLV5mTDJRovdRfgf9iTvMYwnoHmfKnxfsd5Wiu9PDKs7cBwm3X2KaQREiVUw_YZrUDfETu7mh5mIpWX4Wfe5beH758MJTFyC8WqXPUPJqyTrqqBBpdSfA2vwnPAFLpYTEKbslDIHQblkH_Rp56iomHxcU56s5YwD5AbYzgt9umzOE22MTaATzTBiYOTOHOaOTslF4vjG1nErHaBWzuoflLdpYIcdWIuJwnmcGZFhGLSi4g.jpg",
+      "photo": "https://cdn1.telesco.pe/file/edOeQF9I77Olj9eiXCbxMDZbY297vozS4ajqhPOTvu57df1XXsJMewrDoxxoWrFxU7FVGDYtHgzW1tHRHXSbHnFd_p2597qR1eFj8W2wnrwzHUSMYX4JlH7wqLxVM-qj1aA-pCSQeg35aY7HrwO5tJjaXFfjnSHPiqrMdWVQEt0Kr13itibhchHmqu-u-VJunABiLqKdRZXa43VJlbbwC5ZBFGZ_eTAclTIax02sptNlcQsBwoX5xhuddjy6sYo5iL87gLLP632yEPJ4jkQoDv_A4EIXYef-xaWVLpX0tgI7XzQmGKA_YkENJTqIqtA34rprNP6j_X0W7G5tHqsZnA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3037,7 +3165,7 @@
       "id": 194247,
       "date": "2026-09-15T18:18:32-03:00",
       "text": "Globo divulga sinopse de Avenida Brasil 2\n\n14 anos depois, a vida no Divino entrou nos eixos. Tufão está mais bem-sucedido e a família unida, até Carminha reaparecer.\n\nApós a prisão, ela volta como Carmen Lúcia Araújo, transformada e admirada pelo trabalho social no antigo lixão, vista como símbolo de superação.\n\nEm busca de perdão, principalmente da filha Agatha, usa a fragilidade da jovem para se reaproximar dos Tufão e é acolhida por parte do clã. Mas fica a pergunta: essa mudança é real ou outro golpe?\n\nCarminha e Nina voltam ao centro em dinâmicas inéditas. O retorno dela atrai Renan Vitória, nova liderança do Divino, e os dois iniciam uma disputa de influência onde não se sabe quem conduz o jogo.\n\nA trama ainda mostra o cotidiano do subúrbio com novos moradores: Salomé, que traz comédia, e Jade, que luta para deixar um relacionamento tóxico e estudar engenharia genética nos EUA.\n\nAvenida Brasil 2 é sobre perdão, ambição, família e vingança, com a dúvida se todos cairão novamente nas garras de Carminha.",
-      "photo": "https://cdn1.telesco.pe/file/ZOVgHLNtZPThf4LETKn5VdML9kqsgjvYLEBFJC2SLwPVku-uRoLFHpCaJlvZmzEZbpyhSVAc7lDCDzEkAFa316TpsoNPIG6HazRFhjKb_FJbdZKuywXJRfJeMGapd3nlBV0waj5S7F10cIKYdOkExyVML2HZY6QZ-T_cEr539VgBBN5undgDYpW-zZEPJWXlJe0O5MYS3Q_9sZrtbgKy4MZyiUwEHzLHHU25zpX1prZ1jd75Epzdlptb4J03WE5KS75_Tb-J4_AqZBUuVpHL464rd1DztX3yWr5UMQRqu9MF_bWmuCrQ46tzXMGmPw3Lba2OZli5OuUx1c99MxwcJg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/Z6o1BMoAzOSt9wFvcsJB1Fkzrd9GUfRpTcEopo57ooon4sAEWJvT-izh6P93ViAeeb8X5uk1CI5GX-Mvj0Dycs-KCqE_FE121ll4JKjPEWHmICt-18tMQ4_0yCJoDRqFo9-2m2lX-NVRSSO7faADFXggYxyVZqfGr1FpqIuabn7QErItvr68Dan7dmf0jzQJgnN0p7VllW54tS-pBFuKOurKDGdccMgPRlrE4v9g1Nf9hLXGaI3PP-rQuTySh6fyeErPq6jFYGpd9CRzy_MRilz4p0Sxsz9Tqmch6BK7W9t03ZnevpPTvEbwS_PImnzZ7kJgCfby0qghhXOzdBoWMg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3135,7 +3263,7 @@
       "id": 194245,
       "date": "2026-09-14T23:15:12-03:00",
       "text": "🤠 Você sabia? Após passar quatro anos girando sem parar, Lucas Sungas consegue chegar em A Fazenda 18!",
-      "photo": "https://cdn1.telesco.pe/file/Mc9ca1sqa4BjRQmGpWbNEkrAYAs7e5NR0Iw4CNDlzV3JMm-I7PEVNyk-AGbkPrOHbnymtZciOIS9g78q7gLl3nRwJMsCFzb0U8y1IGp6v-EAPNqWmWPRFG8EspeftyhjhbgXOcPt3LpdAgoAr_2k6qPCLrihrgbiKoFR5bfYwRSSeBB-0ggJYcY_tVnGsCWKjykCQotHpTJDHEIGa1yEE7iFJMW7LxquwQ8BN9oVWT3lwf_3TmT3yv4rbAcwzO6BMaRMneeL2s8pUKUSGdWx6Ito4w7zoZUy4umV5MjrebUAMvQ3BXRZVTrp2xqDi-GUZJA_ZYPBj3USb1IDuP8S6A.jpg",
+      "photo": "https://cdn1.telesco.pe/file/M6JIho6flqVXA_6cu6xi3ZDP2P4lIYX8e19w9ZHWb-AADtXD-N4FzWX69dK-TZarU0p3Xxuo7-s2OUmkxPb2g4FQk3OIwFHzgFbEpusccm7akdLqa_ZWEpSh08c963RoeU-unEMZVmn4M8pxKsd6PmEZmOmliExUBZwxQkAdgddSyrPna7e7Z0xsrfnbKAI7JDdNvLIIs8RBTlIKOAQUZdPTJghfvjJdXCx3xKVwm5r72tuf53GvEp3gTUauUBGIqiiuUkJodoKx8qZ2JWxiPHfdTLpwGxmfTS5mnlo0y1F_yLUnu6iD9zA-InqOZIKMtCv0UHEXyaA-L_sWGlb0oQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3180,7 +3308,7 @@
       "id": 194244,
       "date": "2026-09-14T23:14:30-03:00",
       "text": "🤠 A Fazenda 18 está no ar! Estão acompanhando?",
-      "photo": "https://cdn1.telesco.pe/file/p5j-wlJGF4YHYAm-MCI5_2_Mx7TjlJ4OGMgkGCgFuNudRfpMwmFg0w3tHolt0ChckfOWoIv_4VkKcOXI1wmpPn9h7FOOsbZwJD85uUbWl922-cb-sgg1MuAouHXcSm4temBKfPFGsw3yYu1S4M68ZN0Kv11az2QQ2_ne7Ywj84Asiu_kOt_vOOJ2S9GZHidxIvQR0UuNCCTpbPcVBg2-v9zVEuk6P1dtYG3ljvVViWqIEhiicmgEYzGiultI0eVJDWqaRlaV3JgPTPiiioRU8GoaYXkPP1auiOheTCMZPXHArIBYdLBAuYzbW5NQ_2FTyyjMfpMT5X_JBX9no9OvmQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/NGGnx9nnZnf37rAs362L01ZyyVH3RK0jakvvPP1sSULu9GzZYo7SJoSK2JJ31gQoiTwf9GeuuZrDQgp-qwQ1qUPabjfzhEEwfepYxCXIbsOGEroy5BSUsLyjcXBoaI9n-ksyrk023jiyDRXsyKrnoFwYpl4tUt1KwlyALMDMQGOS2Odape-jOv66RXIppatOmkvPlWi6RBu29kaV6xrrKnijoRvG67vYE7_J06NO86S94b5x6tARkTgUlNLNS3A1da0mYSC_dXMY3Xv6vTTEwReiy-aj1vJbUGXbCTKYAWt2FgX0gvZg8TEJPf-a7rlVhSMMJhOogj01QTsuF_Zttw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3213,7 +3341,7 @@
       "id": 194243,
       "date": "2026-09-13T12:27:10-03:00",
       "text": "🎸 Último dia de Rock In Rio 2026 começando! Essas são as atrações dos palcos principais:\n\nPalco Mundo\n\n🇺🇸 00h05 - Twenty One Pilots\n🇺🇸 21h35 - Halsey\n🇬🇧 19h10 - Lola Young\n🇧🇷 17h00 - Ivete Sangalo\n\nPalco Sunset\n\n🇸🇪 22h50 - Zara Larsson\n🇧🇷 20h20 - Marina Sena convida Céu\n🇧🇷 18h05 - Joelma convida Viviane Batidão\n🇧🇷 15h50 - Carol Biazin convida Joyce Alane",
-      "photo": "https://cdn1.telesco.pe/file/dbgieckGC43qPBC2ebRCrg1HvGGWvfiCKa7rjGiF61zfZvnWI3xvwdWrYQWfLP74hBJ2AhwMhylAOiM5BH4XKK7c5ghQL4q7hwCYOj0J04WrWwBwKfF2GgtNTDiI3J4zgATNRpoo9cCr6JxZQ01a_xa5Xs8FHfNwnqj3J3UWvyxncP9hwfxxLa0hhl8KQ6NTkjEL4TeeY5U_Nf-ODo2be0eA00GRfharTAKO4aZuv-4bv56gt6Fw2d1iaHPUa3K9M4VKwX3K5kicWiJI78wGBVjFBsGmp8YQgsm1N-NV7VZ27L_7_zMykJTfXiXD10SXI5VfzIodZg2Eu7_pQfAhSg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/flgRgnE2KI3y3iqGXrV_JBysynaJZG_rpVkHtj9eAKcFkeIp2Vd8blz6xgCWWcOoq5Shfs09SApUCSRbKbL4WSqm4N-qR8TcOz828pLRUaXG1EEaUz2wf6-WqwJa5yaGPzF14iWwtGuzk26LVZfgdwJSLG_4XB2u0olXKq8b6mi06CSsqi9vbNuvlSfMcO4qRzgvmRV1oeeuEXtj-L_SGJDSDcDR67KSI1KoNQhJLwjWy6tQsFzJw3KH0wUHDLmo16fL2cWMVURywJKcQI_r2PWsgrFyObdu_rpq0uhYzHrZMSd6Bz9YdEIn5UTNJ_fY2SSprckoPufiYOugGDS92A.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3246,7 +3374,7 @@
       "id": 194242,
       "date": "2026-09-12T10:57:58-03:00",
       "text": "🚨 Suposto elenco de A Fazenda 18:\n\n• Mônica Fonseca (Jornalista)\n• Adryana Ribeiro (Cantora ex-rapaziada)\n• Darlin Ferratry (Mãe da Lexa)\n• Eduarda Braun (Miss Supranational 2025)\n• Stephanie Gomes (Filha da Solange Gomes)\n• Maíra Charken (Ex-Vídeo Show)\n• Ariela Carasso (Ex-Casamento As Cegas)\n• Tina Calamba (Ex-BBB 23)\n• Fran Grossi (Ex-BBB 14)\n• Catherine B (Ex-De Férias com o Ex)\n• Renata Del Bianco (Vivi de Chiquititas - 1997)\n• Ana Bruna Avila (Foi mordida por um tubarão)\n• Giovanna Gold (Dona Carmem Chiquititas - 2013)\n\n• Sérgio H (Cabeção de Malhação)\n• Jôttape (Ex-funkeiro, atual cantor Gospel)\n• Mayk Leão (Filmou supostos Ovnis)\n• Jonatas Faro (Ator)\n• Daniel Erthal (Ex-galã de Malhação)\n• Rykardo Negro (Ex-bombeiro da Eliana)\n• Gabriel Torres (Ex-marido da Mara Maravilha)\n• Thaide (Rapper)\n• René Murão (Ex-Pelados e Largados)\n• Igor Monteiro (Ex-De Férias com o Ex)\n• Murilo Dias (Ex-A Grande Conquista)\n• Lucas Bissoli (Ex-BBB 22)\n• Alfredo Amaral (Ex-namorado de Jaqueline)",
-      "photo": "https://cdn1.telesco.pe/file/ZvNlaHC4s-JfstsGfSKqr47emMH8_6QC6DAQKh_8rJQkuZN1_HgztYhFHlIPENzqXGJQU68z5SJ9dVAR5h08Ab_1GuxIGTq1axP-W5RXFk2iFgSoMFopyZfzdNyuf9JGpdvGpdFVTj0uS0LgAxaeTn5ToVZNeZcBCoSbretAOMJBao87PorDvHzhHN5de7ztL8u7hNFUqB7NxndRDovQvZnAySmZtA408MoxA7Z-QpKeJkvuQAzuaWunC92-115JUw2v1aUExjhZTVajQhknJAP4h7sHUx9ln6hHyQxivvly7vdCpm3qcD_BupF666FtB1XJxgr_i4ZstaWhC7gtIg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/tvT_N2R6AYOMsEoCx6ki7rCru97wMgj9qBULJD4DF274MjanzXa1kaSCQXZbM0HQDAgC8dimPtSO7yS6Nd626WSN4HAqReGPFmdhmR3Dd3h8jCOnZs6CmHa8wR96iqjGJVgwjPFlQt5cRB2RNe_7u2viNuXkcoZlnJIokuO7XNAPifpJlgZgWbwpoirzcaZrhgg_5lg4Rp-Lmlru4KdGzlvG19cZnNjbbmo275XFu0DscBhXeRx10nMhczV2NZofvUDfCk1hI16xAhq2Ryw21O2WWXC0K1ShR4k6GaqGo8ZdOiDqt0uD27pHlaUzUNmpPFuzSY0Xvp4xpEQM5HkqaQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3299,7 +3427,7 @@
       "id": 194241,
       "date": "2026-09-12T10:48:13-03:00",
       "text": "🇧🇷 Hoje é o penúltimo dia de Rock In Rio!\n\nPalco Mundo\n\n🇺🇸 00h05 - Maroon 5\n🇺🇸 21h20 - Demi Lovato\n🇨🇴 19h00 - J Balvin\n🇧🇷 16h40 - Pedro Sampaio\n\nPalco Sunset\n\n🇬🇧 22h45 - Mumford & Sons\n🇧🇷 20h10 - João Gomes ao lado da Orquestra Brasileira\n🇧🇷 17h50 - Gilsons convida Daniela Mercury e Olodum\n🇧🇷 15h30 - Criolo, Amaro & Dino",
-      "photo": "https://cdn1.telesco.pe/file/ZD36jpDzB7QkpAshZkF4Tpag9In0dap0y1XWGHq5aDy9rH3fLJaRLGVQFRDlQ0u_bZAPIRZDYXcVfR29g0fS4Gu26f4IJYEKVUHCx1s6OHJxBPaga9UB1MidxfQDH8Bwnq6HN7-UQF-13qm47QBp_koEABevHmX-CesGmlRTBrGETSREDXvvm8237P5hNYKZmr_j3gAoraQNyK2N4jg95SYe34Qqf53ZcJuF36UCTnpE7UQRXJoT_e4hUszSrrfNIAhiSbFqi67OpDicaCS2NbYtJ0qHYCRz9ug5qFhdD8jxtwkMOf_JoklGir1l6JKCaUMF4JUXeJ3byI6r7zbTWQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/LfPVf6PD6qoNjAK2tWkwzVwsc2Wg8c17vv4Fu_igrF-UbZRZOdnCyS4pwafySW_4OOlBtA1Z0UdQFaBep0ZwnqzRO4wHW5-YB7bRz-JNLOA0jhkeG-QXaql0iiJ-fLLpnwLjRFW9WsSWdAngG6yOvcR3HYMLMY2oH-mFmc1HBHxErbtXCl13CkELUPw_aGo7bI6NVMaXjLz8yNoUbsTL-8ecMO4QwQ_b9YT77tJk_9hWN2vudlVdNnniGW9T6xljb-76Y33emzJCU4aUbgK4mwHi37CTqdTO3O3VE4F3hm_JfDVwmAyQ_16OUwUdmXx2nuIB68eKIPpghVSu92sRxg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3373,7 +3501,7 @@
       "id": 194238,
       "date": "2026-09-09T15:45:57-03:00",
       "text": "🚨 Apple anuncia iPhone Duo, seu primeiro celular dobrável.\n\nNo Brasil, a versão mais básica custa apenas R$ 21.999.\n\nA de 2 TB de armazenamento, para quem não gosta de economizar, sai por modestos R$ 30.999.\n\nComprariam?",
-      "photo": "https://cdn1.telesco.pe/file/vOqRCAwfKSPs7oh9brnv9AsB8VD8RxErWwvV_5aO7Ou7_p4f6mu2P-hU16vxMrpSKnQcGva4cIMRIQ_JNINiQeAyzxNXG8Yr_ZVrlGIPOyf2BTCHC7hEM6mEFf5poSgJa24IXk0BC_ktRJylQFsiqy7VSeUo9xef_jysLIL11XlYZi0xKRGa9fQyebr2KHt9luZwgUD8aZ3U3dHA-heIo0kokJRI57UA-GymaZP1psO7LsCJUW4vQZO9Is_kAfkGujIPb-b7aNkgUZSvc4b0RCwTHYcRhMs8e7MW4TOynf8jviLnifz3Ra8Es2rBAVXKNIrhMw7OY7-cHFaIohs0oA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/noLxKcT324rTPmIDI3ht0SK3j_uLMSOyq84DM4XvyugxhJAO1ck7lzYQ7lrYCAZ_Fdfj9nxHScjoBqOQEfYvpqwtBXrQpa8AaJF36zPurFY6MpJCO1x3FGvQBFQlRPCWOMZ1hUgJcWqeQVJQxVMsmhCmwgMJ1VI0qLk14UW0ntipPfGc6PSv0I08dlF1QZAlOns_f0ohsYpgsgSbdZng93XZG5qhf_J7c_FynpQFLfb048xTmmq3XdvZFbYRSKgpRoeZE9AkvAR7q0SbQCJIQCNW6Ndo8JV5p1qfmnAoT76PbV3QMs-kXBdAxXcSX5WwVdavWW35tkpoWeyf4RkbWQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3418,8 +3546,8 @@
       "id": 194236,
       "date": null,
       "text": "🚨 É OFICIAL! A novela que parou o Brasil em 2012 vai voltar. Avenida Brasil 2, a continuação, estreia em janeiro de 2027.",
-      "photo": "https://cdn1.telesco.pe/file/hLMIf9hkMx2tR6z7ATmrF5-odvAuIUACeqFJlJJAIJFTYhI5NtxmPmblSTE--Q6a9HiVXw7-qXOoPatPsykMHgDtA4GlzDOaYPNiZFnWGGJYuF8Y5roS5MBtmErY5gIgRNcOp2BUe39H2FD69LQpTIklVdvfaYVgq_ejAqKW-G8Ja8D25i9rsFgaCU1rwQC3Krhq4RNY40NHIx9m1Tt7YxWaHNu2bA_ZDRUCTZMxt3Xxhbk0aki5vw_tOv89k0drk3gMUYuLDqfRgQm-9Quz8BsgwsTvjxE_7JkTEGazMNO3x8Ghf3fZmfkRzdT9AEkUXu2uDEfsEmWi4ZT1SNgZJw",
-      "video": "https://cdn1.telesco.pe/file/6df9b2d7c5.mp4?token=YFg7Z9puzWYXI906xXqQt46cCfvZp3LXeAw9Txx8AOYJNVosIWwzUTZlPYcRMgM2kFYS_j6RB65NzZO6zzIZR75a8n9IIRW48EA__dURIDDN1mH1D7c8S1Xo3knyKqkkMGgH4T_oz8vV69-mKmdlkVgqFUirlOYmpKPAIk9Je4V1VN6cXLmoWBx4BPYy_2RV6nMsof3W6lL5aYWB7XZ6Y2UrGwliQaTbXYbegJx6Nsphn5tI3ulknIIfMvXeEy-YTOi61YNGd4wZ7CLxmdDzIBAEWOqZL97pruZ5fvhpK56e6T5qMFDsnQTzhEJ2tL4kqzOOM72i40UUoaKjbFJPBA",
+      "photo": "https://cdn1.telesco.pe/file/cDY026AolrnDIKOfgWH2VEaKpeBUrexW2tlJw4aaPfegJ05v7XmBra7CRjjzFYNKmuIVyqlDvg2m_J3YJFLOQQ-iv878lNsQRzVs4nk2xSLSf25Llb_pcaHiFEgmAtyp8IVpcVPRmYs9Zzv8j-xw10pXVX4403tWirIN6wK3M3a8nzo3bU5ziPxYYN8TzK78ANPsCSPEp2kpE8BjikOmmNO2u1JR7YF671sjw0m5tNnw28G0QgHsoqcbMdENUI4tN3yPZ3D-Bnim7aRb05XpDSDQ73UYcwyYIrPIRDzBD6SrQvn4KwlW-46ulHGY5cUGVPa6rD3jK_Xe18cbR6UQ3Q",
+      "video": "https://cdn1.telesco.pe/file/6df9b2d7c5.mp4?token=b1sRCDro-fbTJ3l29D7SdPiqr3SXZuvJ0nUS1ARZS2CuwL_2FC3NaqInzz-x6j2B6QA9mfH7I8pbNOA1SZnICQIcQWJJPtjpgCEWRlBXhyq0qqkDDmjXs207-lEys15nvtHSriI52bf7oxRw4AEfvNM7p9T_WARCBGOYbRlsnQ_06ZeZH9OXJFo4DZ84RObBvfaF22q4nlx28qhtNPK2YayxxGlWd6Sy-A7a_zrIpjaNJQmGFl2BE5tLNamnOxsqyBuIXYJ_IcLuSqP4s1citlOaep_FauezGptR8Pib2jE8lxjrPkjM_2UsH6yjrUj0yIcAJb-krlOKLJ-bsyIElQ",
       "hasMedia": true,
       "mediaType": "video",
       "reactions": [
@@ -3512,7 +3640,7 @@
       "id": 194234,
       "date": "2026-09-06T16:37:47-03:00",
       "text": "🎸 HOJE TEM MAIS! Essas são as atrações dos palcos principais do Rock In Rio 2026:\n\nPalco Mundo\n\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Calvin Harris - 0h05\n🇺🇸 Black Eyed Peas - 21h20\n🇺🇸 Nelly - 19h30\n🇧🇷 Barão Vermelho convida Fernando Magalhães - 16h40\n\nPalco Sunset\n\n🇺🇸 Ne-Yo - 22h45\n🇧🇷 Jota Quest toca Tim Maia - 20h10\n🇧🇷 BaianaSystem - 17h50\n🇸🇹 Calema - 15h30",
-      "photo": "https://cdn1.telesco.pe/file/Uu9aHPOTKkBDO8U1Q8A4CWpEtrzSAg_eaM_XTnoQJlAuKpKz1AflQFB_NirtDFTrWroZaaUGOSeIswrmnrP_D3cgG2olwp_iPwYTEeXSPhAjYuEk5A1OKqkzcRtvOmoPizQ0ndAAMq1EvI26vAZHrhETT08S32MR5vWPYziQ8KkexUxElM3RhQ4WTOgP66YRB3A1Vla_WlNWJC8j3LD3gUP5nO_LhxCniUFhew2LVLe-_l_KR_ZGI419Hbut21bO88xhT1DX__2FpiFIqOB_rJu6283XdsbKRFdUuafoJOSGP-n4nl3IwqAOLWzrGSKQkDdSsiUDwooa-4HiJUZwYw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/KD3JHv2lWDInW22mZ-pRkXgMOldEBAe_VyiQOzHU1BV0SGzVfryxXobttGKrOESIjjgmIGnWXDP0r9XNhV4vuWNIOt41ZMPeBcG-OQoPk1nTdi4IRS7jIlOWcpIdoaxf2jAkysBawokj6kw1-OhKj8WfUW69SBgm4h5mfWReQr2aIxlRv4P8EKrmiVva-6RglFSC1MB1UkxYc2osdJ_2V3lkS-1R9ePiyUHdT-IV1Ay54N2StIg-gIAsmerzUFhdTXKF-OSJ-luHRh5i_GYShIuzxXuJiPk80jApI0_dsK9xNUsoQ8KCwPIZPPgbTOJik22O0J2eX2RVTFjcoTLG4w.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3553,7 +3681,7 @@
       "id": 194233,
       "date": "2026-09-05T16:19:48-03:00",
       "text": "🎸 Atrações principais do segundo dia do Rock In Rio 2026:\n\nPalco Mundo\n\n🇺🇸 Avenged Sevenfold - 0h05\n🇬🇧 Bring Me The Horizon - 21h20\n🇺🇸 MGK - 19h\n🇧🇷 Sepultura - 16h40\n\nPalco Sunset\n\n🇺🇸 Bad Omens - 22h50\n🇺🇸 Poppy - 20h10\n🇧🇷 Black Pantera convida Nervosa - 17h50\n🇧🇷 Malvada convida Day Limns - 15h30",
-      "photo": "https://cdn1.telesco.pe/file/nz_-EMeD2JXECVj1kcJII0Dnv-BvQsTaEWycjmYqeHHGKCCIrrcsUYdA-6qttHlN_Wm_ZfKq882zHteNjwvVs9rkNlBL811ygDgdrr4scO7F4DlqYWYbqh5CyLio2WieL169WHHpralK_j6bg9oxYLZRho5nzTFsaS9Xw8I_NEk4bVujpe_IZ8eU0vw-vnPfbe7K8PpA0JHNJ_ykCVsflFFVOTd5d6nKvcEBO1XFq3z89xRUdMqXJG9eKJhXlG6eOr0LN8rCjViU4xSyDm4OZecf2-YyfshN9-b91P1EIL5qwRkTDBFtABlaMyxc2wfhZbxC74MQ92nsquIrbn7wQg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/ruKyPtJTVwxCdBa59GzobW_Jq6ifP3r7K5hBUP7rBEoi9WKOQm59JzGzJabuvRwLanvqPTbNvZApzvoGQp6o96ZTD5O3PbaYFrnzKHR9eFL62gVoPOhtHv2dU26yCn_bIJqMok3AuW6sJu6eOSlg-JnEOpaaHcHtMobrFgePXq08TRgDJjeorjPY-H68Ar9bs-SgR5rRCdhEsxbIEo-Wn9nggaL4Qni7J2gSWe0b1sDH-OWvpmXzicgdUMEx0ut9YKyy81JjwPqSgNutWFCafn_y4YU9zlkTeYYeUwg9tAhckUvFSMMW_DN4_8GKX1iLPcHH48mMobE5JqpVG-fZtg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3582,7 +3710,7 @@
       "id": 194232,
       "date": "2026-09-02T21:32:10-03:00",
       "text": "👀 Tadeu Schmidt publica foto com a equipe do BBB 27:\n\n\"Acabamos de ter uma ideia sensacional pra primeira semana do BBB27!!!! Eu só queria dividir isso com vocês…\", escreveu o apresentador nas redes sociais.",
-      "photo": "https://cdn1.telesco.pe/file/Tz3UzazVB5Zpt8YcjZ9Q6bZg4aAlo07gMdF6yKc8FQl3lchkwQzK8jGgryOADi8z7TV6jDlUr4upFUqeQgLhvglktFz3z-0BvIMh_nxy5ygWCGQJUVSx7gmEcyYyXEhxZVEMR1WLnDDDP_RuIver9QD3O1LA38tq__YkX1pGn_cp_PbwhT4ldqQss_2Td2BEqg65_YBtva0IimJdTeUKfaNRfw-C_Izz-MOb_HKIxRau30pJT1HS8NdrmU4qPoOPJc71LG0aKTYcufrAAPHDPLWpCZilytQvjCuAmLQb77lpkY-25Gg9aGIseIy6_3NRUDQgL-S6J9pPtxaanGpPdQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/WI-u2ua8aBAVjLpPmahssoy1Odn8PCMEiVgBQRGbcyKNf8PA9YY5Q6MR9UzHulzLoZU0uh-BydDvWgFfD3vsX_Hb9-GpT-x_nXbHyd6qfmkMqsh_O6a5ahjUeLBl9QPe06BqdiwDKMa6FZHYwoPVQneloxWD7uo2AHu5mQ9-rEkKRDLNT3dLg0lFwvCv86HPGRVd9_j3C8_J25p5KW6OLwZyly753SQzNQ0TCLfqvWdm3s1n9ffTpOoXmNqEMqjSqh5-tJ15geQ9ejObm7YnPJchn3iE35ROjbax_Qe1oTK9VQykOu7l31wmC3B6SYmYUEnWMzcokWypjib3YjXReA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3623,7 +3751,7 @@
       "id": 194231,
       "date": "2026-09-01T14:53:27-03:00",
       "text": "😭 Gabriel Nandes chorou após a treta e foi consolado pelo seu grupo.",
-      "photo": "https://cdn1.telesco.pe/file/tY7-hhD5NTb8qX7QtUAJz-CxQ6fEw9WXTFcRswGI3Je3x7cW5cJvJWTKMlSL6aeH64tPs8kxAaatyUcRvrCHALMwY6fBMVIB1GWDE8kjAyPqfsaqGOJ2LBeu_g-n9sYknHxHp9g7Fcrp1FbJ3NYTPXbBusIwuHq9ahGGnRUY9oY-T1gtrXxVJGBt39Aq8Lm6nLj7D6SXmnY553rqfPlcCAExg_rwnArqed2GAUn1LVFt69Csy9GpCVvXeZ0uBjiUMHJIwtYvoJgbahJ0kFklF80gMEZtPOil9nUq0NG9xLppPyWOKdjBHOiYGehnK04ETt5hwqAE6kq0sybQKteWEQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/TtQcy9TnqYBfSeLpZ3sSYqc4FJdHxnO4Yc8M_5JWMrIlLIHpgGIalIewUO7TET2A698tQEyvQkBYhPIixtbShYY4_JmfEORmt_yPoA303txthN3fveu03lpdnO0pCrWOBXxV_re_U8dGoHnV2MUFhsxbNlry9lClRVBSIkU-vhcQBxpBtEoZjfijbHF6Zd-nwCXa8-8RMUexgcT_umvFMRc-1X7snAiB5y-fHkkNtx6hUmJOosDrgBDhhEXap1hPxlUcIqIYPPWqhGruJ_02BNBLB3VVxuQ4pC57p4UQynmYyucwQ9gTJbtKbC_a19zh2UFJPROBNSwaKPckSQjRrA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3660,7 +3788,7 @@
       "id": 194230,
       "date": "2026-09-01T14:35:21-03:00",
       "text": "🔥 Gabriel diz que o público sabe que o grupo Pop tem talento, e por este motivo, seriam campeões. Vick Nunes rebateu o colega.\n\nGabriel: \"Se o povo estiver vendo isso, o Pop, além do nosso talento e da entrega que a gente tem, o povo vai votar porque o Pop tem talento.\"\n\nVick: Mas o Pagode também tem talento, amigo. Espera aí. O povo só vai votar em vocês porque só vocês são talentosos? 'Talento' bate no peito da mãe e espicha. Talento? Quer falar de talento comigo? Vamos falar então.\"",
-      "photo": "https://cdn1.telesco.pe/file/qyx5qVCIXkkz6tTAvj6m6HbwUWuG9VduB1yTk5kRTiyiwAmXeDuAqBayI0LaX5mu4iHJ-osZM1TWefP3u1PjkdBq1Ndm-5U369wL4HLPhd0v7JWFw6GiEwcM4mVIPT9AvvmE4FMnbQTnE-tHSnIIncwRBdR2bxA598lhf375iY-n2OIY-4WVc5MRRPZu3nUr7SuPGJ0oCjbDGagZ_n-KvHofUva8DaaJ5Y1hr60mBn7LLyuLMiMNbrvV9-HbSGewsPhyzkZVJyZM88kIPQtiqY8yYFbmbBSXMNa30skVEe-j3iSeoC_J7ByiaEWp7eMAKlLJsSIM0S7ALDcfXibZCw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/pZfvpVCVE92Jf0Xx3TpkHTiFrIUQEjAGMG_g-EQookU1TKWT5K6rVdKG0owHb_0mn9a_Lms6c1Kf0NisohFOb0gBFH6fq4LhYwN0rpw50DYD8nTf-Gr8GJDRdAUhScpKJkxn7JMwUdBMS-i2QDEefTAR6d1C2yqCOq0bV57yqLlM3CyFz1KnuuARsnaHNekmgBG6R50ifib95UEYKAN7noMr7pFB2acqp683ZSHbupfiRBRC_SJA5u5a5vnOtz6NjcEaE1iD0OnZnsKsHq7rt_R-VNzzq0SzvJTKt4WmplfQb2bjf80TC88EzGcygEvJ4jTFOIjxVfZTm6HvEf4LFg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3693,7 +3821,7 @@
       "id": 194229,
       "date": "2026-09-01T14:25:32-03:00",
       "text": "🔥 Participante do Pop cobra 'respeito' durante o toque de recolher no Estrelas da Casa e começa treta generalizada no CT.\n\nGabriel: \"Ouvi vocês dizerem: 'se quiser dormir, vai para casa'. Mano, eu acho que aqui deve existir um respeito mútuo, está entendendo?\"\n\nDavid: \"Sabe uma que eu acho bom e gosto muito? É cada um ter que cuidar da sua vida, irmão. Eu não vou dormir no seu tempo.\"\n\nGabriel: \"Você tá me atrapalhando, entendeu? Eu tô começando a achar que é pessoal e vocês querem prejudicar o nosso grupo.\"",
-      "photo": "https://cdn1.telesco.pe/file/MhoPvPnno7MykL2kfuW77RLOTkwYumNKBAxpMx1c2d3x0elqGA6_ge5ApKK5wZDlg4163DbqautPAb_G-xWb6_5KMCdWhCk75ZIXvuNkaK9eGsaLt5n7QCfL4Ks7O76hv5KtskMumUM_6FP9HzPFr-tnRtc05533kGkoSnBQy0VxIEDgnAsWZ0UgLe9Pkad87xOGauTB75Wz4cOzqoWqzWI9w5PGTkhA0Pn-pEqgNylXKb14msTinZ73agmJjezXtBL2wai2qh5pUeumVWheN-PdIPSVocojHmV_I7Xu3XehfBERl7TC8ZUSG_pj4FZQyB_Uu7zrtfQ65BU5LGM0ZQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/jAvlMLSqsY2iOaXHq32Cc-Ybxf9UwQI1zPy9OdcnAElomtucfkbglYIPRbQ9mvl3sPwHIX7ZMPGu4OZhEXUxhkJqByJ7L-RgSzDekJL8EMJru6YHWr6-QWNL4XhYvR8vo2M8FvMopEec55ih8elCehEG5LLA0Qq-s1Tx2El4InIuqFwxWgZjdg8X4NKfsWxplZx0M1GwFWxAKjioBTuC7vyVM2fFjI9G2gk1P1y0tQBVrxUWfs1j_NOMhuA7Uo4LTD1cDmUDpIeqMzj4UtfCaQGrB16gBVapqD-_aFaxav5XgaNRw4LZD5spreYsiv2YDgkoWjIPJ8m6nSLVeYGGGw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3722,8 +3850,8 @@
       "id": 194228,
       "date": "2026-08-30T12:19:54-03:00",
       "text": "🔥 Emma: \"Não venha dar abraço não... Ainda não! Depois a gente dar um abraço... na hora que eu tiver boa.\"",
-      "photo": "https://cdn1.telesco.pe/file/rQseRmMVUJ2cuY-H-1v2oMtEsy5QRkBt5y9Pe28zKYKZAHALIpFwzzRWtIL5ATfCKP8t2pcSWlq2AmYM-UvpqdARG4WZH3zxkkcrKzixxLuGjQbLTi--J84YlZrta_DhVNzjJpOZX2-fM8KlynkwI3OFEbOU4C3qMGOEbH_1f1N9T4_gBpGmUhCPESn2cO1nT-tEFFtDxZhUdnJItGaHOwyA5YZ0iAfORYH7YxW-OKhjSmUBKT6HW0-fWKJ2QAPBbymAKquqqY-DXmNuDhloCutatfkRUUh5UjprKTm9bRmA1lhkroOFLKhN2eV9B2tp2_sQMp3bROYzwrogrKBQpQ",
-      "video": "https://cdn1.telesco.pe/file/acfa78f483.mp4?token=F6gQTh0VZ6gHMVuJWacret3bKgOYFNeMEo1znJuJSr7MyGbABBZPXrYuxrgrMu0PuIZcd5R-b-yCglPrCgoETHeuHp-KV8vIeYi_PdfSkr6ug411eCKStfSN8Jy0nDLxa17ceCP-OoEMsKBANtlI2SIwZPLTUQClO6UkvZZz_RNcUpSX0S7uqcuG_FnnN1-nz0XOPQlNWVfkCMBJKwwSj-iv9QXqVUJiUUSt7dK7byqduh3V-OF1H3X9WoB7slz6FBkVYivGhXkskYsIcXi04foyM8y59KMd0aM57oc6EQKkRarY8kFBI0WHW5yPVJw6NIFwojzpVbkMqpN5vLdKHQ",
+      "photo": "https://cdn1.telesco.pe/file/JXdYoWq48lZKJf1FsGeCk0aQT0KTC7ys_aM9WasWjcI2Cmmwy45J9Ntcm5EtP6jZ6BGypCvCkEFMzY1lWcxbrM-uVS6qD5EZtZfEKCEzqnmhCJ7cvHE4iVg0OkLSMrk43xLlSWG4a9fN_SnrvoFYquwdUVq-yrY-YeNToXITxSOoViSSlyzRnaQ2TVbSRUKmksjHBH59LwyFXf3CK33tlcFYv3A0aG6596AYzzFnj3di1muiGfk8JZcafSF-vFpJWvfHh0xg0UxjNINvBFlhJX4K9XwWLVMkBgwkkHaPRTMrmIiTTAokOvgY3Bqt1JHF52FUfCDLzHtb3xSN9lx3rg",
+      "video": "https://cdn1.telesco.pe/file/acfa78f483.mp4?token=WQXs84QLGIlBksxYpobLFBPVY-AV9wfRUq-zlgnOC9g5nVheRZXWHVvuWMipBFdBT-bMa2Uj5ZGiYjdBmJkzBDD-MlEaKZJLsIY9RGDoEof8TabtVDjobTtWI_VP30mGovPD02jXaNaC63xJYmw5pau3zHSxP80FIzae9gZQeEmkwQ3biyLbrpsNwHT8US6_W0zkkoyUyyGDkN1mBUlCR6843sOIkNYQ_4H07Mf7B6YWwfhOhT3SfZrFww8JJdKmBOirVH6xvrKvudSJvHIoS1H050Si3-OQDCAUO39tmOZCZRDY4YhM7YuMh7N9HfpQkyZVIqgMSqpz0kdL8Tb19w",
       "hasMedia": true,
       "mediaType": "video",
       "reactions": [
@@ -3751,7 +3879,7 @@
       "id": 194227,
       "date": "2026-08-30T12:17:03-03:00",
       "text": "🔥 No Estrelas da Casa, os participantes Filgueira e Emma discutiram em voz alta no dormitório. Emma: \"É uma coisa sucessiva já. Muitas pessoas vieram falar sobre a grosseria que ele fez comigo na sessão de fotos.\" Filgueira: \"A única situação foi que o…",
-      "photo": "https://cdn1.telesco.pe/file/q7ZblKDcypQ0VFzq7u805PtyxqdF4Jxi0-ZALbvfIQOfRaytKOVKm9xHxGUbsHPIHL6XIc6vFat4LQlmfv1dCxN1kaIHEw1EKDLtIEuj5vHWV2ZdTMnStFsGGivrgjvc7pLH7YhCUwUtrfm-Wx4SCLl90npNywEq3bYjkP2tEMjrEWxlkS65R7ZzTYIU851MpYJCN_ncOcazHiJ-Ge3WiV5RuIWoPfJaOvd8a0uW7n8bvj1ajZsaFuPRJHFeMPuRRKbQ68-9IDeLVfe3WZDauYeCch1IvXBR1GGvgIYflm67TPprPeSPzkmCNKN5hxgIZ5LY3LsbJr8Ss76zkR-a0g.jpg",
+      "photo": "https://cdn1.telesco.pe/file/faUPHRH3Q2RBg3xjbr1SvwUgudEffw0-gP2jJIj5cbtWPTafah-Yafpoeb6WG9rldaXrFcuMrPeRYH8l3sUSO5CADf_OOX5rQBxJ-gl9YEHzk55NGLGEjsa0aaAM0AVftn6cIWR1C7pewbxDxWuUhcWcNXzswSwPW2wdhNXAiWiWv3y1u_2Gy28C3Vv0oixOtJvL37mBuwDEwWRIW-Qc2EfUvw9MUr4Awn0DhOA2paRvIuzBPhwpDsQ2do3F4X1-cFbdLbjbyJPU23pGz-dFC3WvHGNHEv9KKaEMLxRteqB60GaS6NNusAlfTBSu0DghZnIQn5PRxLVUDSNEiIFrEg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3776,7 +3904,7 @@
       "id": 194226,
       "date": "2026-08-30T11:59:19-03:00",
       "text": "🔥 Leonna foi falar com Filgueira sobre ele dizer que Emma fede e o rapaz reafirmou que a moça fede mesmo e não é obrigado a sentir catinga de ninguém.\n\nLeonna: \"Você falou que a Emma fede!\"\n\nFilgueira: \"Isso todo mundo tá falando.\"\n\nLeonna: \"Você tá falando isso pra todo mundo.\"\n\nFilgueira: \"Isso é uma coisa que incomoda mesmo... eu acho que higiene é uma coisa que todo mundo tem que ter! [...] Eu não sou obrigado a sentir catinga de ninguém não.\"",
-      "photo": "https://cdn1.telesco.pe/file/nU2YeARdX1-Mqtx0G44T2y0Ro2aUYB09deFukoiu1GjhN795zPj16n3-fzgQt8tUm9rwYcpOILjQupHeKIQsjytmiu84vCT31hq26FNxe85fXuVyQnVd_VZpE51BW7GvbOO7gcC-u0S2Z13dXSnRxWubn7lWKm_Aprs6Gvr1RutmpwpFTRJ9tPV4kPNkU3dxVZwmQNFZx1SZWBVuGV9R0nZU-92oSKKP9gLlbgZ6VzxQf1MGZqC5JGqegkrv9T_i4LIBJtPsVb13LZTJS67MCR2kPhCsdggAdsZJckPtzEixtpzYkXsteYHAVQD45lXDWzBsK4WcsJrXeiESswgBxA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/UeOEtEuDup7MFMFG6Oz8erDxrCgO48RqRZtuHMBS5vQm6-FUTnPw2AYuXQD6fg6szg2Y8ZurKsYUQcoYNz4f0CknOAIEf4Ynep_c044gAu38MQ6nahoTfE5tn6ZzUm8-hXjBXv4ih1eT8AxYwsQg3CzZoK2xqMTamSqkIti_-wSyGQWjGqCwjYM3hB3f2r7DBJ5F7Cu1Plajd_qbZhPo8MBccA8rIbR1IHitoiWpfbKIzffUN-8PNPbOspL0i91gKi6BCaCVyyQ1kvJ5bFcujoh-n9i7pjSG52_3MLmiY7p9UhGLE2jyPgC9vJdyGawvrtdsPrU9hLfl-IvF3cqzHw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3809,7 +3937,7 @@
       "id": 194225,
       "date": "2026-08-30T11:48:47-03:00",
       "text": "🔥 No Estrelas da Casa, os participantes Filgueira e Emma discutiram em voz alta no dormitório.\n\nEmma: \"É uma coisa sucessiva já. Muitas pessoas vieram falar sobre a grosseria que ele fez comigo na sessão de fotos.\"\n\nFilgueira: \"A única situação foi que o fotógrafo pediu para abaixar. [...] Eu viro porque não sou de deitar para ninguém e falo: 'epa, foi o fotógrafo que mandou'.\"\n\nEmma: \"Eu não quero dar VT. Alguém está achando que está no Big Brother.\"\n\nFilgueira: \"Nunca falei mal de você, não!\", defendeu o participante. \"Ela achou que eu ia ficar calado. Eu não fiquei, não. Não fico calado para ninguém. Tá pensando o quê? Quem é você?\"",
-      "photo": "https://cdn1.telesco.pe/file/eiOh9BN2prTL7d91D5NgGBwgSd1bIQQrWJS8Nklj-aW8Ln7Wor_JtApnoRY2jLMK04x1rdkhK1z-JF0EWy4XQzTn21xfYUDX0Pp8GU8YUjRKRjfbpWViFt7qo0iQQjOuZ3Tqt5lU5uoLaCITYGi4qWc6N-aW3a4kPDrVcgCI_fVFcEm_ty0XCNBGlTPPP6CH40M0NO9L9STJrl_HQhpsiCKaBwiXPg_bz6Dssi69_c19IHSkzAaU3-RgOCevxmH-GqtmYls1BMYnNOc-wp8VynB_p5UIZaRVvCR0rTAugnIzKsExHejONuT8V9SdnPQEWqsiNP5iCxQBrEvvMG50fA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/TPZQkbkrKW-38iDnnCAcM3fHV73Hjhy5cccPegCjm5ggTNcMwSL9Ohm9JIUOPSaX19CtqiiYaaLltDKDfsx6raYQN15mb1IA2ywu5HzTH335Nb8pa6E8KePpNBEQ-iAZggWGI-TGm9EdJxJ0XgypyycV3glWhycx50nkr3llwL28MIlaYXViojEcRn2a5Qni7pntyD6TKczovkUcxefAebUMO1howcAVutMkFgVVvODu6tkrYnwe7BlVn7a1dVw7UX5Yv2RL-qziJ9J2OJB64QieLVxv8HD0dVKD8KS9MyPqL4BHh3v6M9LmZ75uOzLprPCZhuDHZ7h_4DZ7FgJV3Q.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3834,7 +3962,7 @@
       "id": 194224,
       "date": null,
       "text": "⭐️ Por dentro do Centro de Treinamento do Estrelas da Casa.",
-      "photo": "https://cdn1.telesco.pe/file/gfv1OUkyi7WG0e5HHl4a2JQYp8TT7zZESQLUBUyWIg2pD4IgEpoo5l4gR2xqDYQfBKJcp9yFPeCvUT_gYg-XXWdsSYH50C8XE9GlPEsKiTDrCpMNx32fwQfM7xKOp7gvhLPbbSjROoIbbDRiCuJv9DvrQm3BABRMseBDSNQQZEq-9wLDq9rSPmDY7kuH60XT_YBqBdXocomT-vT8rB9X1GLisFaFmeQt7rmtowUoITyAzuVos4HZLJ06lpdrTKrgUtOjXZIGc234s_58ARPfIGf0I-yMcL2lyG85ezZvDnM3JVR8p6dsC52bPjlTNalxN21pSX2AUs7o6-L-D3mqTA",
+      "photo": "https://cdn1.telesco.pe/file/uaZs8C279hB2wJGhSFg-gm421I2WaC1lCXNCQcxJ3l7ZOReSiNQo42xzHRNbYlsAECw3H9Nbhqplo-M5yTwCv54LM3jjcJFRca2O9lX0VLhN-lqtVwFjjjCoi3vIPduirCjp4YunG82F8DisGIN4584X4Qmsd5JZ8OeoaFuUS6vVZafukcia2JbwfV2ktxUnI8JhaprsEvNOm9dx0V6F1Ri2cWf9-YkHH-sSj91evsWOF3Eb563XgPhekX6xNl3wKrGWLsu7jo73is1H-MgQbGIN-QbJhtJVB7EsYVWTkh5fFH21aZMkyxRoQX3nh1v6RsbwQa_K4wGEDvsJK0hi4Q",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3867,7 +3995,7 @@
       "id": 194223,
       "date": "2026-08-26T12:55:10-03:00",
       "text": "🔮 Você já fez uma leitura de baralho cigano?\n\nAproveite para tirar a pulguinha detrás da orelha e busque clareza sobre relacionamentos amorosos, amizades, finanças, pets & o que estiver sentindo!\n\n💩 É só dizer que veio pelo Espiadinha: (22) 99206-7000",
-      "photo": "https://cdn1.telesco.pe/file/EJTJ5OvAqZXZFA_IOj6fRcl5aI5-VX5wCi1AoPpDPwklCxDa0J-jEy7A68Y9oN0bTiohSTqc6fwDEmdeHdSyEIyYply9-t_gIKt6M0sQeAKWrY6FlRkCT1STuSUkK8vI6GQ60K3Jil8xNznxfP_F9UNLz0PufktA9Rn8yBo2X2r6tq34wW9OpbbfrTUuaWudFOAoDIHcN_xWKsOVleAErvzmgrZ_zw07bW6UBro9Z8EUlECzQg8pS-E2eZ2QBewSoxFN5YMlTLD9JS0w-tHior6L7JSbmMzSOdpRc93LIKLAQQ9e8o3WF33YrStGJ22-AN8H6Cmp3b1XESsSo7Zwcw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/Iht-F245UKei1e5XpoCMGicKh0--VjSwmOYs9_bCD5QndlIXsZgMVw9ks03oHlhQ28LYNFJQqeuMak7Oih_vhalhuH-nQKEMjLzW8Fq6b0UstYM1nmdFpaQW594K4BIV1p1mwILsmQAL1g7Lo_TuHw8LYqS-MNkQu5eZE3FG5_uR0d7A_aCO-Qzutvloq0-E7fiKYEtp-pgdPGRZ40G1-IYSEOuGU2_9H4VnKmPF91zqiL6uNVe-WurhbZlLx8Z1Xx-lgLCuifi2_p0ZWclqjeG5NKX7oDEwO3SKMePaTTLVDfWk0lQTV5Z_uNcHC3BMgKFdTFyqlNZDFJ2UTopXOw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3920,7 +4048,7 @@
       "id": 194222,
       "date": "2026-08-25T13:30:11-03:00",
       "text": "⭐️ ANSIOSOS? A 3ª temporada do Estrelas da Casa estreia nesta terça-feira.\n\nÉ HOJE! A nova temporada do Estrelas da Casa começa nesta terça-feira (25), logo após a novela Quem Ama Cuida, na Globo. Mas tem novidade: desta vez, serão duas estreias! Sob o comando de Ana Clara, os candidatos do Pop são os primeiros a entrar em cena, enquanto os do Pagode começam a disputa na quinta-feira (27).",
-      "photo": "https://cdn1.telesco.pe/file/PyzcK8xPkYG1jQ_HpnLZO_POKdvoX5MWiUMd8N3PzZ2vFSSMQApEuoVOpwf3KumZY3N0eCam5QhNFJmo5Q3TTDdudhlebt7J03P6oPOlFObJ2ymf1FR0Y2VEeu7DsbwkCaUyzqyVdjF7G6TL6xsDJnX45qHA0O1sAGEA9EqCbqyUc4I6UxWGLjjt0MX2gDU2q9O2nkfzxzC2Qq-VP24Y2dH16OMPJk8LBLWclQNwckHYXAtutEqLKDQZMenSJy11m7ov5f17QYYFkvzPdTz6-2Fe09PO-p9POCWF6Xj-nva7f0p_LGkydpeboKJ_bUnd43mDTUd7PGntFqbwodWI2g.jpg",
+      "photo": "https://cdn1.telesco.pe/file/v0mh_hx87QWD1vpNW8DMvKa1Prmdqohh332o4jteB4oqHyTHx-5tv6lmEeCnmwEOoMlaCy1rQNxBjqNE4K4GIEtm7PpJgezW8cgir9QuJTqXKyO3qGvznprsO-iLndaRSELxMOiRapzozL5j-j2ic3Sc7iGPZpEM-F-ebCMbqGtzWg_CPi1y8OkaskUME6E_EGvtI_HqgAY_8A9lUHQsYlRtMu4NdTJimOD_xldLihyquLMuAfwlaWRqNbpxKH95z5sJ4QkYfJvt_RmhXMQAsDxXNgy6xaGxDM_fyHhxUc7YZSWSGifE36AY4KWcnsUNMfeNfUIc_1vxnjbBG4JBnA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -3961,7 +4089,7 @@
       "id": 194221,
       "date": "2026-08-21T16:40:23-03:00",
       "text": "Lito Souza é diagnosticado com doença degenerativa sem cura, diz esposa.\n\nA esposa do influenciador Lito Sousa, do canal Aviões e Música, contou em um vídeo que ele teve o diagnóstico da doença Creutzfeld-Jakob. A doença não tem tratamento e causa a perda dos movimentos e demência.\n\nNo vídeo, publicado nesta sexta-feira (21) a esposa de Lito, Mila, comentou que o diagnóstico demorou a ser fechado, mas que nas últimas semanas o influenciador perdeu parte da capacidade motora e recebeu a notícia da doença.\n\nA esposa contou que Lito deve ser mantido em home care -- tratamento hospitalar em casa -- e que precisa de cuidador.",
-      "photo": "https://cdn1.telesco.pe/file/q8eTi_QfoLIlH8st3-TO_IbYG2ZDkEwii_7HPAgnpNATJGU3g_Zo4AKhxsN9gHhQBvJhlCnNJOEng46jdWhJaHBzgEB3Ov4GNVFpTsd5TT3oLXaNr45NxozR3goPk_pBpsKChNdR4GVVYbXUGleB2XdD8gJPiIytPMOcdqloQLJgvnLv25s70IaLv2VdjkhknzaqZoUyAMn5VQ35MpXdk8kC-oMNS_jDeGm7xfHAqSnSvezYKmuVADNwZJAxqR_qtF0D53pBrMa54F2rJCHbvDoKcqlIcFohcL71vTVPuInFgEzQ8xPCFiHtTHqFUZJb1ca-fvLVg61SeVbWm0APmA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/YR25U6cxIrGE8BeWLPygN-Hc_GSkiXZVFirhak9rStqo3jzQF1GkbhEoOOV_UFvA1Rc06Ya1VPmy-w9dbWpoeHDcw39PXftFTUeqOvtQIseS_lTW4jM9MEHKcvAnMuoLnocQVerC9NqlIW9k0IjKRs1tdR1bMdxNTXFAl4i4cMF0GdNIbZvmsA8LFCwffeHIFaGP7UW5IYkClLPtinUkyjGBjoeiTl6DbrogWGia_jCDKvJGRXD_YV6_A8akZPD9S7pHy0Uw72YwRNGmhPIFoQnciAes8ZuuHAuxAKGl81e_cBrGBa_VxapQ48V84soLhXwAShsVibjzpTkTik4AOA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4010,7 +4138,7 @@
       "id": 194219,
       "date": "2026-08-20T15:43:19-03:00",
       "text": "Renan Oliveira, do BBB 16, está cotado para integrar ao elenco de A Fazenda 18.\n\nA produção da Record TV deve apostar em um rival de Ana Paula Renault. Segundo matéria do jornal Metrópoles, Renan tem sido um nome sondado pela equipe.\n\nA nova temporada do programa está prevista para estrear em setembro.",
-      "photo": "https://cdn1.telesco.pe/file/WB1hqP1z2j0bLkynJnblcAyQW8a0Xas5fr1vj2FwO8PX0Xt7J8SCsLGnCdgM02y3f_iVPQDqWYhereSkSwVez-IbzW_oo9d_thHO-fVsEpRPHO9Zyz4s5vzAf3WcewIoXlczPu78yOZtWpcqTY2pVc7ykThi3nBNKN4W_x1jB9StkvrmiwTwNCG6Wtw5v8S3BiBdj1QWY-yO6s6ZczLaqUWBWHYq2Nw9xLMe8ej-ONGk185wJuUM6UcCEMYKsoAYxyyLlpToUJunrqAyJPxr1lwzWFy448BijtLxo5hDlW598-N51BAPl-Gz2kMipO99LDxPu0UoR3bbK2MpFf7iXQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/gglluRBsMw6MIfRl9Weh6zFIesXgHcAfNRuh3yB_C0SX_sUyDcSWA11JmyjCNvOOTf8etUAAwxPUG6L1quGK4gJ0bH7djaiBKD_H9UFQ2i5kf1gAzBctgQCKOU2q0tmpgYwJudlWgrJOG-dS-zEjePhxE4Tl_Xddi9XgeevditKMpysUMZgUwhHzePsulKJJuL0bCdpRj7tD2jSRJed_l6HsTATwbsLBfzypcJsQziYHob2s6cwm2-UIRdFSwNC0D1cIialaq1JKNw3EfQreCuaXyzwM1lBVZR-6Mw8gUYgZLMgwT2mzwgAFwUQDX3U3XlOP5L2W4vkzUtzc6KASUg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4063,7 +4191,7 @@
       "id": 194218,
       "date": "2026-08-18T17:11:04-03:00",
       "text": "🖤 Morre, aos 91 anos, Glória Menezes.",
-      "photo": "https://cdn1.telesco.pe/file/T6iAJ54dDJxSljv3RgZKJIinyvghvwx5eg6y-NoKz_rRAg5jWwae-tcJNfs9ntw-qdNZg5k4XkqSVXV_KfFOFX4tn7KyLoOUopGb6CNo47zyPeYexbu0toN6XL2ZoatQxyhTX1gTEbbXwPSNXoEVp8GOtINc_NJDg4Qp6I74xvQi8r6o0Z_rO__X5UR3WAoHZ-y9Pa-b2n32I_yflQX2OcVs-e17SPOwpJUOPPnmxBG_janDmZnjmZkZkvMATP-F4ANMDAspdor5nTpF33heUH_oUF_TlJ2oslmp6rK_BSfOK4X5FWvbs5E3lAWYCeTYGiIsDqAJzKIHJGvc0khEsA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/l2SisOZ5iQLTKTKcdKY1bAUQy9qhPBUURuaxOTjXXwRAb-mWuXQirSG2Q_CYK6k2w75fttY3ePYMwa15VhZI-nctBGtghKj3EH-1GdI1R7ci_B0SdPqFlXMITFPHRfP1IrYM_tP0J9SwdYd_CKjxPFgM_ZGmZuR_CKLwZ-lR0D9aKVxd-8XVcNJi_ZjJVwgVmt4iXY8LdwmHMW8Qu0ltVXv3WrE4vuoJjY4XXcwbmGxQTXEIZ5a8E5dvIFR8aYNq7FszS2L8g1rQvj1TOQDJGIiyb0TyBSOe5lwiOrY6Lw1bycy1xM75cbQM_BNc2wgtOuuHQxA1HoJ98QwR4sEj7A.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4108,7 +4236,7 @@
       "id": 194217,
       "date": "2026-08-18T11:16:12-03:00",
       "text": "🖤 Morre, aos 98 anos, a atriz Laura Cardoso.",
-      "photo": "https://cdn1.telesco.pe/file/qjl2Xgnng-RIBNzkLjaMgr4KfhUbnSF11O4WUT5C5orYlmS5LCELjumXQJ6Bt9lWrsyo1IlYmHo6eTf84EMoeMZZUYTsBGBWHeio4GvNCQKSYP52CKgUaxEaloTB67yZyjtL0_xgJENFhaKt0lTnkI0-OxX6KHAAJA9VcoeuWaq0qv23vuNHLj8BCKJ2KiiqZg3BJlAwQLJTVTYVnZFVOuge--3z2ATbdEN5TnVAvZ69BTQlMyOj9N57uJFUHlf2wcqRDqHjdcUOcilteZXj7nffr3naOOTKXcBVmejMv2GymaHvxcN_sTgL9Eu8pElUk4Z8MewGp1yxE7vygTlOMA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/F5fIyYzUq7llBUms2EfBMFwu87BJ2wzEgWEpmE0DCXeTAjVzIaExj_pb7RdJ2R5jQZV_pEQVRU4CMUvft7dhoeOdsFqJV1yvNbVjvW4yiRqaXFxR2Z8L_fm4b2AAjpLOgnnxiCCEaSb3Ma5-USQWSi39gR2d5jNtG45r_Uk5gC84eqKAnzn4f0jGOLuxGZOxC-SUXlqNYC5MYAvoqjCA5tJ8rr9KZnaqbaRTVT1FsanlasqUTBdZsFgbT6-Sg-6RVwrCETC9pvDWB-F_zdKxQCISVCCNoPRR212AeZDXnl2d-LLDnJOnh2NxGR2_lV_Y5eYC15dlorcDk9KWKsr6KQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4153,7 +4281,7 @@
       "id": 194216,
       "date": "2026-08-17T23:07:57-03:00",
       "text": "Juliano Floss (ex-BBB 26) e Marina Sena anunciam fim do namoro.\n\n“Aos que sempre torceram, ao carinho por nossa história, em respeito a tudo que vivemos juntos, comunico aqui o fim do meu relacionamento com Marina”, escreveu o tiktoker.",
-      "photo": "https://cdn1.telesco.pe/file/k9D0YKx9bs5h5zuYXIv1HQj2aLlFoiR5XBFKGrxSAOaFMjZNqsyJ9w03ypuUo1T18UZL9arG2Jp1tW3MI3b-RoCQuiHRQSU7PY01_bXn0oEiPK5Heidddkk43iAFH2uJk2nBmjv4uJiLSfV3tTuQuhQCXrEzzXPUjsvHWEjF429yGwtf-KVvSHp813XKr3fJqSdIktXxj-6jsl-QC7NQTCYaTcrHj7QtKtSFMVywrzP0pWZ5i43ZjL84hgMEzDgkINHCPCxok9F-Ck96b0V6MmriTx9CC9k0JRlHxP3Ob8gx3C6KmiRynI0Y2Ul90vO3pc6KBE47CFv2KyL5eoYwqA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/WUbfBo9Nw_7OYE4dCx9U_PAo-NGsOuPSM09gw8Baale9jHo8RfueyU2P19QZmFFWDLsL98AzoTA3BVhGwzr1_H81ipoq8IZZ6ckhz-LUAuGrLMiaLYrtm0egHExB4Yngokszm7rhvR6-Xv5c9PXJWkPKEvNRYsCvbNOMIgiaWD9HLnG5liM_goiTWzxOKQfXdvophOKlX8pvdUX0XAUZfrrb4S-qkNZ7lbaVOBONUQyoV3NeMHZ13TfyQjPjTAZ-dlBCARYJlz53GBBzpuoigUf8NeC5BppepOru40lAsOzGJoBSCZRfE7891ZKMwCC_tQ_At_9GydgDItUP_1JEPA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4206,8 +4334,8 @@
       "id": 194215,
       "date": null,
       "text": "🤠 Rodrigo Carelli, diretor de A Fazenda, mostra os bastidores da reforma na sede do reality rural.\n\nA Fazenda 18 estreia no dia 14 de Setembro.",
-      "photo": "https://cdn1.telesco.pe/file/q2wC_LiDKHr2mCx7u-E76i4Syj25lKJJPJqZzK9Nl8NXH2fV0sAi6RWTpVv1fJrmWdUhfPqwQg1OJGpwYVnzVTNO9ZBi0MRss9D0uHgs5P1Z4Tn2QSW79NgWKq8GM2TS3MbcqAQqpaMvWwL-Fuwnr8MGhb-oVw_z0kbboAWe599WTC9mAtOJbRKMBBGewXDyeKXqM1c9lpxzWCHJ3vLgalvgHNXly2Obbx_63_ZoggYc-00Fnwp2_mhQ8S3XW3NK9cuh8H7zfQP9MZehVVO3oZOvwlY6LU0wRqOj5BYzAe7yjjjsMHIDTtbunXDN2ujsAjyooheEPBeTKbkOkuNo_A",
-      "video": "https://cdn1.telesco.pe/file/4cfdae4eb7.mp4?token=DGaCOYtcGSRpklsKOXMMuaKIaKVhzRtAZH3-dQw-6sgNl5svrJfiyvz3sbj44qFjGiT6jR0hWOQhHa7eIzrrNob8nLMQM-Bylm3CDP3xmNA44tnB9IH_Tdv6I6Rz5mBLCMPJF4OF_b2UgyQRun-CZxG1hOBivMiqnha2_wsQY-OBTmx0tBnbDU94jvNYuIHL6GF9JIB8H2fSIPhwXMKoR5-Hwo_8mvc2OvTUbRErTT8jmtq8I5abvYD6rZqsxKE1yyXpxZsw8-aGb4FCTkr-8G4dXUeGEGDRNd2RALVp32JVPdCmLyN6Z6tRNS8Dc_PtRcGkj-WciT3eyWMg8fFLR61v-z8JvXLkR6Eh9G1gb6OeUZFZ_pxQ2o9VdB_Rey0WKpX5rZafeGmuQivPIVgjKb-o1Tv3FdBj8MLnynKm1g6qqoWR4lsUFsXzT-t4lIVllONsiv4V9arkkkyupexiVDM_w_8P6-bTV2QzEliUX6iNpyhKRVUOfeD9BA7j6PRlyCmk6k0ElPjUTlhNZbYqbV7av6Aqcm-MF5SGZ5aad23ZFC9wfyBcbUeAtSekiyU3YE7gfZeaAIboUTRTkll-GDQaKjLzqPIh64Ee9pwohTlmquOpeAJUL55rQ9lwPxPO7moozFOccn-gwtj8vT8GNrO4XPxHURaZroCL1zEhPLg",
+      "photo": "https://cdn1.telesco.pe/file/tRIm4j0elxdwnjQeO44K899cIWhXwRLJC1EK6JlS4XpGaPGNWabaq-II9xARzCwXnBJlSDiq6-cWgnWyz3b24CkhZqI2VzSDqYX3ZHkRPTPxhj3Q6ZivXg0XWgpE7wqxU8zB0UTb_D_QajLdngs2Cm4ZyCUtsh4V8HfaBMCrQqPRFXF9J8XSmnfWotn3JhcwCaqwYlyG5G2Wcwf3D_nQ9iulsopreAD8agViIi8ktPX5CgzlmwElMxtvcwbaGIxwP2Sm8N6gttrcn4suCqTFDoXNe5YzzYbaMfS1xg3JIs6wgDVs3vh9O023K7iyhwbjANy7nz7HNuvXsoI_7ZizWA",
+      "video": "https://cdn1.telesco.pe/file/4cfdae4eb7.mp4?token=ECUfKQ4LwOh8qgM3U1LJmQw_TBWFCiivsIvDW_kWxuxEHPE_5wKRtWZGj3z-TtR-QODLDxUv0hTaEVqcgePhlfH6tJKmM6XXO7_TAPL2pUuWI-Km120mb7wtSnjJVOzAUyZzQKT2ZzUYq7ZGv61UjP2iz0vgugXZyUGHPT3N5QQLj_rkJ790ft6m0ttwSmJOcxm6WqFau-c10LDvnoRAbO98wnTx79B19XF2Ofo91cwnDlF9KlQqUGl2zp8n6sEZZe7w6va-wdwOd_-pX_K5cra9BvKYR3w08IxTmjjdNRRUZzOSk_6FGZd95leyoTJmSDplCTPtE82Gj4fxj4YE-IiTL3pmc4cil5cy9ubuewHbq-VeLFFetWNQSbdvBiCpl4G0zFB6QxI5csCvE8RLfo26bLZrqHPHjRplb43p9EfD3H7XGSGi-JDRdFbj50YcXqlwcyQWVCGdeCtcQ_kZl7FdGG8tPtw1CqX6YCSkW_LtjhqmSu6JmLWaoZl430ZgOvBSSkQgQaLAZPwNG_bE6-KlSjNPJsOZE4NmENtb6Qk4smVPD8yCJ0fNCjQh8YJ_PC7UwhsEaA5JBy07KqPOkKpBM7WScAHcvNHk9JJ9vQ_OvGEyKXkUAr0qEID1wcLsp0oBKXitwrx5ulTHybMgliI5S1uARdk45NtEe-j_QeM",
       "hasMedia": true,
       "mediaType": "video",
       "reactions": [
@@ -4255,7 +4383,7 @@
       "id": 194214,
       "date": "2026-08-12T19:55:26-03:00",
       "text": "Globo anuncia volta da TV Globinho após mais de 10 anos, em edição especial.\n\nA nostalgia será o fio condutor da programação do Criança Esperança 2026. Ao longo da Maratona da Esperança, o público será convidado a revisitar brincadeiras, personagens e lembranças marcantes da infância. Como parte dessa celebração, o especial resgata uma das memórias afetivas mais queridas da televisão brasileira: a TV Globinho. O programa infantil ganhará uma edição especial de exibição única no dia 10 de outubro, integrando a programação comemorativa que estreia dia 10 de outubro na TV Globo e segue até a noite de 12 de outubro, quando será realizado o Show da Esperança.",
-      "photo": "https://cdn1.telesco.pe/file/ZlSKJdIu5AVbChKVMr5wxf6kL4ho--jZ8axYkF-im_roc2jOMqsugJSCQE69qQ65bL39XcTx7iZca8Ers4n2gGb_3aPCJX1444QDxd1cOoZ13Ei7dyc95Joa1UTCwRWmCYABkHD2rQaNYSCmg9bDe2auF7c5tC_bsvkR8JpYcca4cEtkkuxcd9TEZNTO57LY5AN6sILtCbev38WxrOwbrMYoUeBXZgjNOF3jE4BbJtUL1GiBYr5j_0iiM7agSK9IsoQGW__I2kloz8eKTSLube2yvexNEGVB9NuDxvqgg9WkVIZ5OSmeyCDxJthJnbs26uHO068rQwKPAXoQOxA6yw.jpg",
+      "photo": "https://cdn1.telesco.pe/file/VL1SEc7sV7usCf67nu5cygwD-K9JJoQwvWA6EDDJoqf5IjDbSaFIB1NLb4RTN-QPL4MpsP4u9AbW0upvOVSzqhdKoFqTj4ZVuIjcIFJHkAJCslEan3TiJGs1pai-lLBPonb5R4fzxyorLu1n7RzLh-zdoDeBB7FZvpSJOHP4Ga9szXY_z9blT4zsmYUkEGvSDaxEr-n5bhih8rqyn7KkTP-7dMuBHxSsEX7wePS1eoxd6xGhc5fCLHAvsvbkXtarPgquz_-OBZ6MeusEDDdU2rkowc1xdTr5tQ-Qvf4_2mstkucLTN3R-ZS8H6v00BoIf6XoQfIWMYqkdEhdIfA4DQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4300,7 +4428,7 @@
       "id": 194213,
       "date": "2026-08-11T19:14:58-03:00",
       "text": "Incêndio atinge parque onde estão armazenados rejeitos de Césio-137, em Goiânia.\n\nO Parque Estadual Telma Ortegal (Peto), onde fica o depósito do Césio-137, em Abadia de Goiás, na Região Metropolitana de Goiânia, foi atingido por um incêndio florestal nesta segunda-feira (10). De acordo com a Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável de Goiás (Semad), as chamas não ofereceram risco para o material armazenado no local. Fotos aéreas divulgadas pela secretaria mostram a extensão da vegetação que o fogo atingiu.\n\nNo parque ficam todos os rejeitos retirados das áreas afetadas pelo acidente radiológico do Césio-137, que aconteceu em setembro de 1987 em Goiânia. Em nota, a Semad disse que o incêndio não atingiu as estruturas de armazenamento e contenção dos rejeitos. A secretaria disse ainda que até o momento não tem indícios que relacionem o incêndio às instalações. Também foi descartado o risco do fogo para o material armazenado.",
-      "photo": "https://cdn1.telesco.pe/file/qNPQ7M-d2Enfxd6dLFgmsGWsO5PMYDfscaUquxJhcpj934pryanba1EhKJA05KiqWHe22TGPivsCYYs_81r1L6bDiIBeRX-_dcYA_gOZcBxK7eyLktyYGf6lFtjNMDUXL60A2kQpBdbI7_BDEzQR8tjWjEA_KiICuqHsRffKGhDAl-Y_tnUXhoZPBMSzbnfsSn56jmZLOnCDZ0emWuJpi-G6kv0mCb3vwtdkHrlQHJF9xdo2HX7vqxFY1B9JCnHs2KoSj6ydBRHwxCYB0k7Pk-WYm60jq958BhE1ksA3HrAl_ode933N96KhWDCp72GUJnKGqWvu0x5NAiKjCoO0tg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/jwq60NeEI7nHlSV_K1pKk1W4Fzu0JeSaG7ul1FIahy9pzyAhAELgtddDOYLC5AHYjBQF1DUkJQITQtTtHOJOT19nt2zLOigQsRSLnGPhkNMKOm5iLiyAUVX8k2mNUCXpwy1UCqMQ1bQjSyhWfxxM4mk3oX8f9RIh_c-OFpKefW6jUGtfCyaVMoo8tlPDe9sxolpg-jwfdNXhjhvqCkkX5fFWi89Cv9JsTDBWSYWz14R5SwUMBDlkjbRfYtQtABLeyrRa4tirv5J5Dref-4g-yr0BD1Pmf1DKQ2AojU2G9TqlZkwnUfmX1p_xGr4tvWQKN81qR2bZ9TkNaM7pW44AKA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4337,7 +4465,7 @@
       "id": 194212,
       "date": "2026-08-10T18:03:30-03:00",
       "text": "Pesquisa divulgada nesse domingo pelo Quaest analisou o desempenho de Luiz Inácio Lula da Silva e Flávio Bolsonaro em diferentes segmentos da sociedade.\n\n• Lula apresenta vantagem entre eleitores de menor renda, enquanto Flávio cresce entre os de renda mais alta;\n• Lula lidera entre os menos escolarizados e Flávio avança entre os que têm ensino superior;\n• Lula mantém força no Nordeste, Flávio se destaca no Sul e Centro-Oeste;\n• Lula tem maior apoio entre mulheres e Flávio entre homens.",
-      "photo": "https://cdn1.telesco.pe/file/DtPflYlPzxOjeF8jb91a5Z_f63UWzZ3QD0LTYtPh-NN3tMfncfuTD9YsufMJ6y5C2be-nq7Lf-piQXGLv1WXFDsyZtlW5k2mhcy8eh8aB5nHTUo6zXK8YUg77Jxy2JeW14TeYbLP0fSu9YLTl6y8KXjnOt3pH3FTYmB_M-UzJrMnsR3VawKsn1cmeMF4yKZioGhDMVLOEzI8J0L_SnJDwVia3y2OhB6VK2bt_xknRY5qbavPm-TbpqoA63kyjkLbfo6ZOqUHvKIvqDIXVFiz3QEjBeau8FzuI5BAF-fdc5Drp6OViEGxD-tFPoHWVl95I5Z9ij0cmBvT8Nse0LKTlQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/C3SKlMWYJkErqfRHqwd9-zipEcM6Uia01XOLCVvx01QL8ZsDNz0f7KF2YQrYS9jbmWBXN_TfLJHCY2iUQb0LKhUR3As3ivcXqF-EMavkHT-A61Iro0gIGD1z9q5O7y0rE0nbrk-L-KfQqFgUlB2PxM6CqWIQXphOUnuoJVyl7QalfgxVnC1Q-cIdzsECfdmcc0oxvVavWrW1uym6xRhqMqByJPyoqNMd04HWhOr_E86K70lC9hdcH0HJfrYO9fcDi7tkJuHx2mRkv_wdoVmAW1yFKtzXeIs7JCdn3C-ZAOylhD7w01A0pYzrRopf5_ulW9ZiVm-MzhZ0Lq143sGbAA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4382,7 +4510,7 @@
       "id": 194211,
       "date": "2026-08-10T14:01:08-03:00",
       "text": "👀 Shippam? Raye e Michael B. Jordan foram vistos juntos em parque de Los Angeles.",
-      "photo": "https://cdn1.telesco.pe/file/amRv5YfpvSEmMmGFS0-Bw2Ef0BNWs98D5WHg_-p5udieTOLMBPm3PlhV7UpxikNR1hUXSPmEAXCw-kWS6JaX7N8gdnOzdQVpAo4JL_ddmAtSYVPdq1CRaTHKBYb2LGCtzQIw-9JHhuDgfQ8lJtN1Nvq5CYrMtsNPL2WliMlOlGPyrMZ1PVkPp8CZ_uIrzc-VyDXT0GdTh-lHLXKhR9fdtRw-uRRRAavmaQRwYm33xHdQ9cHpP1ouwWc_7HqUyWvSRmLbRM5HBbe-of5_Y8-gsffPcEdwQ4jX5qMFsEkg59J202Hx7IMWb0UovttWjhh75eq14Cg2AWJNpzpSXhtFCg.jpg",
+      "photo": "https://cdn1.telesco.pe/file/Pfm17U7oThV8MAQEgaBnUgaBQXEW9SfJeJrYhHCb9jbmVJTD5xVMyXpoW65Bk49HQukts2vH5W6LbZXOUFiqQu-GDlcrvCYavUxRImIFemr_dCmZsHq44gJ4of45dJVHDIb7JkbI18ZQcLFqotj6qnpzcF373ddwdDFpWLl20eYLDk-erQrBY_cMnFHEmMznpsLwA7BCZ9cyA7chtwC6Vej4f9OLx5ZNa1l81TJCaBms62ghCqfuib-m2HBiJIc8rtUb44MKr0po9uFk8Dittj7FvQRrTVFQ460HahcgqNpIiW8g31XcZm5u2_YSTTudlyo2NxhHdxIN_SOxIdM17Q.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4423,7 +4551,7 @@
       "id": 194210,
       "date": "2026-08-10T10:02:30-03:00",
       "text": "Ex-marido de Maria da Penha foi preso neste domingo após conceder entrevista falando sobre a tentativa de assassinato contra ela nos anos 80.\n\nA prisão foi determinada pela Justiça do Ceará, em cumprimento a uma ordem de captura internacional que estava ativa contra ele. Marco Antonio Heredia Viveros foi condenado por tentar matar a ativista em 1983, episódio que a deixou paraplégica.\n\n• O caso deu origem à Lei Maria da Penha, sancionada em 2006 e considerada um marco no combate à violência doméstica no Brasil.",
-      "photo": "https://cdn1.telesco.pe/file/cxqgJUPwlKIBP4FkYBLvUU5sWBkyzH6GoCsalPqNStVl_zAX_dqgKF6qS1hZm5xaftFDi-7gYVzgXnnmzXL9UtSiGqA2PcOLgAFpWss6JmO_U9xJRdvV9sD1jMB5fWlrEN1jES34yQSZj5ugvzBCgM48MVfNhwJQpQXngMJBGQH5CJG4SxV9dCNNVkdmM9PcCFeV-987ERdz4HzC8VjLLYlGP6tmFJ6o3EykfE4PlDsYaT0Bb2vcDPFqNcQEWCLVxDudcMSbT0z0oRslRrpfjSzuDM3UeUzA0ht_GDleeTy6GmtR9KyZjN26l9c7nVHUaLcOJkXTVCixr5ArYds1yQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/k_O7JQlqLzORkJZJyWZDuEinAJAPqyQ1UOm_S4umeYgJSdeoNNC8v5hD8EEHIWQO3QQiJm173HYrWfsdWsR9DfSDKfz3kkCE9aKgLFR-9N6fiqv5n4DtTkOYbTOl2rGdPOiZsdzC6S-_ot3gnvvjJ_At3AkoeTpx14wqnecrSlJ1NDusREJArfefduqo12pwYmA3vgKJoBmdQHOtdnl3kpV_dd62ZRTRk7-4y5-Q1gUw5gVGQrGgOp2iagVOV4q0AnlCQh9JSoMrI50PHUPpLvd5UJEdA57hH9JscKWBZpP16zrheTXEKLNppTe0Oy7C9dwGUPA190lQjAb-URy4zA.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4464,7 +4592,7 @@
       "id": 194209,
       "date": "2026-08-09T22:01:56-03:00",
       "text": "Após reivindicações de direitos autorais, Taylor Swift conseguiu a remoção de músicas suas de posts de campanha de Donald Trump.\n\nOs vídeos, que usavam faixas como \"August\" e \"Father Figure\", foram silenciados e já não exibem trilhas da cantora. Em uma provocação explícita, um dos posts dizia: \"Tenho certeza de que @/Taylor Swift vai ficar super animada que usamos sua música!”\n\nO presidente dos Estados Unidos já havia compartilhado imagens geradas por IA que mostravam a cantora, que declarou apoio à Kamala Harris, aprovando sua candidatura em 2024. Ele afirmou que Taylor “sempre apoia democratas” e que “pagará um preço no mercado por isso”.",
-      "photo": "https://cdn1.telesco.pe/file/CZh6aTFGvDpeVHkoHAA7QR5JZLtJyyTXkTMzrufynoNt6I45hf47-0MAGbTuEzy-4wbZGMvApdUJc-4DF0Si_DZEIWJ9vd8zaC7z5TAbSxESPVODVAOoYNdX5etWu3vk1jhLAWpiIJBP8JCLjqHUHjMcVwP_mteS3XQoZtV8mcFVQ-N0NCpW-h_PKTzQ8ER2piLo3qPJ2eqcOH8s4IPiL7mp7EriaXOunf-HkK20tMKo_UwFsPXvAHgwB1q_Hvz-61ENtDqBM2x44xPJTffqVuAnnDeKO_EoSb0vrD35v_Kquoj4SOF8uYnATgQcif7V7ScUqQUTHzLr5A15uBeuYA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/kLTgExPZKsyIpmjBM_4yBgU0Ng6OLPUwi-d-pzgI5xggapxmJ58q5cNNeyAtIzkGzWdWs21eQQS_Ehk2r-cFr0PJxZ-Gmq7fIBt5T9c6pSk2cCQ-e1fJMlpavQ06YViH21brBC6e2cjoys0VvBX7qm7wcRDsock4sbwP_vhBWpDs2UTf5QcW63ITebTYLVhERmcu9p2N099MWGJ-ZJEWA3YbdIhPuk-Z7XItSsTlQxCGuRmfsthHhmzUjGVJfJOPDT9tiahY-3zTw85q0GrO77OS-0qlqmcvBo6aVBUif4MMu7B1CBptANI62ukUwB2XULS71IAD34mLB0dkhhOLwQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4501,7 +4629,7 @@
       "id": 194208,
       "date": "2026-08-09T17:42:22-03:00",
       "text": "🤠 Vem aí! A Fazenda 18 estreia no dia 14/09 e já tem uma lista de possíveis participantes rodando pela internet.\n\n• Anamara (Maroca), ex-BBB\n• Ana Paula Siebert, empresária e esposa de Roberto Justus\n• Boca de 09, influenciador digital\n• Brenda Paixão, campeã do Power Couple 6 e ex-participante do Brincando com Fogo e DFCEx\n• Daniel Erthal, ator ex-Malhação e vendedor ambulante\n• Dhomini, campeão do BBB3 e ex-participante do Power Couple\n• Eike Duarte, ator e ex-baixinho da Xuxa\n• Gaga de Ilhéus, humorista\n• Hadballa, ex-BBB e ex-jogador de futebol\n• Laellyo Mesquita, estilista e influenciador digital\n• Malévola Alves, influenciadora digital\n• Marcelo Alves, médico e ex-BBB\n• Matheus Freire, ex-DFCEx\n• Nicholas Torres, ator e ex-Carrossel\n• Novinho, ex-DFCEx\n• Rafael Cardoso, ator\n• Raissa Simões, ex-BBB e palhaça\n• Rayne Luiza, influenciadora e ex-esposa do participante desistente do BBB26\n• Sol Vega, ex-BBB",
-      "photo": "https://cdn1.telesco.pe/file/p2o92LwycwDHRYuhCtC3IrJEqEvsXgrG2EI9ngurvWwo1L1yIqpZ8jfc2ahHaGz0Qxf9qe5qZ0WYbDNFUfHXvIsn_IQX9GcHkBGLCCckB5djDQJ7TC9kjQFF_jp-iftSIj-MUQoiKB3aNeFLJpW_Xt3WU8RMtl1YVm8aMXJHkw_Nhaqayp1nxR6fjAX4pz_DCvGa5CZwS3k6Xgivxelv8kjtSAqEJEF62dvPn26mVYh8gOTxhjYnib9zgN5MhK5VYuhXmd_JgkRUFYA5omGFHbyhRBFGXDgQMOzaYfixZKvvv8j-ezW5Ai6VuLhCDSfcXXV5alA5c2mCzIY7voa7mQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/VyXn916aUTe54d9Xim2aIEo5_PuB0L5AUE51jL8TzCBYqvyUVPcCvAwb93pAUZgmobUgqMjWdVpCVVUqik66XeDi4BWdff4oU6-El2nKbsKNC5qvAoWwmIkXaNHPiUqAL0dg3SQCyyjbHb3vjCPRmilElZe_oXxBtE6MIkjfptLy3FAXRF28DTxzInq5IupeNd1MR1hYct6vr-y7kMqrqw2tkopEK224UUA0guaPuFf9zvhVr9wu1HgioDPagWE-nVgboFn4UvAyyIDy1A9ez6XY2U0khI16hMllZYvmUWfOsZVZ9WdybygejmvLTMLTDmhf7t4Dg82ftpVGb27V6g.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4542,7 +4670,7 @@
       "id": 194207,
       "date": "2026-08-09T14:33:31-03:00",
       "text": "🇧🇷 Dia de vitórias! Flávia Saraiva brilha em Brasília com 4 medalhas e Rayssa Leal conquista o título da etapa carioca da SLS Rio Takeover.\n\nA ginasta conquistou medalha de ouro no solo, na trave e no individual geral feminino, além da prata nas barras assimétricas do Campeonato Brasileiro de Ginástica. Além disso, foi a atleta com o maior número de medalhas entre homens e mulheres.\n\nJá no Rio de Janeiro, a skatista foi campeã da terceira etapa da temporada da Liga Internacional de Skate Street. Já havia vencido a primeira etapa na Austrália e agora se coloca em posição privilegiada para disputar o Super Crown em São Paulo, em dezembro.",
-      "photo": "https://cdn1.telesco.pe/file/BnPZkgORIgO1XSXRyHqUZu96m5L68kNns8JnBkxmkOXmrdZXuABZcc71HFoh8AF8y95pOhrb3sG9YtRhOpRhoq-kqnv0OGjKCuyUgUEcegOcnObX4AT7mfVs5Sm4Sc0pgZ2-C_SGvbh1q9K2BC7w4ZbxQMPyyRcP9uvBldT_kVIb-5lrdK5kv62NYKsu1DhWn4Iq2fQrWleJhe2I26Y2B3xpqVgAuB9y31PI1dlAEsllQ7ruYTrC1xj-ctWPU8of5b85SKmWMVCP5ZzmUJg141ONK88O6iTd5mt3VJuktMbR2hBI3SMPy1Oa8A6K3_5HVSIlfDQ6NLmpVHBwhkh_BQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/vYthAFMRONqqMVrthllR4fAWxROPecqTWt8Loe9shXCGCHUkPy2SVb2SWV9Sho0LDJHqXPT9qWCCwcnCp4WSdsFxpgguYqGeQvYM90UdDWmY6Z04taS5Bz6VXh7wNlU2JVs9eC3sDvFC-wdfXxdNfA63k3md4X1m-sIAN46UvzNaqkBscZ0qFpQkqh6aWRNLQBVDXRQAY-PvGIh7AHDczHjKvvG30sGRLaC8HfmwXXc4oqObl6rpzzTxdq03aI88xE-4UUAAKpBGEFOOOAgi3DqeQu-F4BaVzKtKHm8eYhnpnNuzMBQBNRhH1hn5YHdek-17YsdPPsSBVNxqC2r5uQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4567,7 +4695,7 @@
       "id": 194206,
       "date": "2026-08-07T09:09:03-03:00",
       "text": "⭐️ Confira as candidatas do Pagode.\n\nVick Nunes.\nAtua profissionalmente há cinco anos, mantém um projeto solo e lidera o “Pagode da Vick”.\n\nJulliana Franco\nAtualmente, comanda a direção musical dos próprios shows.  \n \nHanaya.\nJá participou de shows de Marvvila, Xande de Pilares e Vitinho, incluindo uma parceria com Xande de Pilares.\n\nBruna Bento.\nCompositora desde a adolescência, afirma ter cerca de 30 músicas escritas.\n \nDandara Luanda\nAprendeu tudo na prática, sem aulas de canto, e tem no pai, trompetista de uma filarmônica, sua principal referência artística.  \n \nArissa.\nSeu nome ganhou projeção após viralizar interpretando clássicos internacionais em versão pagode. Na internet, ficou conhecida como “Wandinha do Pagode”.\n \nEsther Nunes.\nEm 2024, conquistou o segundo lugar no festival Canta Cabo Frio, onde dividiu palco com o Imaginasamba.\n \nJapa \nAtualmente dedica-se à gravação de um DVD para divulgar seu trabalho. Seu maior público até agora foi de 50 mil pessoas durante o Carnaval de 2026.",
-      "photo": "https://cdn1.telesco.pe/file/aTAGjVwzF8lru3PaOqk54v6kce81hrw44-zFjJ63ga6pB7K0X7H-kMNd5s-fg3u_o92Uj5z997ozk8Z5qh6Zl6n76naZFlTI6wV8aaSnP_DSoRBNBAMrUpN3u7NBLSuhmKRFO-nPqvQrRg5XdOU1DJtO2iRc7Jg_tobU2wjnhN23RDk9TbbfHokIPMDaFIrcwASZJ0NGVpca0SynK45msVGhqRxwb4YjhsyYP_gkP3mSyVA7i9pTDhvc1w_SY1Cf_GTAgqdRN9-dTXMNtDrtkqClXsnwUdsz0Sxf-XHiWvIaeYRBpzKaVaixSUislL8FFIt0YPMx_DvxpXMvupAaYQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/vKz4qJX9ZS-BcM5HkkA71lsKMqNQYDSeXpcAf6ULQvjd72QnegFxQ_GA433NqnwDDRxiaPVKqnm-zNyteTlMnVaVR7-1X9Ar_X_3XT-V9sXP6br9q5enbZpI6gLhLCa-Pj69hBhyzWHWg8apwwOHluqrwZ9nmhZGWNpdHtZ_9C3WWiWgMlFVcLPYWXTEI89mE_ryImu1Q2IWBzTSnTme8CITOIkxtFcOONnwvwdE5RyDoVqA_4uHaJE_eIJyzc-bw5OEczjpgiiymXaqUwldNa8M3CMrpp2CBxRY2W8sUernC5h1kdZoSjDi0WRGbRA41hTdq-3EIKOW_FD2g8ueeg.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4612,7 +4740,7 @@
       "id": 194205,
       "date": "2026-08-06T23:25:40-03:00",
       "text": "🌟 Conheça os candidatos do Pop para o ‘Estrelas da Casa’.\n \nPeu Heise.\nAtualmente, integra a banda Tamarins. Toca violão, guitarra, piano e baixo. \n \nBruno Gadiol.\nEm 2013, participou de um concurso musical no ‘TV Xuxa’ e saiu vencedor ao lado de outros três participantes. Também construiu carreira como ator, com passagens por ‘Malhação – Viva a Diferença’ e ‘As Five’.  \n \nFilgueira.\nAinda criança, começou a chamar atenção pela voz ao imitar canções de ‘O Rei Leão’. Recentemente viralizou imitando Marina Sena. \n \nGabriel Nandes.\nJá compôs com Xamã e assinou a trilha sonora do filme “O Velho e o Fusca”.\n \nYudchi.\nPossui formação em jazz, balé e sapateado desenvolvida em Los Angeles.\n\nEnzo Cespom.\nFaz parte do grupo vocal Acidentalmente Amor, que cria versões em português de músicas internacionais.\n \nRob Miranda\nAtualmente está focado na produção de um novo álbum e pretende sair em turnê após seu lançamento.\n\nÁlec.\nConhecido pelos vizinhos como o “Michael Jackson do Pará”.",
-      "photo": "https://cdn1.telesco.pe/file/MsQ8PUhHxEQ95rfxSPQ5L-u1RMr0oBb98amqSQtL5YXZq3kbk3hT0YVhxrXm0iB_eKxLj4ps_PQ6TK0ppNp3B97_OrNZsWHif-9GQ_Hi6lKq5_QG9MP2Q3C1OJLxOUYtDygRPnaPjZ1SqK2D4optP3ZDCNup8yAGPL4dTosgYfzt4syZcjG2KY9yujOiJaYgrdsISFH28QjViAW3i6B8dPIjRKNI1F5jZN34EV44T1j9KCpXRjavYYAHKP9f_tHfUqEESImjMIya8yb9ybp7Uay9K8F9U3eUexkIXLPCJVhSWoFw4EmZH0m__c8v7zSUXKhmjba149uufQ8dUMCfUQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/oLCeaTw5HFiX-maLb5PcOXv19-hIJymiVFsIW7vrioRtPY_OXkdWwYUyvlyfYS72r7DHBScAxndCxXoc10iZMeH06WrjcvzCznY6FUW9rtS9CSOn4D5XymdHnac11oCvgkQlb-EIT1GZ3c3HEONV2y485u7I-xlT3p3mJZvjLqStkFgKcKqXJRs10IYHQ7qLDgysaKoq9f-5jNqgkI8qdyqHAp90JaUAJu9PcIdwxHaXjo2ROBKLGb9t0pBYzAkZRl_7Omh_wjANY8g7wRsWtxTvc3ZoJY1xj86d3V21P5H1XO1LdSks_XsQiLd1tnJS4aBCeVeN2y5-6NzvBB02og.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4661,7 +4789,7 @@
       "id": 194204,
       "date": "2026-08-05T12:32:59-03:00",
       "text": "🌟 As Estrelas da Casa tão vindo aí! Nos dias 6 e 7, durante a programação da TV Globo, você vai conhecer os candidatos da nova temporada! Todo mundo pronto pra escolher seu fav e puxar torcida pro time Pagode ou Time Pop?\n\nDia 25 de agosto, estreia a nova temporada!",
-      "photo": "https://cdn1.telesco.pe/file/JONh2MO-h9crR3DAZ7t9PBOf7lRchLOi9Sqqa-JYK-xVnq7VQDK_luR_vOl3x5_7Ad8qUYGfTto7Om_LSMfA2gV0SnYmEZUamSYhHB7jcqdmIDNRKksW5UsZQJThrAZqo0j6MfSyU7whePe8crAufh85CPzUMZt--frvHCngDq5GI9WdmqQW0nt86aeFJxxa4nrVJwn9hrSCpMqu37MsSEsI86KXT5nC2qN_vN7oQvL7RCzy6Egec6MIkuhdogATVi-1c0Wzdfx97LjNakFchICw7wh2Qdc1D6g4WDe6ukSMw8S5zuoE0P3RqDFVNq3opaAwpWEdo-7N530ykJI9sQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/IoMWZg0hJ7sIKp42QJIbHQ3yQwuBz6-Mn8jjRDkyf3VLZuWKs1AZlIdLF5dMPAyF_p-7qv-eYDQ1psxwdUXb9sx1kuQP-YlawGF71d6vN5bdzQeh5bteFBKxMIORmvv8ai-wIpl4EF4iGo1sVPfigFxUQPbew1Z3O4_m5o9M651KLYVdVl2vIU_OSSwRN0PDciWCRWHGnORp8JVztIg9LXCfRNOtXkFNd6ClHZaiGYdyeJf9r2W9xJO6Xco0JSZ65Kerr5wEOaoPI2sLc9t37cS9BAKeDTsLMWn38m0xyrnL3KFq4Oflcc7p-GFOWrokjL9IGN-uRc8mgfQ9n1k2UQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4714,7 +4842,7 @@
       "id": 194203,
       "date": "2026-07-31T14:25:19-03:00",
       "text": "🎤 Conheça o novo time de técnicos para o The Voice Brasil 2026.\n\nO SBT e o Disney+ anunciaram, nesta quinta-feira (30), os novos jurados do The Voice Brasil 2026. Do time anterior, sobrou apenas a dupla sertaneja Matheus & Kauan. Já os novatos, são Lauana Prado, Paulo Ricardo e Diogo Nogueira.\n\nA apresentação será de Tiago Leifert, enquanto a direção continua sob o comando de Boninho.",
-      "photo": "https://cdn1.telesco.pe/file/JxaKmirHkUnSy97q7i7Fnp9jRGa_YUHwn8Lvaj5Q9OJjuxNb41UtSlysITyfy9pAH50krZM3Bbl1ktah25U5dJBCVk87ErrJe53M2A50LFqGnDsKsewj9fNo86IM8HKDzCng7ReE0HgsjkGWfdKyG-Ie0artVXxQdQKODtE2rVAKAJCeDNGxDnmNfBEpMssBTeb6glfyzP54GbyE6sTDOfasgX5dVvSfW_vsgmIw-rZk9lO65D4Xw8XnUcuk1R5SS6wLxQ0dyilzMJVzJP1zuiDXv1ldwI2Cb4dJuP6tKiR5UlrgzWGaqP8woGCPUEScAd_pVbLQCWFbZPUnIErw8g.jpg",
+      "photo": "https://cdn1.telesco.pe/file/JcNZe7CccOEnHZk4rp1IXH-xAw6JImazS0VHJV15eisx95rdSJgXN_z285rntiT6HR_91fVsuXcBTWVq9Ydb7SL2w-5jLa1lsBcUuO0inLFPvB3su_6qMyEkAJWBfmHeDsQSdch26WWBG50X1xvsRN1JsZ1yN8dVpzpMXyT9Sk_7qUDOOG7QkyZKyFIEqFH0p4K5zy-Arri5fanN1iNnW7hXB29z3HkYu8NCc8ZWDjnfd3h21KxvGgH8yTOAAJ5zo3ZPiauqkQOoqlOoXL7PfFK79xeHa_GPUPNVh7NQi8V8hEDCwxFrEOkEpUHWx0wtv5wJnSVQtgRonk7Iwu9t7Q.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4767,7 +4895,7 @@
       "id": 194202,
       "date": "2026-07-28T16:41:21-03:00",
       "text": "Disney se reúne com Macaulay Culkin para um NOVO filme da franquia ‘Esqueceram de Mim’.\n\nA informação foi revelada pelo jornalista Matt Belloni no podcast The Town, que afirmou que o estúdio está \"extremamente ansioso\" para trazer o ator de volta, mesmo após anos de recusa.\n\nCulkin já teria apresentado uma ideia para o projeto, que vem sendo elogiada nos bastidores. Na proposta, Kevin agora é um pai solteiro que tenta conciliar o trabalho com a criação do filho. Com o relacionamento entre os dois cada vez mais distante, o protagonista acaba trancado para fora de casa e passa a enfrentar as armadilhas preparadas pelo próprio filho. A residência funcionaria como uma metáfora para a relação entre pai e filho.\n\nO retorno do ator ainda não foi oficializado. Em 2025, Culkin afirmou que não descarta reprisar o personagem, mas ressaltou que o projeto \"teria que ser perfeito\". Por isso a Disney segue trabalhando para convencê-lo, já que acredita que sua participação seria o principal atrativo da produção.",
-      "photo": "https://cdn1.telesco.pe/file/pXL1ReiQ17G3dOMNxFb62vxzcsSiR-Ho-aaU75LAHP9Bg8Fyrgp2_txHyyHBCUsp1JmbhFUFZ9CpX-r0t1WDF9_dYZuHse9fWZfQuo6QzHs6lKk-ifPhLkickEEJV2mvtQtjGqrNs05I1h35G2QEXvokcNdNWkKdg27t227nttSsyH8q5X3ASO14wzKRBzdkGKdjnsOl9yenfEdvk4wdkXwkmI_qKwJ0HEnyk6Hh9SGFWSf0f8NPD_dhQc5MEz-oDpLa2NWuQITSy9G9SS8rojB-xp8JA5nb2cIZGCjAc1QumnVjnQI8lUTwHkSZWbLFbgFfqda346XqcWekNnzeBQ.jpg",
+      "photo": "https://cdn1.telesco.pe/file/fjQ6d5igS3sgeAsKCju5Jr5pUSer9wJ3SC9T9D4PvT0OsG6IwClpkhJc6uKJf5R-2hgnC_CrWFsfQeEUx0lTyOfJPBn3XXvaSkWgf7HnhNkr3xSdpWa1tnW7HN0Q2eEudKV5VcKtuOKygAK4_8maUnKyAvZSId71mlhtpxhU5806_T_uoIh_ukOqwAX88WDPOzBkvQLYGb3nC89DZ9Zj_HiOFstXv10sMPeCtLVJWycmxOf-X9siNFCZXZmP1eyNlahLG3LyaKrKfrelBBpvDiCI1nZMjsHetFPFwLrCPCnT3rioqVzt5RnF_zb5cPz4MSvBVlxp06Sy7sakfhYoHw.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4812,7 +4940,7 @@
       "id": 194200,
       "date": "2026-07-24T17:15:02-03:00",
       "text": "Christian Chávez, do RBD, pode estar em A Fazenda 18, revela Dudu Camargo.\n\nSe isso se confirmar, será uma das maiores contratações da história do reality da TV Record.",
-      "photo": "https://cdn1.telesco.pe/file/M2rny0nJU8pMxfMhawFAYs53IUoPx86EvTFgbmDoEParl_Z5FEGrJkLFwSPd91C9OldCk05kZhyxjNDFEFniO21_DEGncqHOJSS6KDTvptZgOCRrWbYAiQUNJYGCnbQruvBg6r67rvCcA0AUuhweS-svS5N6WiL0J7PcaAAgxTCTXOSR-iDZmA0tiaQX5gQUPqHsmyZJe7OXmzY1WUuQfcxwLD1OrqYh-2x8giP8c9kK0cQvO5ffxhURWLyZDSOav_S0-9jCs3ljaJm_MZ4X2breiqDSFYHoGYLYbpBQy8UpJQccnfbQikg23DC8Lx8EN9Krx5gbtgUJkTSSrGkWSA.jpg",
+      "photo": "https://cdn1.telesco.pe/file/uF4EHFXmNoIhWoj7HtqPouk3GfwHi3u4nvnNUBp32plbcgf19T7vwrz4THy530RlVP0yz_BOgXoUD0Bl5bxcnH1P9uo1KeUuaAtGrMzGvieG3lecRvQgQFbi_zsfLq4earMZF78tKKJdsRzCsie28bwwQqLJC-iXCAthDJ8qrlGWUKwbLli6cLI_yVfKolb1oQuDrypFopCQx7Me5FEbZ_-dlIigtEHpheCNe2aVcQkFbRI4senh5b70xrVSeoYmxhjha5EF7kcFBNVqa4woTn9N-Fg1sSHFknm_iJqQEA-ihica70S9iXajCFrPT5B6T9jMUjGiJ5XxkOR4j8fBdQ.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
@@ -4857,7 +4985,7 @@
       "id": 194197,
       "date": "2026-07-23T13:02:23-03:00",
       "text": "Internautas pedem pelo menos um ex-BBB 26 no elenco da Fazenda 18.\n\nQual sub você queria gostaria de acompanhar no reality da Record?",
-      "photo": "https://cdn1.telesco.pe/file/PbQtPUvyS5YP-Xhax7eR2TvOBoCRBmgoOFg2o5AOW6olKMLFc8iDH3t601wSReaq9bz5C0DckqtTSLtah0U2SobsN7WKJvqKdZBlAXJ6DTc2kdYQj5sOjJ8StH3_YfX3Pv-BG5Vt9sJiyxmxkLq9fHBIYTg09AOvo8JBKGw7AfldgQ4uoFkYI6bshZOtwNVYRgwWKfVN7Ncea8SXQXdj7xtstfzoBwL7S6bpCDRrshPkSHS9a_2zoASzjzYG1EHgHStjrTfeMysu6NQSHp-wNqEoZ1euWPkT1birs7VCOIgTEPYXivDs8JLZ2UhkEKc3HzZc2fyy7YYp6e3kp_My9g.jpg",
+      "photo": "https://cdn1.telesco.pe/file/omxgVWnLNwAq3s1fKz74I9fWw5Pzc_zHiXcRajBKqsfNe9H4IB_8NcZV-QKgez3cBothL_bKgemwlovr4UnzZQbpe9KM047JWg_X2zXhaxjE-lNPwvvEF7gZ_dei_0IjTFL5AMvREDVeqjuGJZ6yp1MJ9OC8pzd2eATx2kTt7Y-APYRQGgXbayUQwO0rDNvNTFVElXspj20rMVmF2PzKI16IKH2hPFNF3OC7nf0l6xeSGsyXQwKUBS7pCje_A7BdEIe2VNQFOvtzJlj9d567FlkUoXnQ8wqKNgc-Yb2cnxI8I3O7B7m37gvceas8mD7QGMUtzYluuAhW_PC-4ela2w.jpg",
       "video": null,
       "hasMedia": true,
       "mediaType": "image",
